@@ -1,0 +1,3 @@
+Rank | Name | Position | Team | Overall Score (0-100)
+ 1. Shohei Ohtani (Batter) | Util | LAD | 100.00
+ 2. Gleyber Torres | 2B | DET | 0.00

@@ -1,0 +1,600 @@
+﻿
+
+Aaron Judge
+Aaron JudgePlayer Note
+NYY - OF
+FA
+1.0
+1
+1
+100%
+1.18/3.56
+0.90
+1.18
+0.20
+0.01
+0.35
+0.75
+0.08
+0.82
+0.05
+1.05
+2.45
+.331
+.688
+
+
+Shohei Ohtani (Batter)
+Shohei Ohtani (Batter)Player Note
+LAD - Util
+FA
+1.0
+2
+2
+100%
+1.09/3.87
+0.92
+1.09
+0.16
+0.06
+0.35
+0.65
+0.13
+0.69
+0.02
+1.18
+2.41
+.282
+.622
+
+
+Bobby Witt Jr.
+Bobby Witt Jr.Player Note
+KC - SS
+FA
+1.0
+3
+9
+100%
+1.17/3.97
+0.63
+1.17
+0.30
+0.04
+0.15
+0.56
+0.24
+0.31
+0.05
+0.80
+1.99
+.295
+.501
+
+
+Juan Soto
+Juan SotoNo new player Notes
+NYM - OF
+FA
+1.0
+4
+8
+100%
+0.95/3.61
+0.75
+0.95
+0.13
+0.01
+0.27
+0.66
+0.24
+0.79
+0.02
+0.86
+1.89
+.263
+.525
+
+
+Elly De La Cruz
+Elly De La CruzPlayer Note
+CIN - SS Contest Eligible Player
+FA
+1.0
+6
+277
+100%
+1.02/3.88
+0.63
+1.02
+0.19
+0.04
+0.14
+0.53
+0.23
+0.41
+0.01
+1.12
+1.71
+.264
+.440
+
+
+José Ramírez
+José RamírezNew Player Note
+CLE - 3B
+FA
+1.0
+7
+7
+100%
+1.06/3.75
+0.65
+1.06
+0.22
+0.02
+0.19
+0.54
+0.28
+0.42
+0.05
+0.47
+1.89
+.283
+.503
+
+
+Kyle Tucker
+Kyle TuckerNo new player Notes
+LAD - OF
+FA
+1.0
+9
+32
+100%
+0.98/3.68
+0.67
+0.98
+0.18
+0.03
+0.16
+0.54
+0.18
+0.64
+0.03
+0.65
+1.71
+.266
+.464
+
+
+Julio Rodríguez
+Julio RodríguezPlayer Note
+SEA - OF
+FA
+1.0
+10
+29
+100%
+1.09/4.08
+0.66
+1.09
+0.19
+0.03
+0.20
+0.59
+0.19
+0.28
+0.08
+0.95
+1.93
+.267
+.474
+
+
+Ronald Acuña Jr.
+Ronald Acuña Jr.Player Note
+ATL - OF
+FA
+1.0
+12
+58
+100%
+1.03/3.56
+0.78
+1.03
+0.13
+0.01
+0.22
+0.44
+0.09
+0.75
+0.03
+1.07
+1.84
+.290
+.518
+
+
+Gunnar Henderson
+Gunnar HendersonPlayer Note
+BAL - SS
+FA
+1.0
+13
+262
+100%
+1.03/3.75
+0.55
+1.03
+0.22
+0.03
+0.11
+0.44
+0.19
+0.40
+0.05
+0.89
+1.64
+.274
+.438
+
+
+Junior Caminero
+Junior CamineroPlayer Note
+TB - 3B Contest Eligible Player
+FA
+1.0
+14
+35
+99%
+1.03/3.91
+0.60
+1.03
+0.18
+0.00
+0.29
+0.71
+0.05
+0.27
+0.02
+0.81
+2.09
+.264
+.535
+
+
+Fernando Tatis Jr.
+Fernando Tatis Jr.Player Note
+SD - OF
+FA
+1.0
+15
+42
+99%
+1.03/3.83
+0.72
+1.03
+0.17
+0.01
+0.16
+0.46
+0.21
+0.57
+0.04
+0.83
+1.71
+.268
+.446
+
+
+Jackson Chourio
+Jackson ChourioNo new player Notes
+MIL - OF
+FA
+1.0
+16
+34
+99%
+1.13/4.19
+0.67
+1.13
+0.27
+0.03
+0.16
+0.60
+0.16
+0.23
+0.02
+0.92
+1.94
+.270
+.463
+
+
+Cal Raleigh
+Cal RaleighNew Player Note
+SEA - C Contest Eligible Player
+FA
+1.0
+17
+5
+100%
+0.92/3.75
+0.69
+0.92
+0.15
+0.00
+0.38
+0.79
+0.09
+0.61
+0.06
+1.18
+2.21
+.247
+.589
+
+
+Vladimir Guerrero Jr.
+Vladimir Guerrero Jr.No new player Notes
+TOR - 1B
+FA
+1.0
+18
+61
+100%
+1.10/3.78
+0.62
+1.10
+0.22
+0.00
+0.15
+0.54
+0.04
+0.52
+0.04
+0.60
+1.76
+.292
+.467
+
+
+Kyle Schwarber
+Kyle SchwarberPlayer Note
+PHI - OF
+FA
+1.0
+19
+19
+99%
+0.90/3.73
+0.69
+0.90
+0.14
+0.01
+0.35
+0.81
+0.06
+0.67
+0.07
+1.22
+2.10
+.240
+.563
+
+
+Corbin Carroll
+Corbin CarrollDTDPlayer Note
+AZ - OF
+FA
+1.0
+20
+11
+99%
+1.02/3.94
+0.75
+1.02
+0.22
+0.12
+0.22
+0.59
+0.22
+0.47
+0.05
+1.07
+2.13
+.259
+.541
+
+
+Nick Kurtz
+Nick KurtzPlayer Note
+ATH - 1B
+FA
+1.0
+21
+16
+99%
+1.04/3.59
+0.77
+1.04
+0.22
+0.02
+0.31
+0.74
+0.02
+0.54
+0.02
+1.29
+2.22
+.290
+.619
+
+
+Pete Alonso
+Pete AlonsoPlayer Note
+BAL - 1B
+FA
+1.0
+22
+27
+99%
+1.05/3.85
+0.54
+1.05
+0.25
+0.01
+0.23
+0.78
+0.01
+0.38
+0.09
+1.00
+2.02
+.272
+.524
+
+
+Jazz Chisholm Jr.
+Jazz Chisholm Jr.No new player Notes
+NYY - 2B,3B Contest Eligible Player
+FA
+1.0
+23
+282
+99%
+0.86/3.55
+0.58
+0.86
+0.12
+0.01
+0.24
+0.62
+0.24
+0.45
+0.05
+1.14
+1.71
+.242
+.481
+
+
+Trea Turner
+Trea TurnerNo new player Notes
+PHI - SS
+FA
+1.0
+24
+22
+99%
+1.27/4.18
+0.67
+1.27
+0.22
+0.05
+0.11
+0.49
+0.26
+0.30
+0.04
+0.76
+1.91
+.304
+.457
+
+
+Zach Neto
+Zach NetoPlayer Note
+LAA - SS
+FA
+1.0
+25
+57
+98%
+1.01/3.92
+0.64
+1.01
+0.23
+0.01
+0.20
+0.48
+0.20
+0.26
+0.11
+1.16
+1.86
+.257
+.474
+
+
+Francisco Lindor
+Francisco LindorDTDPlayer Note
+NYM - SS Contest Eligible Player
+FA
+1.0
+26
+21
+99%
+1.08/4.03
+0.73
+1.08
+0.22
+0.00
+0.19
+0.54
+0.19
+0.41
+0.10
+0.82
+1.88
+.267
+.466
+
+
+Ketel Marte
+Ketel MarteNew Player Note
+AZ - 2B
+FA
+1.0
+28
+13
+99%
+1.08/3.81
+0.69
+1.08
+0.22
+0.00
+0.22
+0.57
+0.03
+0.51
+0.07
+0.66
+1.97
+.283
+.517
+
+
+Brent Rooker
+Brent RookerNo new player Notes
+ATH - OF
+FA
+1.0
+29
+167
+99%
+1.01/3.86
+0.57
+1.01
+0.25
+0.02
+0.19
+0.55
+0.04
+0.40
+0.03
+0.96
+1.85
+.262
+.479

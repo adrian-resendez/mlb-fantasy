@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Shohei Ohtani (Batter)",
+    "team": "LAD",
+    "position": "Util",
+    "R": 0.93,
+    "H": 1.09,
+    "2B": 0.16,
+    "3B": 0.06,
+    "HR": 0.35,
+    "RBI": 0.65,
+    "SB": 0.13,
+    "BB": 0.69,
+    "HBP": 0.02,
+    "K": 1.18,
+    "TB": 2.41,
+    "AVG": 0.282,
+    "SLG": 0.622,
+    "z_score_total": 7.000000000000002,
+    "overall_score": 100.0
+  },
+  {
+    "name": "Gleyber Torres",
+    "team": "DET",
+    "position": "2B",
+    "R": 0.55,
+    "H": 0.7,
+    "2B": 0.18,
+    "3B": 0.01,
+    "HR": 0.14,
+    "RBI": 0.48,
+    "SB": 0.08,
+    "BB": 0.4,
+    "HBP": 0.03,
+    "K": 0.82,
+    "TB": 1.4,
+    "AVG": 0.25,
+    "SLG": 0.42,
+    "z_score_total": -6.999999999999999,
+    "overall_score": 0.0
+  }
+]

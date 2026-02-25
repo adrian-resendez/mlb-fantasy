@@ -1,0 +1,27 @@
+Rank | Name | Position | Team | Overall Score (0-100)
+ 1. Aaron Judge | OF | NYY | 100.00
+ 2. Shohei Ohtani (Batter) | UTIL | LAD | 79.10
+ 3. Corbin Carroll | OF | AZ | 67.87
+ 4. Bobby Witt Jr. | SS | KC | 63.51
+ 5. Nick Kurtz | 1B | ATH | 60.83
+ 6. José Ramírez | 3B | CLE | 58.80
+ 7. Trea Turner | SS | PHI | 57.09
+ 8. Ketel Marte | 2B | AZ | 53.52
+ 9. Cal Raleigh | C | SEA | 52.80
+10. Francisco Lindor | SS | NYM | 51.55
+11. Juan Soto | OF | NYM | 51.02
+12. Pete Alonso | 1B | BAL | 50.64
+13. Kyle Schwarber | OF | PHI | 48.42
+14. Julio Rodríguez | OF | SEA | 46.73
+15. Jackson Chourio | OF | MIL | 43.44
+16. Vladimir Guerrero Jr. | 1B | TOR | 40.77
+17. Kyle Tucker | OF | LAD | 40.76
+18. Ronald Acuña Jr. | OF | ATL | 39.81
+19. Junior Caminero | 3B | TB | 39.14
+20. Zach Neto | SS | LAA | 38.03
+21. Fernando Tatis Jr. | OF | SD | 35.54
+22. Brent Rooker | OF | ATH | 30.17
+23. Gunnar Henderson | SS | BAL | 28.69
+24. Elly De La Cruz | SS | CIN | 26.52
+25. Jazz Chisholm Jr. | 2B,3B | NYY | 21.97
+26. Gleyber Torres | 2B | DET | 0.00
