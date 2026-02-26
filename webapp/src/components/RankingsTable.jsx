@@ -21,17 +21,27 @@ export default function RankingsTable({
   sortConfig,
   onSortChange,
   showContributions,
+  selectedPlayerKey,
+  onSelectPlayer,
+  showCategoryValueScore = false,
+  categoryValueLabel = "Category Value Score",
+  categoryValueTooltip = "",
 }) {
+  const headers = showCategoryValueScore
+    ? [...HEADERS, { key: "category_value_score", label: categoryValueLabel, sortable: false }]
+    : HEADERS;
+
   return (
     <section className="table-surface overflow-hidden">
       <div className="max-h-[70vh] overflow-auto">
         <table className="min-w-full border-collapse">
           <thead className="table-head sticky top-0 z-10 backdrop-blur">
             <tr>
-              {HEADERS.map((header) => (
+              {headers.map((header) => (
                 <th
                   key={header.key}
                   className="px-4 py-3 text-left text-xs font-semibold uppercase tracking-wide text-soft"
+                  title={header.key === "category_value_score" ? categoryValueTooltip : undefined}
                 >
                   {header.sortable ? (
                     <button
@@ -55,13 +65,19 @@ export default function RankingsTable({
             </tr>
           </thead>
           <tbody>
-            {players.map((player) => (
-              <PlayerRow
-                key={`${player.name}-${player.team}-${player.position}`}
-                player={player}
-                showContributions={showContributions}
-              />
-            ))}
+            {players.map((player) => {
+              const playerKey = `${player.name}-${player.team}-${player.position}`;
+              return (
+                <PlayerRow
+                  key={playerKey}
+                  player={player}
+                  showContributions={showContributions}
+                  onSelect={onSelectPlayer}
+                  isSelected={selectedPlayerKey === playerKey}
+                  showCategoryValueScore={showCategoryValueScore}
+                />
+              );
+            })}
           </tbody>
         </table>
       </div>

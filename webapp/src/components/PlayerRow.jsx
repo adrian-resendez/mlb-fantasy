@@ -27,22 +27,74 @@ function deltaBadge(rankDelta) {
 
   if (rankDelta > 0) {
     return (
-      <span className="chip chip-positive gap-1 px-2 py-0.5 text-[11px] font-bold">
+      <span className="chip delta-positive gap-1 px-2 py-0.5 text-[11px] font-bold">
         ^ +{rankDelta}
       </span>
     );
   }
 
   return (
-    <span className="chip chip-negative gap-1 px-2 py-0.5 text-[11px] font-bold">
+    <span className="chip delta-negative gap-1 px-2 py-0.5 text-[11px] font-bold">
       v {rankDelta}
     </span>
   );
 }
 
-export default function PlayerRow({ player, showContributions }) {
+function categoryValueBadge(value) {
+  const numericValue = Number(value);
+  if (!Number.isFinite(numericValue)) {
+    return (
+      <span className="chip chip-neutral px-2.5 py-1 text-xs font-semibold">
+        NA
+      </span>
+    );
+  }
+
+  if (numericValue > 0) {
+    return (
+      <span className="chip delta-positive px-2.5 py-1 text-xs font-semibold">
+        +{numericValue.toFixed(2)}
+      </span>
+    );
+  }
+
+  if (numericValue < 0) {
+    return (
+      <span className="chip delta-negative px-2.5 py-1 text-xs font-semibold">
+        {numericValue.toFixed(2)}
+      </span>
+    );
+  }
+
   return (
-    <tr className="table-row">
+    <span className="chip chip-neutral px-2.5 py-1 text-xs font-semibold">
+      0.00
+    </span>
+  );
+}
+
+export default function PlayerRow({
+  player,
+  showContributions,
+  onSelect,
+  isSelected,
+  showCategoryValueScore = false,
+}) {
+  function handleKeyDown(event) {
+    if (event.key === "Enter" || event.key === " ") {
+      event.preventDefault();
+      onSelect?.(player);
+    }
+  }
+
+  return (
+    <tr
+      className={`table-row ${isSelected ? "table-row-selected" : ""}`}
+      onClick={() => onSelect?.(player)}
+      onKeyDown={handleKeyDown}
+      tabIndex={0}
+      aria-selected={isSelected}
+    >
       <td className="px-4 py-3">
         <div className="flex items-center gap-2">
           <span className="text-sm font-semibold text-soft">{player.rank}</span>
@@ -64,6 +116,9 @@ export default function PlayerRow({ player, showContributions }) {
           {Number.isFinite(player.consensus_rank) ? `ECR ${player.consensus_rank}` : "No ECR"}
         </span>
       </td>
+      {showCategoryValueScore ? (
+        <td className="px-4 py-3">{categoryValueBadge(player.category_value_score)}</td>
+      ) : null}
       {showContributions ? (
         <td className="px-4 py-3">
           <div className="flex max-w-xl flex-wrap gap-1.5">

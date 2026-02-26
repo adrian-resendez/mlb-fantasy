@@ -39,6 +39,15 @@
   --border-strong: rgba(35, 40, 59, 0.3);
 
   --shadow-soft: 0 10px 24px rgba(35, 40, 59, 0.18);
+
+  /* Analytics palette */
+  --analytics-surface: color-mix(in srgb, var(--surface-card) 68%, var(--surface-panel));
+  --analytics-card: color-mix(in srgb, var(--surface-card) 76%, var(--surface-input));
+  --analytics-grid: #dbe2ea;
+  --analytics-axis: #8a97a8;
+  --analytics-accent: #3f6ea6;
+  --analytics-accent-soft: #90add0;
+  --analytics-muted: #9ca9b8;
 }
 
 * {
@@ -122,6 +131,16 @@ body {
 
   .table-row:hover {
     background: var(--surface-row-hover);
+  }
+
+  .table-row-selected {
+    background: color-mix(in srgb, var(--accent-info) 28%, var(--surface-row-hover));
+    outline: 1px solid color-mix(in srgb, var(--accent-info) 58%, var(--border-main));
+  }
+
+  .table-row:focus-visible {
+    outline: 2px solid color-mix(in srgb, var(--accent-info) 70%, var(--border-strong));
+    outline-offset: -2px;
   }
 
   .input-surface {
@@ -253,6 +272,137 @@ body {
     border: 1px solid var(--border-main);
     background: color-mix(in srgb, var(--surface-card) 80%, var(--surface-panel));
     color: var(--text-soft);
+  }
+
+  .analytics-panel {
+    background: var(--analytics-surface);
+    border-color: var(--border-main);
+  }
+
+  .analytics-card {
+    border: 1px solid var(--border-main);
+    border-radius: 14px;
+    background: var(--analytics-card);
+    box-shadow: 0 2px 8px rgba(35, 40, 59, 0.08);
+  }
+
+  .analytics-card-muted {
+    background: color-mix(in srgb, var(--analytics-card) 84%, var(--surface-panel));
+  }
+
+  .analytics-stat-card {
+    border: 1px solid var(--border-soft);
+    border-radius: 12px;
+    background: color-mix(in srgb, var(--surface-card) 78%, var(--surface-input));
+  }
+
+  .analytics-select-wrap {
+    width: min(280px, 100%);
+  }
+
+  .analytics-select {
+    border: 1px solid var(--border-main);
+    border-radius: 10px;
+    background: color-mix(in srgb, var(--surface-input) 84%, var(--surface-card));
+    color: var(--text-main);
+  }
+
+  .analytics-tooltip {
+    border: 1px solid var(--border-main);
+    background: color-mix(in srgb, var(--surface-card) 84%, var(--surface-panel));
+    box-shadow: 0 3px 12px rgba(35, 40, 59, 0.14);
+  }
+
+  .analytics-percentile-track {
+    border: 1px solid var(--border-main);
+    background: color-mix(in srgb, var(--surface-input) 72%, var(--surface-card));
+  }
+
+  .analytics-percentile-fill {
+    background: linear-gradient(90deg, #7fa2cc 0%, #3f6ea6 100%);
+    transition: width 260ms ease-out;
+  }
+
+  .methodology-shell {
+    background: color-mix(in srgb, var(--surface-panel) 74%, var(--surface-card));
+  }
+
+  .method-step {
+    border: 1px solid var(--border-main);
+    border-radius: 14px;
+    background: color-mix(in srgb, var(--surface-card) 78%, var(--surface-input));
+  }
+
+  .method-step-icon {
+    border: 1px solid var(--border-main);
+    background: color-mix(in srgb, var(--accent-info) 32%, var(--surface-card));
+    color: var(--text-strong);
+  }
+
+  .method-example-table {
+    width: 100%;
+    border-collapse: collapse;
+    border: 1px solid var(--border-main);
+    border-radius: 10px;
+    overflow: hidden;
+  }
+
+  .method-example-table th,
+  .method-example-table td {
+    padding: 8px 10px;
+    border-bottom: 1px solid var(--border-soft);
+    text-align: left;
+  }
+
+  .method-example-table th {
+    background: color-mix(in srgb, var(--surface-table-head) 82%, var(--surface-card));
+    font-size: 11px;
+    text-transform: uppercase;
+    letter-spacing: 0.04em;
+    color: var(--text-soft);
+  }
+
+  .method-tip {
+    border: 1px solid var(--border-main);
+    background: color-mix(in srgb, var(--surface-input) 76%, var(--surface-card));
+  }
+
+  .method-callout {
+    border: 1px solid var(--border-main);
+    background: color-mix(in srgb, var(--surface-input) 58%, var(--surface-card));
+  }
+
+  .method-equation {
+    border-left: 3px solid var(--analytics-accent);
+    padding-left: 10px;
+  }
+
+  .method-scale-track {
+    border: 1px solid var(--border-main);
+    background: linear-gradient(
+      90deg,
+      color-mix(in srgb, var(--accent-negative) 64%, var(--surface-card)) 0%,
+      color-mix(in srgb, var(--surface-input) 85%, var(--surface-card)) 50%,
+      color-mix(in srgb, var(--analytics-accent-soft) 80%, var(--surface-card)) 100%
+    );
+  }
+
+  .method-scale-marker {
+    border: 1px solid var(--border-strong);
+    background: var(--analytics-accent);
+    box-shadow: 0 0 0 2px color-mix(in srgb, var(--surface-card) 84%, transparent);
+  }
+
+  .delta-positive {
+    border-color: #07b93f;
+    background: #39ff78;
+    color: #0f291a;
+  }
+
+  .delta-negative {
+    border-color: #cc1f4b;
+    background: #ff4b75;
+    color: #3b101d;
   }
 
   .text-strong {

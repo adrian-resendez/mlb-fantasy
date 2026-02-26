@@ -19,7 +19,7 @@ export const DEFAULT_WEIGHTS = CATEGORIES.reduce((acc, category) => {
   return acc;
 }, {});
 
-const NEGATIVE_CATEGORIES = new Set(["K"]);
+export const NEGATIVE_CATEGORIES = new Set(["K"]);
 
 export function normalizePlayerName(name) {
   return String(name ?? "")
