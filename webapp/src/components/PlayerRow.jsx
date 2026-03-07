@@ -1,17 +1,23 @@
-import { CATEGORIES } from "../utils/scoring";
+import { formatCategoryLabel } from "../utils/scoring";
 
 function contributionClass(value) {
-  if (value >= 1.25) {
-    return "contrib-positive-high";
+  if (value >= 2.25) {
+    return "contrib-positive-3";
   }
-  if (value >= 0.25) {
-    return "contrib-positive-low";
+  if (value >= 1.25) {
+    return "contrib-positive-2";
+  }
+  if (value >= 0.35) {
+    return "contrib-positive-1";
+  }
+  if (value <= -2.25) {
+    return "contrib-negative-3";
   }
   if (value <= -1.25) {
-    return "contrib-negative-high";
+    return "contrib-negative-2";
   }
-  if (value <= -0.25) {
-    return "contrib-negative-low";
+  if (value <= -0.35) {
+    return "contrib-negative-1";
   }
   return "contrib-neutral";
 }
@@ -75,6 +81,7 @@ function categoryValueBadge(value) {
 
 export default function PlayerRow({
   player,
+  categories,
   showContributions,
   onSelect,
   isSelected,
@@ -122,7 +129,7 @@ export default function PlayerRow({
       {showContributions ? (
         <td className="px-4 py-3">
           <div className="flex max-w-xl flex-wrap gap-1.5">
-            {CATEGORIES.map((category) => {
+            {categories.map((category) => {
               const value = Number(player.contributions?.[category] ?? 0);
               return (
                 <span
@@ -131,7 +138,7 @@ export default function PlayerRow({
                     value
                   )}`}
                 >
-                  {category}: {value >= 0 ? "+" : ""}
+                  {formatCategoryLabel(category)}: {value >= 0 ? "+" : ""}
                   {value.toFixed(2)}
                 </span>
               );

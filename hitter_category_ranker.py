@@ -1,10 +1,9 @@
-﻿"""Fantasy baseball hitter evaluation with category-based z-scores.
+"""Fantasy baseball category evaluation with weighted z-scores.
 
-Why z-scores are a strong fit for categories leagues:
-Z-scores put every category on the same standardized scale, so counting
-stats (for example HR) and rate stats (for example AVG, SLG) can be summed
-fairly. This makes cross-category player comparison straightforward and
-supports transparent weighting when league settings change.
+The same z-score engine is reused for:
+- Batters-only pools
+- Pitchers-only pools
+- Combined batter + pitcher pools
 """
 
 from __future__ import annotations
@@ -16,7 +15,7 @@ from typing import Any, Iterable, Mapping, Sequence
 import numpy as np
 import pandas as pd
 
-CATEGORIES: tuple[str, ...] = (
+BATTER_CATEGORIES: tuple[str, ...] = (
     "R",
     "H",
     "2B",
@@ -32,23 +31,72 @@ CATEGORIES: tuple[str, ...] = (
     "SLG",
 )
 
-NEGATIVE_CATEGORIES: frozenset[str] = frozenset({"K"})
+PITCHER_CATEGORIES: tuple[str, ...] = (
+    "IP",
+    "W",
+    "L",
+    "CG",
+    "SHO",
+    "SV",
+    "BB",
+    "K",
+    "HLD",
+    "TB",
+    "ERA",
+    "WHIP",
+    "QS",
+)
 
+PITCHER_PREFIX = "P_"
+COMBINED_PITCHER_CATEGORIES: tuple[str, ...] = tuple(
+    f"{PITCHER_PREFIX}{category}" for category in PITCHER_CATEGORIES
+)
+COMBINED_CATEGORIES: tuple[str, ...] = (*BATTER_CATEGORIES, *COMBINED_PITCHER_CATEGORIES)
+
+BATTER_NEGATIVE_CATEGORIES: frozenset[str] = frozenset({"K"})
+PITCHER_NEGATIVE_CATEGORIES: frozenset[str] = frozenset({"L", "BB", "TB", "ERA", "WHIP"})
+COMBINED_NEGATIVE_CATEGORIES: frozenset[str] = frozenset(
+    {
+        *BATTER_NEGATIVE_CATEGORIES,
+        *(f"{PITCHER_PREFIX}{category}" for category in PITCHER_NEGATIVE_CATEGORIES),
+    }
+)
+
+# Backward-compatible aliases for batter-only callers.
+CATEGORIES: tuple[str, ...] = BATTER_CATEGORIES
+NEGATIVE_CATEGORIES: frozenset[str] = BATTER_NEGATIVE_CATEGORIES
 WEIGHTS: dict[str, float] = {category: 1.0 for category in CATEGORIES}
 
 
+def default_weights_for_categories(categories: Sequence[str]) -> dict[str, float]:
+    """Return equal default weights for each category in the sequence."""
+    return {category: 1.0 for category in categories}
+
+
+def get_mode_profile(mode: str) -> dict[str, Any]:
+    """Return categories and negative categories for a supported mode."""
+    normalized_mode = str(mode or "batters").strip().lower()
+    if normalized_mode == "pitchers":
+        return {
+            "mode": "pitchers",
+            "categories": PITCHER_CATEGORIES,
+            "negative_categories": PITCHER_NEGATIVE_CATEGORIES,
+        }
+    if normalized_mode == "combined":
+        return {
+            "mode": "combined",
+            "categories": COMBINED_CATEGORIES,
+            "negative_categories": COMBINED_NEGATIVE_CATEGORIES,
+        }
+    return {
+        "mode": "batters",
+        "categories": BATTER_CATEGORIES,
+        "negative_categories": BATTER_NEGATIVE_CATEGORIES,
+    }
+
+
 def load_players_from_json(json_path: str | Path) -> list[dict[str, Any]]:
-    """Load player records from a JSON file.
-
-    Args:
-        json_path: Path to a JSON file containing a list of player dictionaries.
-
-    Returns:
-        List of dictionaries with player statistics.
-
-    Raises:
-        ValueError: If the file content is not a list of records.
-    """
+    """Load player records from a JSON file."""
     path = Path(json_path)
     with path.open("r", encoding="utf-8") as file:
         payload = json.load(file)
@@ -66,13 +114,9 @@ def load_players_from_json(json_path: str | Path) -> list[dict[str, Any]]:
 
 def _coerce_player_dataframe(
     player_records: Sequence[Mapping[str, Any]],
-    categories: Sequence[str] = CATEGORIES,
+    categories: Sequence[str] = BATTER_CATEGORIES,
 ) -> pd.DataFrame:
-    """Convert player records into a clean numeric dataframe.
-
-    Missing category values are preserved as NaN initially and handled during
-    z-score computation.
-    """
+    """Convert player records into a clean numeric dataframe."""
     if not player_records:
         raise ValueError("No player records were provided.")
 
@@ -93,27 +137,16 @@ def _coerce_player_dataframe(
 
 def calculate_z_scores(
     stats_df: pd.DataFrame,
-    categories: Sequence[str] = CATEGORIES,
-    negative_categories: Iterable[str] = NEGATIVE_CATEGORIES,
+    categories: Sequence[str] = BATTER_CATEGORIES,
+    negative_categories: Iterable[str] = BATTER_NEGATIVE_CATEGORIES,
 ) -> pd.DataFrame:
-    """Calculate per-category z-scores for all players.
-
-    Formula:
-        z = (player_value - league_mean) / league_std
-
-    Behavior:
-    - Missing values are imputed with league mean (neutral z-score impact).
-    - Categories with zero standard deviation produce z-score 0.0 for all players.
-    - Negative categories (for example strikeouts) are sign-inverted so that
-      larger values reduce player value.
-    """
+    """Calculate per-category z-scores for all players."""
     category_frame = stats_df.loc[:, categories].copy()
 
     means = category_frame.mean(axis=0, skipna=True)
     stds = category_frame.std(axis=0, skipna=True, ddof=0)
 
     centered = category_frame.fillna(means).sub(means, axis=1)
-
     safe_stds = stds.replace(0, np.nan)
     z_scores = centered.div(safe_stds, axis=1).fillna(0.0)
 
@@ -126,55 +159,55 @@ def calculate_z_scores(
 
 def _resolve_weights(
     weights: Mapping[str, float] | None,
-    categories: Sequence[str] = CATEGORIES,
+    categories: Sequence[str] = BATTER_CATEGORIES,
 ) -> dict[str, float]:
     """Validate and return a complete weight map for all categories."""
     if weights is None:
-        return {category: float(WEIGHTS[category]) for category in categories}
-
-    resolved = {category: float(weights.get(category, 1.0)) for category in categories}
-    return resolved
+        return default_weights_for_categories(categories)
+    return {category: float(weights.get(category, 1.0)) for category in categories}
 
 
 def score_and_rank_players(
     player_records: Sequence[Mapping[str, Any]],
     weights: Mapping[str, float] | None = None,
+    categories: Sequence[str] = BATTER_CATEGORIES,
+    negative_categories: Iterable[str] = BATTER_NEGATIVE_CATEGORIES,
 ) -> pd.DataFrame:
-    """Score and rank players using weighted category z-scores.
+    """Score and rank players using weighted category z-scores."""
+    df = _coerce_player_dataframe(player_records, categories=categories)
+    z_scores = calculate_z_scores(
+        df,
+        categories=categories,
+        negative_categories=negative_categories,
+    )
 
-    Overall formula:
-        score = sum(z_score[category] * WEIGHTS[category])
-
-    Returns:
-        DataFrame sorted by overall_score descending, including per-category
-        z-score columns for transparency.
-    """
-    df = _coerce_player_dataframe(player_records)
-    z_scores = calculate_z_scores(df, categories=CATEGORIES, negative_categories=NEGATIVE_CATEGORIES)
-
-    effective_weights = _resolve_weights(weights, categories=CATEGORIES)
+    effective_weights = _resolve_weights(weights, categories=categories)
     weighted_total = pd.Series(0.0, index=df.index)
-
-    for category in CATEGORIES:
+    for category in categories:
         weighted_total += z_scores[f"z_{category}"] * effective_weights[category]
 
     ranked = pd.concat([df[["name"]], z_scores], axis=1)
     ranked["overall_score"] = weighted_total
-
     return ranked.sort_values("overall_score", ascending=False, kind="mergesort").reset_index(drop=True)
 
 
 def rank_players_from_json(
     json_path: str | Path,
     weights: Mapping[str, float] | None = None,
+    categories: Sequence[str] = BATTER_CATEGORIES,
+    negative_categories: Iterable[str] = BATTER_NEGATIVE_CATEGORIES,
 ) -> pd.DataFrame:
-    """Convenience wrapper to load JSON data and return ranked players."""
+    """Load JSON player records and return ranked rows."""
     records = load_players_from_json(json_path)
-    return score_and_rank_players(records, weights=weights)
+    return score_and_rank_players(
+        records,
+        weights=weights,
+        categories=categories,
+        negative_categories=negative_categories,
+    )
 
 
 if __name__ == "__main__":
-    # Small inline demo dataset.
     demo_players: list[dict[str, Any]] = [
         {
             "name": "Ronald Acuna Jr.",
@@ -208,75 +241,16 @@ if __name__ == "__main__":
             "AVG": 0.307,
             "SLG": 0.579,
         },
-        {
-            "name": "Julio Rodriguez",
-            "R": 102,
-            "H": 180,
-            "2B": 37,
-            "3B": 2,
-            "HR": 32,
-            "RBI": 103,
-            "SB": 37,
-            "BB": 56,
-            "HBP": 2,
-            "K": 175,
-            "TB": 306,
-            "AVG": 0.275,
-            "SLG": 0.485,
-        },
-        {
-            "name": "Kyle Tucker",
-            "R": 97,
-            "H": 176,
-            "2B": 29,
-            "3B": 1,
-            "HR": 29,
-            "RBI": 112,
-            "SB": 30,
-            "BB": 74,
-            "HBP": 13,
-            "K": 104,
-            "TB": 293,
-            "AVG": 0.284,
-            "SLG": 0.517,
-        },
-        {
-            "name": "Bobby Witt Jr.",
-            "R": 97,
-            "H": 177,
-            "2B": 28,
-            "3B": 11,
-            "HR": 30,
-            "RBI": 96,
-            "SB": 49,
-            "BB": 57,
-            "HBP": 11,
-            "K": 130,
-            "TB": 315,
-            "AVG": 0.276,
-            "SLG": 0.495,
-        },
-        {
-            "name": "Partial Data Player",
-            "R": 88,
-            "H": None,
-            "2B": 20,
-            "3B": 3,
-            "HR": 22,
-            "RBI": 78,
-            "SB": 18,
-            "BB": 65,
-            "HBP": None,
-            "K": 160,
-            "TB": 250,
-            "AVG": 0.261,
-            "SLG": None,
-        },
     ]
 
-    ranked_players = score_and_rank_players(demo_players, weights=WEIGHTS)
+    ranked_players = score_and_rank_players(
+        demo_players,
+        weights=default_weights_for_categories(BATTER_CATEGORIES),
+        categories=BATTER_CATEGORIES,
+        negative_categories=BATTER_NEGATIVE_CATEGORIES,
+    )
 
-    display_columns = ["name", "overall_score", *[f"z_{category}" for category in CATEGORIES]]
+    display_columns = ["name", "overall_score", *[f"z_{category}" for category in BATTER_CATEGORIES]]
     pd.set_option("display.width", 200)
     pd.set_option("display.max_columns", None)
 

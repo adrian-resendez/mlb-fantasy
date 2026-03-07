@@ -1,0 +1,155 @@
+[IP]
+ 1. Logan Webb | SF | SP | 194.000
+ 2. Tarik Skubal | DET | SP | 190.000
+ 3. Cristopher Sánchez | PHI | SP | 188.000
+ 4. Paul Skenes | PIT | SP | 186.000
+ 5. Framber Valdez | DET | SP | 185.000
+ 6. Bryan Woo | SEA | SP | 185.000
+ 7. Hunter Brown | HOU | SP | 183.000
+ 8. Garrett Crochet | BOS | SP | 181.000
+ 9. Max Fried | NYY | SP | 180.000
+10. Kevin Gausman | TOR | SP | 180.000
+
+[W]
+ 1. Tarik Skubal | DET | SP | 14.500
+ 2. Cristopher Sánchez | PHI | SP | 13.600
+ 3. Garrett Crochet | BOS | SP | 13.500
+ 4. Max Fried | NYY | SP | 13.400
+ 5. Bryan Woo | SEA | SP | 13.200
+ 6. Logan Webb | SF | SP | 13.100
+ 7. Framber Valdez | DET | SP | 12.800
+ 8. Yoshinobu Yamamoto | LAD | SP | 12.700
+ 9. Paul Skenes | PIT | SP | 12.600
+10. Hunter Brown | HOU | SP | 12.600
+
+[L]
+ 1. Tylor Megill | NYM | SP | 0.000
+ 2. Jhonathan Díaz | SEA | RP | 0.000
+ 3. AJ Smith-Shawver | ATL | SP | 0.100
+ 4. Elmer Rodríguez | NYY | SP | 0.100
+ 5. Félix Bautista | BAL | RP | 0.100
+ 6. Spencer Miles | TOR | SP | 0.100
+ 7. Blas Castano | SEA | SP,RP | 0.100
+ 8. Peyton Gray | TEX | RP | 0.100
+ 9. Sauryn Lao | WSH | RP | 0.100
+10. Brandon Walter | HOU | SP | 0.200
+
+[CG]
+ 1. Tyler Phillips | MIA | RP | 1.700
+ 2. Framber Valdez | DET | SP | 1.500
+ 3. Braxton Garrett | MIA | SP | 1.300
+ 4. Cristopher Sánchez | PHI | SP | 1.100
+ 5. Paul Skenes | PIT | SP | 1.000
+ 6. Max Fried | NYY | SP | 1.000
+ 7. Logan Webb | SF | SP | 1.000
+ 8. Kevin Gausman | TOR | SP | 1.000
+ 9. Shohei Ohtani (Pitcher) | LAD | SP | 0.900
+10. Nathan Eovaldi | TEX | SP | 0.900
+
+[SHO]
+ 1. Shohei Ohtani (Pitcher) | LAD | SP | 0.700
+ 2. Max Fried | NYY | SP | 0.600
+ 3. Logan Webb | SF | SP | 0.600
+ 4. Kevin Gausman | TOR | SP | 0.600
+ 5. Nathan Eovaldi | TEX | SP | 0.500
+ 6. Hunter Greene | CIN | SP | 0.500
+ 7. Michael King | SD | SP | 0.500
+ 8. Brandon Woodruff | MIL | SP | 0.400
+ 9. Cristopher Sánchez | PHI | SP | 0.300
+10. Framber Valdez | DET | SP | 0.300
+
+[SV]
+ 1. Edwin Díaz | LAD | RP | 35.600
+ 2. Andrés Muñoz | SEA | RP | 34.400
+ 3. Jhoan Duran | PHI | RP | 32.900
+ 4. Mason Miller | SD | RP | 32.800
+ 5. David Bednar | NYY | RP | 31.100
+ 6. Devin Williams | NYM | RP | 31.000
+ 7. Cade Smith | CLE | RP | 30.700
+ 8. Aroldis Chapman | BOS | RP | 29.600
+ 9. Ryan Helsley | BAL | RP | 28.800
+10. Daniel Palencia | CHC | RP | 27.800
+
+[BB]
+ 1. Tylor Megill | NYM | SP | 0.000
+ 2. Bowden Francis | TOR | SP | 1.000
+ 3. Brandon Walter | HOU | SP | 1.400
+ 4. Chen Zhong-Ao Zhuang | ATH | SP | 2.000
+ 5. Peyton Gray | TEX | RP | 2.000
+ 6. Sauryn Lao | WSH | RP | 2.000
+ 7. Elmer Rodríguez | NYY | SP | 2.900
+ 8. AJ Smith-Shawver | ATL | SP | 3.600
+ 9. Blas Castano | SEA | SP,RP | 3.700
+10. Spencer Miles | TOR | SP | 3.800
+
+[K]
+ 1. Tarik Skubal | DET | SP | 234.000
+ 2. Paul Skenes | PIT | SP | 226.000
+ 3. Garrett Crochet | BOS | SP | 219.000
+ 4. Hunter Greene | CIN | SP | 208.000
+ 5. Cole Ragans | KC | SP | 205.000
+ 6. Chris Sale | ATL | SP | 200.000
+ 7. Hunter Brown | HOU | SP | 199.000
+ 8. Bryan Woo | SEA | SP | 196.000
+ 9. Jesús Luzardo | PHI | SP | 196.000
+10. Cristopher Sánchez | PHI | SP | 191.000
+
+[HLD]
+ 1. Tyler Rogers | TOR | RP | 22.900
+ 2. Garrett Cleavinger | TB | RP | 22.000
+ 3. Hunter Gaddis | CLE | RP | 22.000
+ 4. Jeremiah Estrada | SD | RP | 21.300
+ 5. Alex Vesia | LAD | RP | 21.200
+ 6. Jose A. Ferrer | SEA | RP | 20.300
+ 7. Tanner Scott | LAD | RP | 20.200
+ 8. Matt Strahm | KC | RP | 20.000
+ 9. Jason Adam | SD | RP | 19.900
+10. Fernando Cruz | NYY | RP | 19.200
+
+[TB]
+ 1. Tylor Megill | NYM | SP | 0.000
+ 2. Coleman Crow | MIL | SP | 0.000
+ 3. Ty Johnson | TB | SP,RP | 0.000
+ 4. Brycen Mautz | STL | SP | 0.000
+ 5. Chen Zhong-Ao Zhuang | ATH | SP | 0.000
+ 6. Andrew Morris | MIN | SP | 0.000
+ 7. Jake Miller | DET | SP | 0.000
+ 8. Bowden Francis | TOR | SP | 5.000
+ 9. Félix Bautista | BAL | RP | 7.100
+10. Peyton Gray | TEX | RP | 7.700
+
+[ERA]
+ 1. Tylor Megill | NYM | SP | 0.000
+ 2. Mason Miller | SD | RP | 2.490
+ 3. Tarik Skubal | DET | SP | 2.600
+ 4. Paul Skenes | PIT | SP | 2.700
+ 5. Cade Smith | CLE | RP | 2.920
+ 6. Andrés Muñoz | SEA | RP | 2.960
+ 7. Aroldis Chapman | BOS | RP | 3.040
+ 8. Cristopher Sánchez | PHI | SP | 3.060
+ 9. Jhoan Duran | PHI | RP | 3.090
+10. Devin Williams | NYM | RP | 3.090
+
+[WHIP]
+ 1. Tylor Megill | NYM | SP | 0.000
+ 2. Tarik Skubal | DET | SP | 0.960
+ 3. Mason Miller | SD | RP | 1.000
+ 4. Paul Skenes | PIT | SP | 1.030
+ 5. Bryan Woo | SEA | SP | 1.030
+ 6. Jacob deGrom | TEX | SP | 1.030
+ 7. Logan Gilbert | SEA | SP | 1.040
+ 8. Cade Smith | CLE | RP | 1.040
+ 9. Josh Hader | HOU | RP | 1.050
+10. Garrett Crochet | BOS | SP | 1.060
+
+[QS]
+ 1. Logan Webb | SF | SP | 18.000
+ 2. Tarik Skubal | DET | SP | 17.800
+ 3. Paul Skenes | PIT | SP | 17.700
+ 4. Cristopher Sánchez | PHI | SP | 17.000
+ 5. Framber Valdez | DET | SP | 17.000
+ 6. Hunter Brown | HOU | SP | 16.900
+ 7. Max Fried | NYY | SP | 16.400
+ 8. Bryan Woo | SEA | SP | 16.000
+ 9. Kevin Gausman | TOR | SP | 15.400
+10. Garrett Crochet | BOS | SP | 14.500

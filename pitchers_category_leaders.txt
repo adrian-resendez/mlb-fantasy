@@ -1,0 +1,155 @@
+[IP]
+ 1. Garrett Crochet | BOS | SP | 6.100
+ 2. Spencer Schwellenbach | ATL | SP | 6.100
+ 3. Tarik Skubal | DET | SP | 6.000
+ 4. Trevor Rogers | BAL | SP | 6.000
+ 5. Zack Wheeler | PHI | SP | 6.000
+ 6. Cristopher Sanchez | PHI | SP | 6.000
+ 7. Cristopher Sánchez | PHI | SP | 6.000
+ 8. Kevin Gausman | TOR | SP | 6.000
+ 9. Nolan McLean | NYM | SP | 6.000
+10. Bryan Woo | SEA | SP | 6.000
+
+[W]
+ 1. Justin Steele | CHC | SP | 0.750
+ 2. Nolan McLean | NYM | SP | 0.630
+ 3. Logan Henderson | MIL | SP | 0.600
+ 4. Max Fried | NYY | SP | 0.590
+ 5. Brandon Woodruff | MIL | SP | 0.580
+ 6. Bubba Chandler | PIT | SP | 0.570
+ 7. Shane Bieber | TOR | SP | 0.570
+ 8. Garrett Crochet | BOS | SP | 0.560
+ 9. Carlos Rodón | NYY | SP | 0.550
+10. Freddy Peralta | NYM | SP | 0.520
+
+[L]
+ 1. Hunter Harvey | CHC | RP | 0.000
+ 2. Jose Espada | BAL | RP | 0.000
+ 3. Hunter Barco | PIT | SP,RP | 0.000
+ 4. Trevor McDonald | SF | SP,RP | 0.000
+ 5. Logan Henderson | MIL | SP | 0.000
+ 6. Evan Phillips | LAD | RP | 0.000
+ 7. Justin Lawrence | PIT | RP | 0.000
+ 8. A.J. Minter | NYM | RP | 0.000
+ 9. Nick Raquet | STL | RP | 0.000
+10. Cristian Mena | AZ | SP,RP | 0.000
+
+[CG]
+ 1. Michael King | SD | SP | 0.070
+ 2. Nick Lodolo | CIN | SP | 0.070
+ 3. Trevor Rogers | BAL | SP | 0.060
+ 4. Spencer Schwellenbach | ATL | SP | 0.060
+ 5. Tanner Bibee | CLE | SP | 0.060
+ 6. Framber Valdez | DET | SP | 0.060
+ 7. Nathan Eovaldi | TEX | SP | 0.050
+ 8. Hunter Greene | CIN | SP | 0.050
+ 9. Stephen Kolek | KC | SP | 0.050
+10. Zack Wheeler | PHI | SP | 0.040
+
+[SHO]
+ 1. Michael King | SD | SP | 0.070
+ 2. Nathan Eovaldi | TEX | SP | 0.050
+ 3. Hunter Greene | CIN | SP | 0.050
+ 4. Stephen Kolek | KC | SP | 0.050
+ 5. Tarik Skubal | DET | SP | 0.030
+ 6. Garrett Crochet | BOS | SP | 0.030
+ 7. Nick Lodolo | CIN | SP | 0.030
+ 8. Andrew Abbott | CIN | SP | 0.030
+ 9. Sonny Gray | BOS | SP | 0.030
+10. Tanner Bibee | CLE | SP | 0.030
+
+[SV]
+ 1. Carlos Estévez | KC | RP | 0.630
+ 2. Trevor Megill | MIL | RP | 0.600
+ 3. Andres Munoz | SEA | RP | 0.590
+ 4. Andrés Muñoz | SEA | RP | 0.590
+ 5. Josh Hader | HOU | RP | 0.580
+ 6. Robert Suarez | ATL | RP | 0.570
+ 7. Félix Bautista | BAL | RP | 0.540
+ 8. A.J. Puk | AZ | RP | 0.500
+ 9. Emmanuel Clase | CLE | RP | 0.500
+10. Aroldis Chapman | BOS | RP | 0.480
+
+[BB]
+ 1. Jose Espada | BAL | RP | 0.000
+ 2. Hunter Barco | PIT | SP,RP | 0.000
+ 3. Jhonathan Díaz | SEA | RP | 0.000
+ 4. Joey Gerber | NYM | SP,RP | 0.000
+ 5. Cody Laweryson | MIN | RP | 0.000
+ 6. Hunter Harvey | CHC | RP | 0.080
+ 7. Tyler Rogers | TOR | RP | 0.090
+ 8. Gabe Speier | SEA | RP | 0.140
+ 9. Bryan King | HOU | RP | 0.160
+10. Chris Martin | TEX | RP | 0.160
+
+[K]
+ 1. Zack Wheeler | PHI | SP | 8.130
+ 2. Garrett Crochet | BOS | SP | 7.970
+ 3. Chris Sale | ATL | SP | 7.860
+ 4. Kyle Bradish | BAL | SP | 7.830
+ 5. Tarik Skubal | DET | SP | 7.770
+ 6. Cole Ragans | KC | SP | 7.540
+ 7. Connelly Early | BOS | SP | 7.250
+ 8. Nolan McLean | NYM | SP | 7.130
+ 9. Hunter Greene | CIN | SP | 6.950
+10. Brandon Woodruff | MIL | SP | 6.920
+
+[HLD]
+ 1. A.J. Minter | NYM | RP | 0.540
+ 2. David Robertson | PHI | RP | 0.500
+ 3. Abner Uribe | MIL | RP | 0.490
+ 4. Hunter Gaddis | CLE | RP | 0.480
+ 5. Jason Adam | SD | RP | 0.450
+ 6. Michael Kopech | LAD | RP | 0.430
+ 7. Hunter Harvey | CHC | RP | 0.420
+ 8. Tony Santillan | CIN | RP | 0.410
+ 9. Tyler Rogers | TOR | RP | 0.400
+10. Bryan King | HOU | RP | 0.400
+
+[TB]
+ 1. Nick Raquet | STL | RP | 0.000
+ 2. Michael Kopech | LAD | RP | 0.430
+ 3. Hunter Harvey | CHC | RP | 0.500
+ 4. A.J. Minter | NYM | RP | 0.540
+ 5. Evan Phillips | LAD | RP | 0.570
+ 6. Aroldis Chapman | BOS | RP | 0.630
+ 7. Brooks Raley | NYM | RP | 0.630
+ 8. Bradgley Rodriguez | SD | RP | 0.710
+ 9. Justin Martinez | AZ | RP | 0.710
+10. Erik Sabrowski | CLE | RP | 0.730
+
+[ERA]
+ 1. Hunter Harvey | CHC | RP | 0.000
+ 2. Jose Espada | BAL | RP | 0.000
+ 3. Hunter Barco | PIT | SP,RP | 0.000
+ 4. Evan Phillips | LAD | RP | 0.000
+ 5. Nick Raquet | STL | RP | 0.000
+ 6. Jhonathan Díaz | SEA | RP | 0.000
+ 7. Justin Lawrence | PIT | RP | 0.510
+ 8. Ron Marinaccio | SD | RP | 0.840
+ 9. Austin Warren | NYM | RP | 0.960
+10. Aroldis Chapman | BOS | RP | 1.170
+
+[WHIP]
+ 1. Jose Espada | BAL | RP | 0.330
+ 2. Nick Raquet | STL | RP | 0.500
+ 3. Cody Laweryson | MIN | RP | 0.520
+ 4. Hunter Harvey | CHC | RP | 0.660
+ 5. Joey Gerber | NYM | SP,RP | 0.690
+ 6. Aroldis Chapman | BOS | RP | 0.700
+ 7. Jhonathan Díaz | SEA | RP | 0.750
+ 8. Brooks Raley | NYM | RP | 0.780
+ 9. Shawn Armstrong | CLE | RP | 0.810
+10. Nathan Eovaldi | TEX | SP | 0.850
+
+[QS]
+ 1. Spencer Schwellenbach | ATL | SP | 0.760
+ 2. Trevor Rogers | BAL | SP | 0.720
+ 3. Bryan Woo | SEA | SP | 0.700
+ 4. Garrett Crochet | BOS | SP | 0.690
+ 5. Cristopher Sanchez | PHI | SP | 0.690
+ 6. Cristopher Sánchez | PHI | SP | 0.690
+ 7. Tarik Skubal | DET | SP | 0.680
+ 8. Hunter Brown | HOU | SP | 0.680
+ 9. Zack Wheeler | PHI | SP | 0.670
+10. Trevor McDonald | SF | SP,RP | 0.670

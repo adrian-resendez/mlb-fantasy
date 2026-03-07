@@ -1,5 +1,31 @@
-﻿Shohei Ohtani (Batter)
-Shohei Ohtani (Batter)Player Note
+﻿
+
+Aaron Judge
+Aaron JudgeNo new player Notes
+NYY - OF
+FA
+1.0
+1
+1
+100%
+1.18/3.56
+0.90
+1.18
+0.20
+0.01
+0.35
+0.75
+0.08
+0.82
+0.05
+1.05
+2.45
+.331
+.688
+
+
+Shohei Ohtani (Batter)
+Shohei Ohtani (Batter)No new player Notes
 LAD - Util
 FA
 1.0
@@ -7,7 +33,7 @@ FA
 2
 100%
 1.09/3.87
-0.93
+0.92
 1.09
 0.16
 0.06
@@ -20,25 +46,7755 @@ FA
 2.41
 .282
 .622
-Gleyber Torres
-Gleyber TorresPlayer Note
-DET - 2B
+
+
+Byron Buxton
+Byron BuxtonPlayer Note
+MIN - OF
+FA
+1.0
+87
+3
+94%
+1.02/3.87
+0.77
+1.02
+0.17
+0.06
+0.28
+0.66
+0.19
+0.33
+0.06
+1.17
+2.13
+.264
+.551
+
+
+Cal Raleigh
+Cal RaleighPlayer Note
+SEA - C Contest Eligible Player
+FA
+1.0
+18
+5
+100%
+0.92/3.75
+0.69
+0.92
+0.15
+0.00
+0.38
+0.79
+0.09
+0.61
+0.06
+1.18
+2.21
+.247
+.589
+
+
+George Springer
+George SpringerPlayer Note
+TOR - OF
+FA
+1.0
+89
+6
+96%
+1.10/3.56
+0.76
+1.10
+0.19
+0.01
+0.23
+0.60
+0.13
+0.49
+0.06
+0.79
+1.99
+.309
+.560
+
+
+José Ramírez
+José RamírezPlayer Note
+CLE - 3B
+FA
+1.0
+7
+7
+100%
+1.06/3.75
+0.65
+1.06
+0.22
+0.02
+0.19
+0.54
+0.28
+0.42
+0.05
+0.47
+1.89
+.283
+.503
+
+
+Juan Soto
+Juan SotoPlayer Note
+NYM - OF
+FA
+1.0
+4
+8
+100%
+0.95/3.61
+0.75
+0.95
+0.13
+0.01
+0.27
+0.66
+0.24
+0.79
+0.02
+0.86
+1.89
+.263
+.525
+
+
+Bobby Witt Jr.
+Bobby Witt Jr.Player Note
+KC - SS
+FA
+1.0
+3
+9
+100%
+1.17/3.97
+0.63
+1.17
+0.30
+0.04
+0.15
+0.56
+0.24
+0.31
+0.05
+0.80
+1.99
+.295
+.501
+
+
+Corbin Carroll
+Corbin CarrollDTDPlayer Note
+AZ - OF
+FA
+1.0
+20
+11
+99%
+1.02/3.94
+0.75
+1.02
+0.22
+0.12
+0.22
+0.59
+0.22
+0.47
+0.05
+1.07
+2.13
+.259
+.541
+
+
+Shea Langeliers
+Shea LangeliersPlayer Note
+ATH - C
+FA
+1.0
+67
+12
+99%
+1.08/3.91
+0.59
+1.08
+0.26
+0.00
+0.25
+0.59
+0.06
+0.29
+0.01
+0.84
+2.10
+.277
+.536
+
+
+Ketel Marte
+Ketel MartePlayer Note
+AZ - 2B
+FA
+1.0
+28
+13
+99%
+1.08/3.81
+0.69
+1.08
+0.22
+0.00
+0.22
+0.57
+0.03
+0.51
+0.07
+0.66
+1.97
+.283
+.517
+
+
+Jakob Marsee
+Jakob MarseePlayer Note
+MIA - OF
+FA
+1.0
+120
+15
+89%
+1.11/3.80
+0.51
+1.11
+0.33
+0.05
+0.09
+0.60
+0.25
+0.40
+0.04
+0.87
+1.82
+.292
+.478
+
+
+Nick Kurtz
+Nick KurtzPlayer Note
+ATH - 1B
+FA
+1.0
+21
+16
+99%
+1.04/3.59
+0.77
+1.04
+0.22
+0.02
+0.31
+0.74
+0.02
+0.54
+0.02
+1.29
+2.22
+.290
+.619
+
+
+Luke Keaschall
+Luke KeaschallNew Player Note
+MIN - 2B
+FA
+1.0
+104
+17
+91%
+1.12/3.71
+0.51
+1.12
+0.29
+0.00
+0.08
+0.57
+0.29
+0.39
+0.10
+0.59
+1.65
+.302
+.445
+
+
+Geraldo Perdomo
+Geraldo PerdomoPlayer Note
+AZ - SS
+FA
+1.0
+57
+18
+98%
+1.07/3.71
+0.61
+1.07
+0.20
+0.03
+0.12
+0.62
+0.17
+0.58
+0.06
+0.52
+1.71
+.290
+.462
+
+
+Kyle Schwarber
+Kyle SchwarberNo new player Notes
+PHI - OF
+FA
+1.0
+19
+19
+100%
+0.90/3.73
+0.69
+0.90
+0.14
+0.01
+0.35
+0.81
+0.06
+0.67
+0.07
+1.22
+2.10
+.240
+.563
+
+
+Bo Bichette
+Bo BichetteNo new player Notes
+NYM - SS
+FA
+1.0
+69
+20
+98%
+1.30/4.19
+0.56
+1.30
+0.32
+0.01
+0.13
+0.68
+0.03
+0.29
+0.02
+0.65
+2.02
+.311
+.483
+
+
+Francisco Lindor
+Francisco LindorDTDNew Player Note
+NYM - SS Contest Eligible Player
+FA
+1.0
+26
+21
+99%
+1.08/4.03
+0.73
+1.08
+0.22
+0.00
+0.19
+0.54
+0.19
+0.41
+0.10
+0.82
+1.88
+.267
+.466
+
+
+Trea Turner
+Trea TurnerPlayer Note
+PHI - SS
+FA
+1.0
+25
+22
+99%
+1.27/4.18
+0.67
+1.27
+0.22
+0.05
+0.11
+0.49
+0.26
+0.30
+0.04
+0.76
+1.91
+.304
+.457
+
+
+Carter Jensen
+Carter JensenPlayer Note
+KC - C
+FA
+1.0
+297
+23
+14%
+0.90/3.00
+0.60
+0.90
+0.30
+0.00
+0.15
+0.65
+0.00
+0.45
+0.00
+0.60
+1.65
+.300
+.550
+
+
+Roman Anthony
+Roman AnthonyPlayer Note
+BOS - OF
+FA
+1.0
+45
+24
+99%
+1.06/3.62
+0.68
+1.06
+0.25
+0.01
+0.11
+0.45
+0.06
+0.56
+0.07
+1.18
+1.68
+.292
+.463
+
+
+Jeremy Peña
+Jeremy PeñaDTDNew Player Note
+HOU - SS
+FA
+1.0
+68
+26
+96%
+1.20/3.94
+0.54
+1.20
+0.24
+0.02
+0.14
+0.50
+0.16
+0.28
+0.10
+0.74
+1.88
+.304
+.477
+
+
+Pete Alonso
+Pete AlonsoPlayer Note
+BAL - 1B
+FA
+1.0
+23
+27
+99%
+1.05/3.85
+0.54
+1.05
+0.25
+0.01
+0.23
+0.78
+0.01
+0.38
+0.09
+1.00
+2.02
+.272
+.524
+
+
+Daylen Lile
+Daylen LilePlayer Note
+WSH - OF
+FA
+1.0
+197
+28
+40%
+1.05/3.53
+0.56
+1.05
+0.16
+0.12
+0.10
+0.45
+0.09
+0.23
+0.04
+0.62
+1.76
+.299
+.498
+
+
+Julio Rodríguez
+Julio RodríguezPlayer Note
+SEA - OF
+FA
+1.0
+10
+29
+100%
+1.09/4.08
+0.66
+1.09
+0.19
+0.03
+0.20
+0.59
+0.19
+0.28
+0.08
+0.95
+1.93
+.267
+.474
+
+
+Freddie Freeman
+Freddie FreemanPlayer Note
+LAD - 1B
+FA
+1.0
+59
+30
+99%
+1.12/3.78
+0.55
+1.12
+0.27
+0.01
+0.16
+0.61
+0.04
+0.41
+0.04
+0.87
+1.90
+.295
+.502
+
+
+Cody Bellinger
+Cody BellingerPlayer Note
+NYY - OF Contest Eligible Player
+FA
+1.0
+50
+31
+99%
+1.05/3.87
+0.59
+1.05
+0.16
+0.03
+0.19
+0.64
+0.09
+0.38
+0.01
+0.59
+1.86
+.272
+.480
+
+
+Kyle Tucker
+Kyle TuckerDTDPlayer Note
+LAD - OF
+FA
+1.0
+8
+32
+100%
+0.98/3.68
+0.67
+0.98
+0.18
+0.03
+0.16
+0.54
+0.18
+0.64
+0.03
+0.65
+1.71
+.266
+.464
+
+
+Yandy Díaz
+Yandy DíazPlayer Note
+TB - 1B
+FA
+1.0
+100
+33
+92%
+1.17/3.89
+0.53
+1.17
+0.19
+0.01
+0.17
+0.55
+0.02
+0.38
+0.04
+0.61
+1.87
+.300
+.482
+
+
+Jackson Chourio
+Jackson ChourioNo new player Notes
+MIL - OF
+FA
+1.0
+16
+34
+99%
+1.13/4.19
+0.67
+1.13
+0.27
+0.03
+0.16
+0.60
+0.16
+0.23
+0.02
+0.92
+1.94
+.270
+.463
+
+
+Junior Caminero
+Junior CamineroPlayer Note
+TB - 3B Contest Eligible Player
+FA
+1.0
+14
+35
+99%
+1.03/3.91
+0.60
+1.03
+0.18
+0.00
+0.29
+0.71
+0.05
+0.27
+0.02
+0.81
+2.09
+.264
+.535
+
+
+Jarren Duran
+Jarren DuranPlayer Note
+BOS - OF
+FA
+1.0
+44
+40
+99%
+1.01/3.95
+0.55
+1.01
+0.26
+0.08
+0.10
+0.54
+0.15
+0.38
+0.08
+1.08
+1.75
+.256
+.442
+
+
+Jurickson Profar
+Jurickson ProfarSUSPPlayer Note
+ATL - OF
+FA
+1.0
+393
+41
+52%
+0.98/3.98
+0.70
+0.98
+0.20
+0.01
+0.18
+0.54
+0.11
+0.60
+0.06
+0.74
+1.73
+.245
+.434
+
+
+Fernando Tatis Jr.
+Fernando Tatis Jr.Player Note
+SD - OF
+FA
+1.0
+15
+42
+99%
+1.03/3.83
+0.72
+1.03
+0.17
+0.01
+0.16
+0.46
+0.21
+0.57
+0.04
+0.83
+1.71
+.268
+.446
+
+
+Josh Naylor
+Josh NaylorNo new player Notes
+SEA - 1B
+FA
+1.0
+56
+47
+98%
+1.09/3.69
+0.55
+1.09
+0.20
+0.01
+0.14
+0.63
+0.20
+0.33
+0.03
+0.56
+1.71
+.295
+.462
+
+
+Matt Olson
+Matt OlsonPlayer Note
+ATL - 1B
+FA
+1.0
+33
+48
+99%
+1.05/3.85
+0.60
+1.05
+0.25
+0.01
+0.18
+0.59
+0.01
+0.56
+0.02
+1.09
+1.86
+.272
+.484
+
+
+Will Smith
+Will SmithPlayer Note
+LAD - C
+FA
+1.0
+121
+49
+95%
+0.97/3.29
+0.58
+0.97
+0.18
+0.01
+0.15
+0.55
+0.02
+0.58
+0.05
+0.81
+1.64
+.296
+.497
+
+
+Alex Bregman
+Alex BregmanPlayer Note
+CHC - 3B
+FA
+1.0
+99
+53
+98%
+1.04/3.80
+0.56
+1.04
+0.25
+0.00
+0.16
+0.54
+0.01
+0.45
+0.08
+0.61
+1.75
+.273
+.462
+
+
+Manny Machado
+Manny MachadoPlayer Note
+SD - 3B
 FA
 1.0
 30
-30
-90%
-0.70/3.80
+54
+99%
+1.06/3.87
+0.57
+1.06
+0.21
+0.00
+0.17
+0.60
+0.09
+0.35
+0.02
+0.82
+1.78
+.275
+.460
+
+
+Jacob Wilson
+Jacob WilsonPlayer Note
+ATH - SS
+FA
+1.0
+128
+55
+89%
+1.21/3.89
+0.50
+1.21
+0.21
+0.00
+0.10
+0.50
+0.04
+0.22
+0.06
+0.31
+1.73
+.311
+.444
+
+
+Giancarlo Stanton
+Giancarlo StantonPlayer Note
+NYY - OF
+FA
+1.0
+282
+56
+28%
+0.88/3.23
+0.47
+0.88
+0.10
+0.00
+0.31
+0.86
+0.00
+0.38
+0.01
+1.25
+1.92
+.273
+.594
+
+
+Zach Neto
+Zach NetoPlayer Note
+LAA - SS
+FA
+1.0
+24
+57
+99%
+1.01/3.92
+0.64
+1.01
+0.23
+0.01
+0.20
+0.48
+0.20
+0.26
+0.11
+1.16
+1.86
+.257
+.474
+
+
+Ronald Acuña Jr.
+Ronald Acuña Jr.Player Note
+ATL - OF
+FA
+1.0
+12
+58
+100%
+1.03/3.56
+0.78
+1.03
+0.13
+0.01
+0.22
+0.44
+0.09
+0.75
+0.03
+1.07
+1.84
+.290
+.518
+
+
+Jonathan Aranda
+Jonathan ArandaNo new player Notes
+TB - 1B
+FA
+1.0
+161
+60
+76%
+1.10/3.49
+0.53
+1.10
+0.21
+0.00
+0.13
+0.56
+0.00
+0.39
+0.08
+1.01
+1.71
+.316
+.489
+
+
+Vladimir Guerrero Jr.
+Vladimir Guerrero Jr.No new player Notes
+TOR - 1B
+FA
+1.0
+17
+61
+100%
+1.10/3.78
+0.62
+1.10
+0.22
+0.00
+0.15
+0.54
+0.04
+0.52
+0.04
+0.60
+1.76
+.292
+.467
+
+
+Miguel Amaya
+Miguel AmayaNo new player Notes
+CHC - C
+FA
+1.0
+1,483
+63
+1%
+0.96/3.43
+0.50
+0.96
+0.32
+0.00
+0.14
+0.89
+0.00
+0.14
+0.04
+0.79
+1.71
+.281
+.500
+
+
+Kyle Stowers
+Kyle StowersDTDPlayer Note
+MIA - OF
+FA
+1.0
+92
+70
+92%
+0.98/3.41
+0.52
+0.98
+0.18
+0.03
+0.21
+0.62
+0.04
+0.41
+0.04
+1.07
+1.85
+.288
+.544
+
+
+Maikel Garcia
+Maikel GarciaNo new player Notes
+KC - 2B,3B,SS,OF
+FA
+1.0
+78
+72
+99%
+1.06/3.72
+0.51
+1.06
+0.24
+0.03
+0.10
+0.46
+0.14
+0.39
+0.01
+0.53
+1.67
+.286
+.449
+
+
+Ramón Laureano
+Ramón LaureanoNo new player Notes
+SD - OF
+FA
+1.0
+192
+73
+28%
+0.94/3.34
 0.55
-0.70
+0.94
+0.20
+0.02
+0.18
+0.58
+0.05
+0.27
+0.06
+0.90
+1.71
+.281
+.512
+
+
+Michael Busch
+Michael BuschPlayer Note
+CHC - 1B
+FA
+1.0
+91
+74
+93%
+0.88/3.38
+0.50
+0.88
+0.16
+0.03
+0.22
+0.58
+0.03
+0.36
+0.06
+0.90
+1.77
+.261
+.523
+
+
+Corey Seager
+Corey SeagerPlayer Note
+TEX - SS
+FA
+1.0
+58
+75
+98%
+1.01/3.73
+0.60
+1.01
+0.19
+0.00
+0.21
+0.49
+0.03
+0.57
+0.05
+0.85
+1.81
+.271
+.487
+
+
+Bryce Harper
+Bryce HarperPlayer Note
+PHI - 1B
+FA
+1.0
+32
+84
+99%
+0.99/3.80
+0.55
+0.99
+0.24
+0.00
+0.20
+0.57
+0.09
+0.53
+0.05
+0.92
+1.85
+.261
+.487
+
+
+Moisés Ballesteros
+Moisés BallesterosPlayer Note
+CHC - C
+FA
+1.0
+1,600
+88
+4%
+0.85/2.85
+0.60
+0.85
+0.10
+0.05
+0.10
+0.55
+0.00
+0.45
+0.00
+0.60
+1.35
+.298
+.474
+
+
+Ivan Herrera
+Ivan HerreraPlayer Note
+STL - C
+FA
+1.0
+162
+90
+84%
+1.03/3.63
+0.50
+1.03
+0.12
+0.00
+0.18
+0.62
+0.07
+0.40
+0.14
+0.79
+1.68
+.284
+.464
+
+
+Brendan Donovan
+Brendan DonovanPlayer Note
+SEA - 2B,SS,OF
+FA
+1.0
+206
+94
+77%
+1.12/3.90
+0.54
+1.12
+0.27
+0.00
+0.08
+0.42
+0.03
+0.36
+0.06
+0.57
+1.64
+.287
+.422
+
+
+Pete Crow-Armstrong
+Pete Crow-ArmstrongNo new player Notes
+CHC - OF
+FA
+1.0
+42
+102
+99%
+0.93/3.76
+0.58
+0.93
+0.24
+0.03
+0.20
+0.61
+0.22
+0.18
+0.06
+0.99
+1.81
+.247
+.481
+
+
+Andy Pages
+Andy PagesPlayer Note
+LAD - OF
+FA
+1.0
+119
+106
+89%
+1.01/3.72
+0.47
+1.01
+0.17
+0.01
+0.17
+0.55
+0.09
+0.19
+0.05
+0.87
+1.72
+.272
+.461
+
+
+Rafael Devers
+Rafael DeversDTDPlayer Note
+SF - 1B
+FA
+1.0
+46
+107
+99%
+0.94/3.72
+0.61
+0.94
+0.20
+0.00
+0.21
+0.67
+0.01
+0.69
+0.04
+1.18
+1.79
+.252
+.479
+
+
+Ben Rice
+Ben RiceNew Player Note
+NYY - C,1B
+FA
+1.0
+85
+108
+98%
+0.86/3.38
+0.54
+0.86
+0.20
+0.03
+0.19
+0.47
+0.02
+0.36
+0.07
+0.72
+1.69
+.255
+.499
+
+
+Brice Turang
+Brice TurangPlayer Note
+MIL - 2B
+FA
+1.0
+60
+109
+99%
+1.08/3.74
+0.62
+1.08
 0.18
 0.01
-0.14
+0.12
+0.52
+0.15
+0.42
+0.01
+0.96
+1.63
+.288
+.435
+
+
+Randy Arozarena
+Randy ArozarenaNo new player Notes
+SEA - OF
+FA
+1.0
+73
+111
+96%
+0.91/3.83
+0.59
+0.91
+0.20
+0.01
+0.17
 0.48
-0.08
+0.19
+0.40
+0.17
+1.19
+1.63
+.238
+.426
+
+
+Colson Montgomery
+Colson MontgomeryPlayer Note
+CWS - 3B,SS
+FA
+1.0
+165
+126
+86%
+0.86/3.59
+0.61
+0.86
+0.13
+0.01
+0.30
+0.77
+0.00
+0.35
+0.03
+1.17
+1.90
+.239
+.529
+
+
+Mickey Moniak
+Mickey MoniakPlayer Note
+COL - OF
+FA
+1.0
+276
+127
+7%
+0.87/3.21
+0.46
+0.87
+0.15
+0.06
+0.18
+0.50
+0.07
+0.16
+0.01
+0.81
+1.67
+.270
+.518
+
+
+James Wood
+James WoodNo new player Notes
+WSH - OF
+FA
+1.0
+31
+131
+99%
+0.97/3.81
+0.55
+0.97
+0.24
+0.00
+0.20
+0.60
+0.10
+0.54
+0.02
+1.41
+1.81
+.256
+.475
+
+
+Eugenio Suárez
+Eugenio SuárezPlayer Note
+CIN - 3B
+FA
+1.0
+110
+132
+96%
+0.84/3.70
+0.57
+0.84
+0.18
+0.00
+0.31
+0.74
+0.03
+0.29
+0.10
+1.23
+1.94
+.228
+.526
+
+
+Tyler Soderstrom
+Tyler SoderstromNew Player Note
+ATH - 1B,OF
+FA
+1.0
+79
+137
+97%
+0.98/3.55
+0.47
+0.98
+0.22
+0.01
+0.16
+0.59
+0.05
+0.35
+0.04
+0.89
+1.68
+.276
+.474
+
+
+Vinnie Pasquantino
+Vinnie PasquantinoPlayer Note
+KC - 1B
+FA
+1.0
+75
+148
+96%
+1.03/3.88
+0.45
+1.03
+0.21
+0.01
+0.20
+0.71
+0.01
+0.31
+0.04
+0.67
+1.84
+.264
+.475
+
+
+Daulton Varsho
+Daulton VarshoNo new player Notes
+TOR - OF
+FA
+1.0
+224
+150
+36%
+0.83/3.49
+0.61
+0.83
+0.18
+0.03
+0.28
+0.77
+0.03
+0.24
+0.01
+1.08
+1.92
+.238
+.548
+
+
+Jose Altuve
+Jose AltuveNo new player Notes
+HOU - 2B,OF
+FA
+1.0
+112
+157
+95%
+1.01/3.79
+0.52
+1.01
+0.15
+0.01
+0.17
+0.50
+0.06
+0.35
+0.03
+0.70
+1.68
+.265
+.442
+
+
+Zach Cole
+Zach ColePlayer Note
+HOU - OF
+FA
+1.0
+1,591
+165
+1%
+0.80/3.13
+0.60
+0.80
+0.13
+0.00
+0.27
+0.73
+0.20
+0.33
+0.00
+1.33
+1.73
+.255
+.553
+
+
+Luis Arraez
+Luis ArraezNo new player Notes
+SF - 1B,2B
+FA
+1.0
+202
+166
+74%
+1.18/4.03
+0.43
+1.18
+0.19
+0.03
+0.05
+0.40
+0.07
+0.22
+0.01
+0.14
+1.58
+.292
+.392
+
+
+Brent Rooker
+Brent RookerNew Player Note
+ATH - OF
+FA
+1.0
+34
+167
+99%
+1.01/3.86
+0.57
+1.01
+0.25
+0.02
+0.19
+0.55
+0.04
 0.40
 0.03
-0.82
-1.40
-.250
+0.96
+1.85
+.262
+.479
+
+
+Jackson Merrill
+Jackson MerrillNew Player Note
+SD - OF
+FA
+1.0
+51
+174
+98%
+1.01/3.83
+0.51
+1.01
+0.22
+0.05
+0.14
+0.58
+0.01
+0.29
+0.03
+0.94
+1.75
+.264
+.457
+
+
+Jung Hoo Lee
+Jung Hoo LeeNo new player Notes
+SF - OF
+FA
+1.0
+294
+178
+10%
+0.99/3.73
+0.49
+0.99
+0.21
+0.08
+0.05
+0.37
+0.07
+0.31
+0.04
+0.47
+1.52
+.266
+.407
+
+
+Jorge Polanco
+Jorge PolancoNo new player Notes
+NYM - 2B,3B
+FA
+1.0
+236
+182
+57%
+0.91/3.41
+0.46
+0.91
+0.22
+0.00
+0.19
+0.57
+0.04
+0.30
+0.02
+0.59
+1.69
+.265
+.495
+
+
+Nico Hoerner
+Nico HoernerNo new player Notes
+CHC - 2B Contest Eligible Player
+FA
+1.0
+103
+185
+96%
+1.14/3.84
+0.57
+1.14
+0.19
+0.03
+0.04
+0.39
+0.19
+0.25
+0.04
+0.31
+1.51
+.297
+.394
+
+
+Max Muncy
+Max MuncyNo new player Notes
+LAD - 3B
+FA
+1.0
+243
+190
+33%
+0.76/3.13
+0.48
+0.76
+0.10
+0.02
+0.19
+0.67
+0.04
+0.64
+0.06
+0.83
+1.47
+.243
+.470
+
+
+Hunter Goodman
+Hunter GoodmanPlayer Note
+COL - C
+FA
+1.0
+81
+201
+97%
+1.04/3.75
+0.51
+1.04
+0.19
+0.03
+0.22
+0.63
+0.01
+0.23
+0.03
+1.06
+1.95
+.278
+.520
+
+
+Romy Gonzalez
+Romy GonzalezDTDPlayer Note
+BOS - 1B,2B
+FA
+1.0
+435
+204
+2%
+1.00/3.28
+0.49
+1.00
+0.24
+0.03
+0.09
+0.55
+0.06
+0.19
+0.03
+0.84
+1.58
+.305
+.483
+
+
+Brandon Nimmo
+Brandon NimmoNew Player Note
+TEX - OF
+FA
+1.0
+134
+211
+88%
+0.99/3.79
+0.52
+0.99
+0.17
+0.00
+0.16
+0.59
+0.08
+0.32
+0.05
+0.91
+1.65
+.262
+.436
+
+
+Trevor Story
+Trevor StoryPlayer Note
+BOS - SS
+FA
+1.0
+93
+212
+93%
+1.03/3.90
+0.58
+1.03
+0.18
+0.00
+0.16
+0.61
+0.20
+0.21
+0.04
+1.12
+1.69
+.263
+.433
+
+
+CJ Abrams
+CJ AbramsNo new player Notes
+WSH - SS
+FA
+1.0
+82
+215
+95%
+1.03/4.03
+0.64
+1.03
+0.24
+0.03
+0.13
+0.42
+0.22
+0.26
+0.10
+0.87
+1.74
+.257
+.433
+
+
+Wyatt Langford
+Wyatt LangfordPlayer Note
+TEX - OF
+FA
+1.0
+40
+216
+98%
+0.88/3.65
+0.54
+0.88
+0.19
+0.01
+0.16
+0.46
+0.16
+0.55
+0.04
+1.13
+1.57
+.241
+.431
+
+
+Miguel Andujar
+Miguel AndujarNo new player Notes
+SD - 3B,OF
+FA
+1.0
+510
+226
+2%
+1.09/3.41
+0.38
+1.09
+0.18
+0.01
+0.11
+0.47
+0.01
+0.18
+0.01
+0.52
+1.61
+.318
+.470
+
+
+Riley Greene
+Riley GreenePlayer Note
+DET - OF
+FA
+1.0
+54
+227
+98%
+0.99/3.82
+0.54
+0.99
+0.20
+0.01
+0.23
+0.71
+0.01
+0.29
+0.03
+1.28
+1.89
+.258
+.493
+
+
+Christian Yelich
+Christian YelichPlayer Note
+MIL - OF
+FA
+1.0
+94
+240
+94%
+1.01/3.82
+0.59
+1.01
+0.14
+0.00
+0.19
+0.69
+0.11
+0.43
+0.04
+1.11
+1.73
+.264
+.452
+
+
+Mookie Betts
+Mookie BettsPlayer Note
+LAD - SS
+FA
+1.0
+39
+241
+99%
+1.01/3.93
+0.63
+1.01
+0.15
+0.01
+0.13
+0.55
+0.05
+0.41
+0.02
+0.45
+1.59
+.258
+.406
+
+
+Spencer Torkelson
+Spencer TorkelsonNo new player Notes
+DET - 1B
+FA
+1.0
+185
+244
+83%
+0.87/3.63
+0.53
+0.87
+0.17
+0.01
+0.20
+0.50
+0.01
+0.46
+0.06
+1.09
+1.66
+.240
+.456
+
+
+Austin Hays
+Austin HaysPlayer Note
+CWS - OF
+FA
+1.0
+412
+245
+2%
+0.98/3.69
+0.58
+0.98
+0.16
+0.05
+0.15
+0.62
+0.07
+0.28
+0.01
+1.04
+1.67
+.266
+.453
+
+
+Jordan Westburg
+Jordan WestburgDTDNo new player Notes
+BAL - 2B,3B
+FA
+1.0
+225
+254
+69%
+1.02/3.86
+0.69
+1.02
+0.12
+0.01
+0.20
+0.48
+0.01
+0.20
+0.07
+0.94
+1.76
+.265
+.457
+
+
+Gunnar Henderson
+Gunnar HendersonNo new player Notes
+BAL - SS
+FA
+1.0
+13
+262
+100%
+1.03/3.75
+0.55
+1.03
+0.22
+0.03
+0.11
+0.44
+0.19
+0.40
+0.05
+0.89
+1.64
+.274
+.438
+
+
+Noelvi Marte
+Noelvi MarteNew Player Note
+CIN - 3B,OF
+FA
+1.0
+151
+270
+88%
+0.99/3.77
+0.50
+0.99
+0.19
+0.02
+0.16
+0.57
+0.11
+0.18
+0.03
+0.94
+1.69
+.263
+.448
+
+
+Seiya Suzuki
+Seiya SuzukiNo new player Notes
+CHC - OF
+FA
+1.0
+95
+275
+95%
+0.93/3.78
+0.50
+0.93
+0.21
+0.02
+0.21
+0.68
+0.03
+0.47
+0.01
+1.09
+1.81
+.245
+.478
+
+
+Elly De La Cruz
+Elly De La CruzNew Player Note
+CIN - SS Contest Eligible Player
+FA
+1.0
+5
+277
+100%
+1.02/3.88
+0.63
+1.02
+0.19
+0.04
+0.14
+0.53
+0.23
+0.41
+0.01
+1.12
+1.71
+.264
+.440
+
+
+Jazz Chisholm Jr.
+Jazz Chisholm Jr.Player Note
+NYY - 2B,3B Contest Eligible Player
+FA
+1.0
+22
+282
+99%
+0.86/3.55
+0.58
+0.86
+0.12
+0.01
+0.24
+0.62
+0.24
+0.45
+0.05
+1.14
+1.71
+.242
+.481
+
+
+Jonny DeLuca
+Jonny DeLucaPlayer Note
+TB - OF
+FA
+1.0
+1,549
+286
+0%
+0.95/2.85
+0.25
+0.95
+0.05
+0.15
+0.00
+0.20
+0.30
+0.10
+0.00
+0.65
+1.30
+.333
+.456
+
+
+Isaac Paredes
+Isaac ParedesPlayer Note
+HOU - 3B
+FA
+1.0
+216
+296
+65%
+0.94/3.71
+0.52
+0.94
+0.15
+0.01
+0.20
+0.52
+0.00
+0.49
+0.08
+0.75
+1.70
+.254
+.458
+
+
+Steven Kwan
+Steven KwanPlayer Note
+CLE - OF
+FA
+1.0
+141
+300
+86%
+1.09/4.01
+0.52
+1.09
+0.19
+0.01
+0.07
+0.36
+0.13
+0.35
+0.02
+0.38
+1.50
+.272
+.374
+
+
+Willson Contreras
+Willson ContrerasPlayer Note
+BOS - 1B Contest Eligible Player
+FA
+1.0
+98
+311
+91%
+0.93/3.63
+0.52
+0.93
+0.23
+0.01
+0.15
+0.59
+0.04
+0.33
+0.17
+1.05
+1.62
+.257
+.447
+
+
+William Contreras
+William ContrerasNo new player Notes
+MIL - C
+FA
+1.0
+62
+335
+99%
+0.98/3.77
+0.59
+0.98
+0.19
+0.00
+0.11
+0.51
+0.04
+0.56
+0.02
+0.80
+1.51
+.260
+.399
+
+
+Agustín Ramírez
+Agustín RamírezNo new player Notes
+MIA - C
+FA
+1.0
+129
+339
+91%
+0.91/3.95
+0.53
+0.91
+0.24
+0.01
+0.15
+0.49
+0.12
+0.26
+0.06
+0.83
+1.63
+.231
+.413
+
+
+Brandon Lowe
+Brandon LowePlayer Note
+PIT - 2B
+FA
+1.0
+204
+356
+71%
+0.97/3.78
+0.59
+0.97
+0.14
+0.00
+0.23
+0.62
+0.02
+0.28
+0.01
+1.11
+1.81
+.256
+.477
+
+
+Taylor Ward
+Taylor WardNo new player Notes
+BAL - OF
+FA
+1.0
+123
+358
+90%
+0.84/3.69
+0.55
+0.84
+0.20
+0.01
+0.23
+0.66
+0.03
+0.48
+0.02
+1.11
+1.75
+.228
+.475
+
+
+Yordan Alvarez
+Yordan AlvarezPlayer Note
+HOU - OF
+FA
+1.0
+52
+361
+99%
+0.94/3.44
+0.35
+0.94
+0.17
+0.00
+0.13
+0.56
+0.02
+0.58
+0.00
+0.69
+1.48
+.273
+.430
+
+
+Nolan Schanuel
+Nolan SchanuelNo new player Notes
+LAA - 1B
+FA
+1.0
+231
+362
+9%
+0.98/3.70
+0.48
+0.98
+0.17
+0.01
+0.09
+0.40
+0.04
+0.45
+0.08
+0.54
+1.44
+.264
+.389
+
+
+Ian Happ
+Ian HappPlayer Note
+CHC - OF
+FA
+1.0
+133
+366
+89%
+0.92/3.79
+0.58
+0.92
+0.21
+0.00
+0.15
+0.53
+0.04
+0.58
+0.01
+1.01
+1.59
+.243
 .420
+
+
+Matt Chapman
+Matt ChapmanPlayer Note
+SF - 3B
+FA
+1.0
+159
+370
+90%
+0.82/3.55
+0.59
+0.82
+0.18
+0.02
+0.16
+0.48
+0.07
+0.55
+0.05
+0.98
+1.52
+.231
+.430
+
+
+Drake Baldwin
+Drake BaldwinNo new player Notes
+ATL - C
+FA
+1.0
+148
+382
+89%
+0.90/3.27
+0.45
+0.90
+0.15
+0.02
+0.15
+0.65
+0.00
+0.31
+0.02
+0.55
+1.53
+.274
+.469
+
+
+Drew Millas
+Drew MillasNo new player Notes
+WSH - C
+FA
+1.0
+1,618
+383
+0%
+0.83/2.72
+0.33
+0.83
+0.28
+0.06
+0.00
+0.39
+0.11
+0.22
+0.00
+0.39
+1.22
+.306
+.449
+
+
+Masyn Winn
+Masyn WinnNew Player Note
+STL - SS
+FA
+1.0
+171
+388
+56%
+0.96/3.81
+0.56
+0.96
+0.21
+0.00
+0.07
+0.40
+0.07
+0.26
+0.06
+0.79
+1.38
+.253
+.363
+
+
+Sal Stewart
+Sal StewartPlayer Note
+CIN - 1B
+FA
+1.0
+220
+400
+37%
+0.78/3.06
+0.61
+0.78
+0.06
+0.00
+0.28
+0.44
+0.00
+0.17
+0.00
+0.83
+1.67
+.255
+.545
+
+
+Alec Burleson
+Alec BurlesonPlayer Note
+STL - 1B,OF
+FA
+1.0
+144
+405
+86%
+1.04/3.58
+0.39
+1.04
+0.19
+0.01
+0.13
+0.50
+0.04
+0.28
+0.02
+0.57
+1.64
+.290
+.459
+
+
+Christian Walker
+Christian WalkerNo new player Notes
+HOU - 1B
+FA
+1.0
+152
+409
+85%
+0.90/3.80
+0.47
+0.90
+0.16
+0.01
+0.18
+0.57
+0.01
+0.26
+0.07
+1.15
+1.60
+.238
+.421
+
+
+Tyler Freeman
+Tyler FreemanNew Player Note
+COL - 2B,OF
+FA
+1.0
+539
+413
+2%
+0.96/3.43
+0.45
+0.96
+0.18
+0.02
+0.02
+0.28
+0.16
+0.31
+0.10
+0.46
+1.24
+.281
+.361
+
+
+Sal Frelick
+Sal FrelickPlayer Note
+MIL - OF
+FA
+1.0
+239
+416
+15%
+1.07/3.72
+0.54
+1.07
+0.14
+0.02
+0.08
+0.44
+0.13
+0.33
+0.05
+0.56
+1.51
+.288
+.405
+
+
+Lourdes Gurriel Jr.
+Lourdes Gurriel Jr.DTDNo new player Notes
+AZ - OF
+FA
+1.0
+355
+424
+3%
+0.96/3.88
+0.40
+0.96
+0.19
+0.02
+0.15
+0.62
+0.08
+0.24
+0.05
+0.59
+1.62
+.248
+.418
+
+
+Zach McKinstry
+Zach McKinstryNo new player Notes
+DET - 3B,SS,OF
+FA
+1.0
+402
+426
+9%
+0.81/3.14
+0.47
+0.81
+0.16
+0.08
+0.08
+0.34
+0.13
+0.32
+0.05
+0.77
+1.38
+.259
+.438
+
+
+Austin Riley
+Austin RileyPlayer Note
+ATL - 3B
+FA
+1.0
+61
+429
+99%
+1.06/4.08
+0.53
+1.06
+0.20
+0.01
+0.16
+0.53
+0.02
+0.26
+0.03
+1.25
+1.75
+.260
+.428
+
+
+Dillon Dingler
+Dillon DinglerDTDPlayer Note
+DET - C
+FA
+1.0
+233
+431
+16%
+0.96/3.45
+0.43
+0.96
+0.17
+0.02
+0.10
+0.45
+0.00
+0.18
+0.07
+0.87
+1.47
+.278
+.425
+
+
+Teoscar Hernández
+Teoscar HernándezNo new player Notes
+LAD - OF
+FA
+1.0
+90
+433
+94%
+0.94/3.81
+0.49
+0.94
+0.22
+0.01
+0.19
+0.66
+0.04
+0.19
+0.02
+1.00
+1.73
+.247
+.454
+
+
+Spencer Horwitz
+Spencer HorwitzNo new player Notes
+PIT - 1B
+FA
+1.0
+314
+440
+3%
+0.92/3.37
+0.51
+0.92
+0.24
+0.00
+0.10
+0.47
+0.00
+0.41
+0.02
+0.68
+1.46
+.272
+.434
+
+
+Caleb Durbin
+Caleb DurbinNo new player Notes
+BOS - 2B,3B
+FA
+1.0
+286
+453
+21%
+0.84/3.27
+0.44
+0.84
+0.18
+0.00
+0.08
+0.39
+0.13
+0.22
+0.18
+0.37
+1.26
+.256
+.387
+
+
+Alec Bohm
+Alec BohmPlayer Note
+PHI - 1B,3B Contest Eligible Player
+FA
+1.0
+213
+455
+60%
+1.11/3.87
+0.44
+1.11
+0.15
+0.03
+0.09
+0.49
+0.02
+0.24
+0.04
+0.68
+1.58
+.287
+.409
+
+
+Salvador Perez
+Salvador PerezNo new player Notes
+KC - C,1B
+FA
+1.0
+109
+462
+95%
+0.91/3.85
+0.35
+0.91
+0.23
+0.00
+0.19
+0.65
+0.00
+0.18
+0.08
+0.81
+1.72
+.236
+.446
+
+
+Gabriel Moreno
+Gabriel MorenoNo new player Notes
+AZ - C
+FA
+1.0
+252
+475
+12%
+0.95/3.34
+0.53
+0.95
+0.14
+0.01
+0.11
+0.48
+0.02
+0.35
+0.01
+0.64
+1.45
+.285
+
+
+Heliot Ramos
+Heliot RamosPlayer Note
+SF - OF
+FA
+1.0
+189
+476
+66%
+1.01/3.95
+0.54
+1.01
+0.15
+0.01
+0.13
+0.44
+0.04
+0.33
+0.11
+1.01
+1.58
+.256
+.400
+
+
+Kerry Carpenter
+Kerry CarpenterPlayer Note
+DET - OF
+FA
+1.0
+180
+477
+63%
+0.84/3.33
+0.51
+0.84
+0.14
+0.04
+0.20
+0.48
+0.01
+0.14
+0.05
+0.82
+1.65
+.252
+.497
+
+
+Alejandro Kirk
+Alejandro KirkNo new player Notes
+TOR - C
+FA
+1.0
+248
+479
+46%
+0.98/3.47
+0.35
+0.98
+0.14
+0.00
+0.12
+0.58
+0.01
+0.37
+0.01
+0.45
+1.46
+.282
+.421
+
+
+Masataka Yoshida
+Masataka YoshidaNo new player Notes
+BOS - OF
+FA
+1.0
+1,420
+481
+1%
+0.91/3.42
+0.29
+0.91
+0.20
+0.00
+0.07
+0.47
+0.05
+0.18
+0.05
+0.44
+1.33
+.266
+.388
+
+
+Wilyer Abreu
+Wilyer AbreuPlayer Note
+BOS - OF
+FA
+1.0
+191
+487
+51%
+0.80/3.24
+0.46
+0.80
+0.15
+0.00
+0.19
+0.60
+0.05
+0.35
+0.00
+0.88
+1.52
+.247
+.469
+
+
+Trent Grisham
+Trent GrishamNo new player Notes
+NYY - OF
+FA
+1.0
+211
+488
+51%
+0.81/3.45
+0.61
+0.81
+0.06
+0.01
+0.24
+0.52
+0.02
+0.57
+0.03
+0.96
+1.60
+.235
+.464
+
+
+Ceddanne Rafaela
+Ceddanne RafaelaPlayer Note
+BOS - 2B,OF
+FA
+1.0
+160
+495
+87%
+0.87/3.50
+0.54
+0.87
+0.22
+0.03
+0.10
+0.40
+0.13
+0.18
+0.05
+0.75
+1.45
+.249
+.414
+
+
+Gleyber Torres
+Gleyber TorresNo new player Notes
+DET - 2B
+FA
+1.0
+196
+496
+74%
+0.94/3.67
+0.54
+0.94
+0.15
+0.00
+0.11
+0.51
+0.03
+0.59
+0.03
+0.70
+1.42
+.256
+.387
+
+
+Thairo Estrada
+Thairo EstradaNANo new player Notes
+BAL - 2B
+FA
+1.0
+1,508
+499
+0%
+1.00/3.95
+0.36
+1.00
+0.23
+0.00
+0.08
+0.54
+0.03
+0.15
+0.05
+0.67
+1.46
+.253
+.370
+
+
+Ryan Jeffers
+Ryan JeffersNo new player Notes
+MIN - C Contest Eligible Player
+FA
+1.0
+550
+500
+6%
+0.91/3.41
+0.39
+0.91
+0.22
+0.00
+0.08
+0.39
+0.01
+0.42
+0.06
+0.76
+1.35
+.266
+.397
+
+
+Josh Smith
+Josh SmithPlayer Note
+TEX - 1B,3B,SS,OF
+FA
+1.0
+420
+505
+8%
+0.86/3.44
+0.49
+0.86
+0.16
+0.01
+0.07
+0.24
+0.08
+0.38
+0.06
+0.69
+1.26
+.251
+.366
+
+
+J.T. Realmuto
+J.T. RealmutoNo new player Notes
+PHI - C
+FA
+1.0
+315
+507
+24%
+0.96/3.75
+0.43
+0.96
+0.19
+0.01
+0.09
+0.39
+0.06
+0.26
+0.07
+0.96
+1.44
+.257
+.384
+
+
+J.P. Crawford
+J.P. CrawfordPlayer Note
+SEA - SS
+FA
+1.0
+332
+509
+6%
+0.96/3.63
+0.44
+0.96
+0.15
+0.00
+0.08
+0.37
+0.05
+0.47
+0.02
+0.78
+1.34
+.265
+.370
+
+
+Luis García Jr.
+Luis García Jr.Player Note
+WSH - 2B
+FA
+1.0
+183
+510
+71%
+0.88/3.51
+0.48
+0.88
+0.20
+0.01
+0.12
+0.47
+0.10
+0.19
+0.01
+0.60
+1.45
+.252
+.412
+
+
+Ernie Clement
+Ernie ClementPlayer Note
+TOR - 1B,2B,3B,SS
+FA
+1.0
+335
+512
+59%
+0.96/3.47
+0.53
+0.96
+0.22
+0.01
+0.06
+0.32
+0.04
+0.17
+0.03
+0.39
+1.38
+.277
+.398
+
+
+TJ Friedl
+TJ FriedlPlayer Note
+CIN - OF
+FA
+1.0
+230
+513
+15%
+0.99/3.81
+0.54
+0.99
+0.14
+0.01
+0.09
+0.35
+0.08
+0.53
+0.11
+0.76
+1.44
+.261
+.378
+
+
+Andrew Benintendi
+Andrew BenintendiDTDPlayer Note
+CWS - OF
+FA
+1.0
+442
+514
+2%
+0.87/3.62
+0.49
+0.87
+0.14
+0.02
+0.17
+0.54
+0.01
+0.34
+0.03
+0.71
+1.56
+.240
+.431
+
+
+Chandler Simpson
+Chandler SimpsonPlayer Note
+TB - OF
+FA
+1.0
+174
+516
+73%
+1.12/3.80
+0.49
+1.12
+0.14
+0.03
+0.00
+0.24
+0.40
+0.18
+0.00
+0.39
+1.31
+.295
+.345
+
+
+Dansby Swanson
+Dansby SwansonNew Player Note
+CHC - SS Contest Eligible Player
+FA
+1.0
+131
+518
+88%
+0.91/3.71
+0.53
+0.91
+0.15
+0.02
+0.15
+0.48
+0.13
+0.30
+0.01
+1.06
+1.55
+.244
+.417
+
+
+Miguel Vargas
+Miguel VargasPlayer Note
+CWS - 1B,3B
+FA
+1.0
+309
+521
+17%
+0.86/3.65
+0.58
+0.86
+0.23
+0.01
+0.12
+0.43
+0.04
+0.41
+0.04
+0.72
+1.46
+.234
+.401
+
+
+Harrison Bader
+Harrison BaderDTDPlayer Note
+SF - OF
+FA
+1.0
+366
+523
+4%
+0.85/3.07
+0.42
+0.85
+0.16
+0.01
+0.12
+0.37
+0.08
+0.27
+0.08
+0.93
+1.38
+.277
+.449
+
+
+Austin Wynns
+Austin WynnsNo new player Notes
+ATH - C
+FA
+1.0
+1,526
+525
+0%
+0.75/2.58
+0.33
+0.75
+0.20
+0.00
+0.15
+0.53
+0.00
+0.13
+0.00
+0.80
+1.40
+.291
+.544
+
+
+Gavin Sheets
+Gavin SheetsNo new player Notes
+SD - 1B,OF
+FA
+1.0
+427
+531
+3%
+0.86/3.39
+0.39
+0.86
+0.19
+0.01
+0.13
+0.49
+0.01
+0.30
+0.03
+0.74
+1.46
+.252
+.429
+
+
+Xander Bogaerts
+Xander BogaertsPlayer Note
+SD - SS
+FA
+1.0
+234
+532
+20%
+0.95/3.61
+0.46
+0.95
+0.22
+0.00
+0.08
+0.39
+0.15
+0.35
+0.03
+0.69
+1.41
+.263
+.391
+
+
+Ryan O'Hearn
+Ryan O'HearnNew Player Note
+PIT - 1B,OF
+FA
+1.0
+287
+533
+11%
+0.92/3.29
+0.47
+0.92
+0.15
+0.01
+0.12
+0.44
+0.02
+0.40
+0.06
+0.76
+1.44
+.281
+.437
+
+
+Richie Palacios
+Richie PalaciosDTDNew Player Note
+TB - OF
+FA
+1.0
+1,533
+535
+0%
+0.82/2.47
+0.59
+0.82
+0.12
+0.00
+0.06
+0.18
+0.24
+0.29
+0.00
+0.53
+1.12
+.333
+.452
+
+
+Connor Norby
+Connor NorbyNo new player Notes
+MIA - 3B
+FA
+1.0
+1,298
+542
+2%
+0.89/3.53
+0.48
+0.89
+0.19
+0.01
+0.09
+0.39
+0.09
+0.20
+0.06
+1.02
+1.38
+.251
+.389
+
+
+Willy Adames
+Willy AdamesPlayer Note
+SF - SS
+FA
+1.0
+97
+548
+93%
+0.83/3.69
+0.59
+0.83
+0.14
+0.01
+0.19
+0.54
+0.08
+0.50
+0.03
+1.12
+1.56
+.225
+.421
+
+
+Matt Wallner
+Matt WallnerNo new player Notes
+MIN - OF
+FA
+1.0
+338
+549
+3%
+0.65/3.23
+0.45
+0.65
+0.15
+0.03
+0.21
+0.38
+0.04
+0.44
+0.08
+1.10
+1.50
+.202
+.464
+
+
+Jo Adell
+Jo AdellNo new player Notes
+LAA - OF
+FA
+1.0
+116
+551
+90%
+0.82/3.46
+0.41
+0.82
+0.12
+0.01
+0.24
+0.64
+0.03
+0.22
+0.07
+0.99
+1.68
+.236
+.485
+
+
+Addison Barger
+Addison BargerPlayer Note
+TOR - 3B,OF
+FA
+1.0
+241
+555
+47%
+0.83/3.41
+0.45
+0.83
+0.24
+0.01
+0.16
+0.55
+0.03
+0.27
+0.02
+0.90
+1.55
+.243
+.454
+
+
+Jeremiah Jackson
+Jeremiah JacksonPlayer Note
+BAL - 3B,OF
+FA
+1.0
+1,523
+556
+1%
+0.98/3.54
+0.42
+0.98
+0.21
+0.04
+0.10
+0.44
+0.00
+0.23
+0.04
+1.04
+1.58
+.276
+.447
+
+
+Kyle Teel
+Kyle TeelPlayer Note
+CWS - C
+FA
+1.0
+226
+560
+24%
+0.88/3.24
+0.49
+0.88
+0.14
+0.00
+0.10
+0.45
+0.04
+0.47
+0.06
+0.99
+1.33
+.273
+.411
+
+
+Yainer Diaz
+Yainer DiazPlayer Note
+HOU - C
+FA
+1.0
+184
+563
+80%
+0.97/3.79
+0.39
+0.97
+0.17
+0.01
+0.14
+0.49
+0.01
+0.14
+0.01
+0.66
+1.58
+.256
+.417
+
+
+Evan Carter
+Evan CarterNew Player Note
+TEX - OF
+FA
+1.0
+321
+565
+5%
+0.76/3.08
+0.49
+0.76
+0.14
+0.03
+0.08
+0.40
+0.22
+0.30
+0.11
+0.65
+1.21
+.247
+.392
+
+
+Gary Sánchez
+Gary SánchezNo new player Notes
+MIL - C
+FA
+1.0
+1,514
+566
+0%
+0.72/3.14
+0.45
+0.72
+0.07
+0.00
+0.17
+0.83
+0.00
+0.14
+0.17
+0.93
+1.31
+.231
+.418
+
+
+Xavier Edwards
+Xavier EdwardsDTDNew Player Note
+MIA - 2B,SS
+FA
+1.0
+138
+568
+86%
+1.14/4.04
+0.54
+1.14
+0.14
+0.04
+0.02
+0.31
+0.19
+0.35
+0.02
+0.63
+1.42
+.283
+.353
+
+
+Michael Harris II
+Michael Harris IIPlayer Note
+ATL - OF
+FA
+1.0
+84
+573
+95%
+0.95/3.82
+0.34
+0.95
+0.16
+0.04
+0.13
+0.54
+0.13
+0.10
+0.02
+0.80
+1.56
+.249
+.409
+
+
+Carlos Correa
+Carlos CorreaNo new player Notes
+HOU - 3B,SS
+FA
+1.0
+238
+574
+39%
+1.03/3.73
+0.44
+1.03
+0.20
+0.00
+0.09
+0.36
+0.00
+0.31
+0.01
+0.78
+1.50
+.276
+.402
+
+
+Isaac Collins
+Isaac CollinsPlayer Note
+KC - OF
+FA
+1.0
+508
+580
+2%
+0.75/2.86
+0.43
+0.75
+0.17
+0.02
+0.07
+0.42
+0.12
+0.44
+0.05
+0.72
+1.18
+.263
+.411
+
+
+Ty France
+Ty FranceNANo new player Notes
+SD - 1B
+FA
+1.0
+1,138
+583
+1%
+0.83/3.22
+0.36
+0.83
+0.18
+0.00
+0.05
+0.38
+0.01
+0.16
+0.15
+0.60
+1.16
+.257
+.360
+
+
+Bryson Stott
+Bryson StottPlayer Note
+PHI - 2B,SS
+FA
+1.0
+246
+588
+56%
+0.87/3.39
+0.45
+0.87
+0.15
+0.02
+0.09
+0.45
+0.16
+0.37
+0.01
+0.62
+1.33
+.257
+.391
+
+
+Andrew Vaughn
+Andrew VaughnPlayer Note
+MIL - 1B
+FA
+1.0
+194
+590
+27%
+0.92/3.63
+0.31
+0.92
+0.20
+0.00
+0.13
+0.58
+0.00
+0.28
+0.03
+0.71
+1.49
+.254
+.411
+
+
+Mike Trout
+Mike TroutNew Player Note
+LAA - OF
+FA
+1.0
+222
+594
+85%
+0.82/3.51
+0.56
+0.82
+0.11
+0.01
+0.20
+0.49
+0.02
+0.67
+0.05
+1.37
+1.54
+.232
+.439
+
+
+Francisco Alvarez
+Francisco AlvarezNo new player Notes
+NYM - C
+FA
+1.0
+261
+595
+16%
+0.83/3.24
+0.42
+0.83
+0.16
+0.01
+0.14
+0.42
+0.00
+0.36
+0.05
+0.96
+1.45
+.256
+.447
+
+
+Jake Mangum
+Jake MangumPlayer Note
+PIT - OF
+FA
+1.0
+330
+598
+5%
+1.02/3.43
+0.31
+1.02
+0.15
+0.01
+0.03
+0.34
+0.23
+0.16
+0.02
+0.54
+1.26
+.296
+.368
+
+
+Brandon Marsh
+Brandon MarshPlayer Note
+PHI - OF
+FA
+1.0
+285
+600
+4%
+0.80/2.85
+0.44
+0.80
+0.19
+0.02
+0.08
+0.32
+0.05
+0.29
+0.00
+0.83
+1.26
+.280
+.443
+
+
+Wenceel Pérez
+Wenceel PérezNo new player Notes
+DET - OF
+FA
+1.0
+590
+601
+1%
+0.84/3.44
+0.47
+0.84
+0.17
+0.04
+0.13
+0.43
+0.08
+0.31
+0.03
+0.87
+1.48
+.244
+.430
+
+
+Jackson Holliday
+Jackson HollidayDTDPlayer Note
+BAL - 2B,SS
+FA
+1.0
+264
+602
+70%
+0.95/3.93
+0.47
+0.95
+0.14
+0.02
+0.11
+0.37
+0.11
+0.38
+0.04
+0.94
+1.48
+.242
+.375
+
+
+Dominic Smith
+Dominic SmithNANew Player Note
+ATL - 1B
+FA
+1.0
+1,395
+603
+0%
+0.92/3.24
+0.41
+0.92
+0.19
+0.00
+0.08
+0.52
+0.03
+0.24
+0.03
+0.67
+1.35
+.284
+.417
+
+
+Lenyn Sosa
+Lenyn SosaNo new player Notes
+CWS - 1B,2B
+FA
+1.0
+390
+604
+5%
+0.98/3.70
+0.41
+0.98
+0.14
+0.01
+0.16
+0.54
+0.01
+0.13
+0.03
+0.91
+1.61
+.264
+.434
+
+
+Jeff McNeil
+Jeff McNeilPlayer Note
+ATH - 2B,OF
+FA
+1.0
+301
+605
+6%
+0.80/3.27
+0.34
+0.80
+0.17
+0.04
+0.10
+0.44
+0.02
+0.40
+0.07
+0.45
+1.34
+.243
+.411
+
+
+Nolan Arenado
+Nolan ArenadoPlayer Note
+AZ - 3B
+FA
+1.0
+522
+608
+13%
+0.89/3.75
+0.45
+0.89
+0.17
+0.01
+0.11
+0.49
+0.03
+0.26
+0.03
+0.46
+1.41
+.237
+.377
+
+
+Ezequiel Tovar
+Ezequiel TovarNo new player Notes
+COL - SS
+FA
+1.0
+155
+610
+73%
+0.96/3.79
+0.46
+0.96
+0.19
+0.04
+0.09
+0.35
+0.05
+0.22
+0.01
+1.03
+1.52
+.253
+.400
+
+
+Lawrence Butler
+Lawrence ButlerDTDNo new player Notes
+ATH - OF
+FA
+1.0
+125
+611
+88%
+0.88/3.74
+0.55
+0.88
+0.20
+0.01
+0.14
+0.41
+0.14
+0.39
+0.00
+1.18
+1.51
+.234
+.404
+
+
+Josh Bell
+Josh BellNo new player Notes
+MIN - 1B
+FA
+1.0
+298
+612
+4%
+0.79/3.34
+0.39
+0.79
+0.11
+0.01
+0.16
+0.45
+0.00
+0.41
+0.04
+0.63
+1.39
+.237
+.417
+
+
+Yoán Moncada
+Yoán MoncadaNo new player Notes
+LAA - 3B
+FA
+1.0
+1,440
+613
+1%
+0.69/2.95
+0.46
+0.69
+0.15
+0.02
+0.14
+0.42
+0.00
+0.38
+0.08
+0.89
+1.32
+.234
+.448
+
+
+Ozzie Albies
+Ozzie AlbiesNo new player Notes
+ATL - 2B
+FA
+1.0
+118
+614
+93%
+0.92/3.84
+0.47
+0.92
+0.15
+0.01
+0.10
+0.47
+0.09
+0.35
+0.03
+0.60
+1.40
+.240
+.365
+
+
+Blaine Crim
+Blaine CrimDTDPlayer Note
+COL - 1B
+FA
+1.0
+1,623
+615
+0%
+0.65/3.25
+0.50
+0.65
+0.10
+0.00
+0.25
+0.60
+0.00
+0.30
+0.05
+1.40
+1.50
+.200
+.462
+
+
+Jonathan India
+Jonathan IndiaNo new player Notes
+KC - 2B,3B,OF
+FA
+1.0
+611
+619
+5%
+0.85/3.65
+0.46
+0.85
+0.21
+0.00
+0.07
+0.33
+0.00
+0.40
+0.10
+0.78
+1.26
+.233
+.346
+
+
+Jake Cronenworth
+Jake CronenworthPlayer Note
+SD - 1B,2B,SS
+FA
+1.0
+307
+621
+15%
+0.76/3.10
+0.45
+0.76
+0.15
+0.01
+0.08
+0.44
+0.02
+0.51
+0.11
+0.79
+1.17
+.246
+.377
+
+
+Adolis García
+Adolis GarcíaNo new player Notes
+PHI - OF
+FA
+1.0
+223
+625
+46%
+0.85/3.76
+0.43
+0.85
+0.21
+0.00
+0.14
+0.56
+0.10
+0.21
+0.04
+1.00
+1.48
+.227
+.394
+
+
+Carson Kelly
+Carson KellyNew Player Note
+CHC - C
+FA
+1.0
+599
+627
+4%
+0.83/3.32
+0.43
+0.83
+0.12
+0.01
+0.15
+0.45
+0.02
+0.41
+0.03
+0.72
+1.42
+.249
+.428
+
+
+Luis Matos
+Luis MatosNo new player Notes
+SF - OF
+FA
+1.0
+1,488
+629
+0%
+0.67/3.02
+0.46
+0.67
+0.16
+0.02
+0.14
+0.39
+0.07
+0.19
+0.00
+0.47
+1.28
+.221
+.424
+
+
+Kyle Manzardo
+Kyle ManzardoPlayer Note
+CLE - 1B
+FA
+1.0
+247
+631
+21%
+0.77/3.31
+0.33
+0.77
+0.13
+0.01
+0.19
+0.49
+0.01
+0.34
+0.06
+0.95
+1.51
+.234
+.455
+
+
+Dominic Canzone
+Dominic CanzoneNo new player Notes
+SEA - OF
+FA
+1.0
+310
+632
+3%
+0.89/2.96
+0.37
+0.89
+0.13
+0.00
+0.13
+0.39
+0.04
+0.24
+0.04
+0.72
+1.43
+.300
+.481
+
+
+Nick Castellanos
+Nick CastellanosPlayer Note
+SD - OF
+FA
+1.0
+328
+633
+8%
+0.93/3.72
+0.49
+0.93
+0.18
+0.01
+0.12
+0.49
+0.03
+0.22
+0.03
+0.90
+1.49
+.250
+.400
+
+
+Heriberto Hernández
+Heriberto HernándezPlayer Note
+MIA - OF
+FA
+1.0
+1,342
+635
+0%
+0.78/2.94
+0.46
+0.78
+0.14
+0.01
+0.11
+0.52
+0.01
+0.36
+0.03
+0.89
+1.29
+.266
+.438
+
+
+Lars Nootbaar
+Lars NootbaarDTDPlayer Note
+STL - OF
+FA
+1.0
+570
+638
+3%
+0.88/3.77
+0.50
+0.88
+0.18
+0.01
+0.10
+0.36
+0.03
+0.47
+0.04
+0.88
+1.36
+.234
+.361
+
+
+Griffin Conine
+Griffin ConineNo new player Notes
+MIA - OF
+FA
+1.0
+1,595
+639
+0%
+0.83/3.29
+0.54
+0.83
+0.29
+0.00
+0.08
+0.33
+0.00
+0.29
+0.00
+1.04
+1.38
+.253
+.418
+
+
+Luis Robert Jr.
+Luis Robert Jr.New Player Note
+NYM - OF
+FA
+1.0
+124
+640
+88%
+0.77/3.47
+0.47
+0.77
+0.11
+0.00
+0.13
+0.48
+0.30
+0.36
+0.02
+1.02
+1.26
+.223
+.364
+
+
+Trevor Larnach
+Trevor LarnachNo new player Notes
+MIN - OF
+FA
+1.0
+406
+641
+2%
+0.89/3.54
+0.44
+0.89
+0.17
+0.01
+0.12
+0.42
+0.03
+0.37
+0.03
+0.86
+1.43
+.250
+.404
+
+
+Jake Meyers
+Jake MeyersPlayer Note
+HOU - OF
+FA
+1.0
+486
+642
+1%
+0.96/3.30
+0.51
+0.96
+0.14
+0.02
+0.03
+0.23
+0.15
+0.30
+0.03
+0.64
+1.23
+.292
+.373
+
+
+Otto Lopez
+Otto LopezPlayer Note
+MIA - 2B,SS
+FA
+1.0
+187
+644
+61%
+0.94/3.80
+0.46
+0.94
+0.15
+0.00
+0.10
+0.54
+0.10
+0.31
+0.02
+0.57
+1.40
+.246
+.368
+
+
+Mike Yastrzemski
+Mike YastrzemskiPlayer Note
+ATL - OF
+FA
+1.0
+468
+652
+3%
+0.76/3.27
+0.47
+0.76
+0.19
+0.01
+0.12
+0.32
+0.05
+0.49
+0.01
+0.74
+1.32
+.233
+.403
+
+
+Warming Bernabel
+Warming BernabelNAPlayer Note
+WSH - 1B
+FA
+1.0
+1,577
+655
+0%
+0.88/3.48
+0.38
+0.88
+0.20
+0.03
+0.10
+0.35
+0.03
+0.18
+0.00
+0.63
+1.43
+.252
+.410
+
+
+Marcus Semien
+Marcus SemienPlayer Note
+NYM - 2B
+FA
+1.0
+182
+656
+82%
+0.85/3.70
+0.49
+0.85
+0.13
+0.01
+0.12
+0.49
+0.09
+0.39
+0.04
+0.73
+1.35
+.230
+.364
+
+
+Colt Keith
+Colt KeithNo new player Notes
+DET - 1B,2B,3B
+FA
+1.0
+280
+657
+14%
+0.77/3.02
+0.47
+0.77
+0.16
+0.01
+0.09
+0.33
+0.01
+0.35
+0.01
+0.74
+1.25
+.256
+.413
+
+
+Rob Refsnyder
+Rob RefsnyderNo new player Notes
+SEA - OF
+FA
+1.0
+1,330
+659
+0%
+0.70/2.60
+0.41
+0.70
+0.17
+0.00
+0.13
+0.43
+0.04
+0.34
+0.01
+0.77
+1.26
+.269
+.484
+
+
+Joey Loperfido
+Joey LoperfidoNo new player Notes
+HOU - OF
+FA
+1.0
+1,509
+664
+0%
+0.78/2.34
+0.29
+0.78
+0.10
+0.00
+0.10
+0.34
+0.02
+0.10
+0.07
+0.66
+1.17
+.333
+.500
+
+
+Paul Goldschmidt
+Paul GoldschmidtPlayer Note
+NYY - 1B Contest Eligible Player
+FA
+1.0
+381
+665
+6%
+0.92/3.35
+0.52
+0.92
+0.21
+0.01
+0.07
+0.31
+0.03
+0.25
+0.03
+0.68
+1.35
+.274
+.403
+
+
+Jordan Beck
+Jordan BeckNo new player Notes
+COL - OF
+FA
+1.0
+244
+666
+9%
+0.94/3.64
+0.42
+0.94
+0.18
+0.03
+0.11
+0.36
+0.13
+0.29
+0.03
+1.18
+1.51
+.258
+.416
+
+
+Jesús Sánchez
+Jesús SánchezNo new player Notes
+TOR - OF
+FA
+1.0
+414
+670
+3%
+0.80/3.37
+0.46
+0.80
+0.16
+0.03
+0.10
+0.36
+0.10
+0.31
+0.01
+0.82
+1.33
+.237
+.395
+
+
+Tyler Stephenson
+Tyler StephensonNo new player Notes
+CIN - C
+FA
+1.0
+317
+673
+4%
+0.78/3.40
+0.45
+0.78
+0.20
+0.00
+0.15
+0.57
+0.00
+0.42
+0.02
+1.32
+1.43
+.231
+.421
+
+
+Ryan Ritter
+Ryan RitterNew Player Note
+COL - 2B,SS
+FA
+1.0
+1,567
+675
+0%
+0.75/3.12
+0.37
+0.75
+0.15
+0.05
+0.02
+0.30
+0.05
+0.17
+0.08
+1.02
+1.05
+.241
+.337
+
+
+Wilmer Flores
+Wilmer FloresNAPlayer Note
+SF - 1B
+FA
+1.0
+1,134
+676
+1%
+0.81/3.35
+0.35
+0.81
+0.08
+0.00
+0.13
+0.57
+0.01
+0.27
+0.06
+0.70
+1.27
+.241
+.379
+
+
+Casey Schmitt
+Casey SchmittNo new player Notes
+SF - 1B,2B,3B
+FA
+1.0
+1,418
+677
+1%
+0.78/3.28
+0.36
+0.78
+0.16
+0.00
+0.13
+0.42
+0.00
+0.28
+0.05
+0.87
+1.32
+.237
+.401
+
+
+Austin Wells
+Austin WellsNo new player Notes
+NYY - C Contest Eligible Player
+FA
+1.0
+482
+678
+15%
+0.70/3.18
+0.40
+0.70
+0.17
+0.01
+0.17
+0.56
+0.04
+0.24
+0.04
+0.94
+1.39
+.219
+.436
+
+
+Bryan Reynolds
+Bryan ReynoldsNo new player Notes
+PIT - OF
+FA
+1.0
+158
+680
+83%
+0.94/3.81
+0.44
+0.94
+0.25
+0.02
+0.10
+0.47
+0.02
+0.37
+0.05
+1.12
+1.53
+.245
+.402
+
+
+James McCann
+James McCannNo new player Notes
+AZ - C
+FA
+1.0
+1,503
+681
+0%
+0.76/2.93
+0.43
+0.76
+0.14
+0.00
+0.12
+0.40
+0.00
+0.19
+0.10
+0.79
+1.26
+.260
+.431
+
+
+Dylan Beavers
+Dylan BeaversNo new player Notes
+BAL - OF
+FA
+1.0
+1,585
+684
+3%
+0.71/3.14
+0.46
+0.71
+0.14
+0.03
+0.11
+0.40
+0.06
+0.74
+0.00
+1.03
+1.26
+.227
+.400
+
+
+Cam Smith
+Cam SmithPlayer Note
+HOU - OF
+FA
+1.0
+329
+685
+5%
+0.78/3.29
+0.41
+0.78
+0.16
+0.02
+0.07
+0.38
+0.06
+0.32
+0.05
+1.02
+1.18
+.236
+.358
+
+
+Carlos Cortes
+Carlos CortesNo new player Notes
+ATH - OF
+FA
+1.0
+1,560
+686
+0%
+0.69/2.24
+0.26
+0.69
+0.19
+0.02
+0.10
+0.33
+0.00
+0.07
+0.00
+0.48
+1.21
+.309
+.543
+
+
+Austin Martin
+Austin MartinNo new player Notes
+MIN - 2B,OF
+FA
+1.0
+1,468
+687
+1%
+0.88/3.12
+0.44
+0.88
+0.16
+0.02
+0.02
+0.14
+0.22
+0.44
+0.02
+0.62
+1.14
+.282
+.365
+
+
+Tyler O'Neill
+Tyler O'NeillPlayer Note
+BAL - OF
+FA
+1.0
+1,392
+689
+2%
+0.67/3.35
+0.41
+0.67
+0.11
+0.02
+0.17
+0.48
+0.07
+0.41
+0.06
+0.94
+1.31
+.199
+.392
+
+
+Tommy Edman
+Tommy EdmanDTDPlayer Note
+LAD - 2B,3B,OF
+FA
+1.0
+311
+690
+12%
+0.80/3.57
+0.51
+0.80
+0.13
+0.01
+0.13
+0.51
+0.03
+0.20
+0.06
+0.63
+1.36
+.225
+.382
+
+
+Eric Wagaman
+Eric WagamanNo new player Notes
+MIN - 1B,OF
+FA
+1.0
+1,230
+691
+1%
+0.85/3.40
+0.40
+0.85
+0.20
+0.02
+0.06
+0.38
+0.03
+0.23
+0.01
+0.71
+1.29
+.250
+.378
+
+
+Amed Rosario
+Amed RosarioPlayer Note
+NYY - 2B,3B
+FA
+1.0
+1,439
+692
+0%
+0.81/2.92
+0.32
+0.81
+0.18
+0.00
+0.10
+0.37
+0.02
+0.11
+0.03
+0.50
+1.27
+.276
+.436
+
+
+Jasson Domínguez
+Jasson DomínguezPlayer Note
+NYY - OF
+FA
+1.0
+292
+693
+14%
+0.80/3.10
+0.47
+0.80
+0.15
+0.01
+0.08
+0.38
+0.19
+0.33
+0.02
+0.93
+1.20
+.257
+.388
+
+
+Brett Baty
+Brett BatyNew Player Note
+NYM - 2B,3B
+FA
+1.0
+323
+699
+6%
+0.77/3.02
+0.41
+0.77
+0.10
+0.02
+0.14
+0.38
+0.06
+0.25
+0.02
+0.83
+1.32
+.254
+.435
+
+
+Gavin Lux
+Gavin LuxDTDNew Player Note
+TB - 2B,3B,OF
+FA
+1.0
+551
+700
+2%
+0.86/3.19
+0.35
+0.86
+0.20
+0.01
+0.04
+0.38
+0.01
+0.40
+0.00
+0.81
+1.19
+.269
+.374
+
+
+Ildemaro Vargas
+Ildemaro VargasNANo new player Notes
+AZ - 1B,2B
+FA
+1.0
+1,529
+701
+0%
+0.82/3.03
+0.32
+0.82
+0.05
+0.03
+0.08
+0.50
+0.00
+0.05
+0.05
+0.39
+1.16
+.270
+.383
+
+
+Nick Sogard
+Nick SogardNo new player Notes
+BOS - 1B,2B
+FA
+1.0
+1,594
+704
+0%
+0.83/3.20
+0.43
+0.83
+0.27
+0.00
+0.00
+0.30
+0.07
+0.17
+0.10
+0.80
+1.10
+.260
+.344
+
+
+Cedric Mullins
+Cedric MullinsDTDNew Player Note
+TB - OF
+FA
+1.0
+263
+705
+6%
+0.71/3.27
+0.44
+0.71
+0.17
+0.01
+0.13
+0.44
+0.17
+0.38
+0.03
+0.90
+1.28
+.216
+.391
+
+
+Starling Marte
+Starling MartePlayer Note
+KC - OF
+FA
+1.0
+643
+706
+1%
+0.81/2.99
+0.38
+0.81
+0.14
+0.00
+0.09
+0.35
+0.07
+0.22
+0.09
+0.69
+1.22
+.270
+.410
+
+
+Colton Cowser
+Colton CowserNo new player Notes
+BAL - OF
+FA
+1.0
+278
+715
+7%
+0.70/3.55
+0.39
+0.70
+0.15
+0.00
+0.17
+0.43
+0.15
+0.29
+0.07
+1.39
+1.37
+.196
+.385
+
+
+JJ Bleday
+JJ BledayPlayer Note
+CIN - OF
+FA
+1.0
+1,236
+722
+1%
+0.66/3.13
+0.49
+0.66
+0.17
+0.00
+0.14
+0.40
+0.01
+0.37
+0.00
+0.93
+1.27
+.212
+.404
+
+
+Josh Lowe
+Josh LoweDTDPlayer Note
+LAA - OF
+FA
+1.0
+272
+723
+4%
+0.81/3.67
+0.52
+0.81
+0.19
+0.02
+0.10
+0.37
+0.17
+0.31
+0.03
+1.01
+1.34
+.220
+.366
+
+
+Royce Lewis
+Royce LewisPlayer Note
+MIN - 3B
+FA
+1.0
+209
+726
+31%
+0.84/3.55
+0.34
+0.84
+0.17
+0.00
+0.12
+0.49
+0.11
+0.24
+0.00
+0.75
+1.38
+.237
+.388
+
+
+Michael Helman
+Michael HelmanPlayer Note
+TEX - OF
+FA
+1.0
+1,537
+733
+0%
+0.61/2.61
+0.47
+0.61
+0.13
+0.03
+0.13
+0.53
+0.11
+0.18
+0.03
+0.55
+1.18
+.232
+.455
+
+
+Josh Jung
+Josh JungDTDNew Player Note
+TEX - 3B
+FA
+1.0
+325
+736
+6%
+0.92/3.68
+0.40
+0.92
+0.18
+0.01
+0.11
+0.47
+0.03
+0.21
+0.02
+0.98
+1.44
+.251
+.390
+
+
+Carlos Narváez
+Carlos NarváezPlayer Note
+BOS - C
+FA
+1.0
+1,309
+737
+3%
+0.82/3.42
+0.43
+0.82
+0.23
+0.00
+0.13
+0.42
+0.01
+0.32
+0.01
+0.94
+1.43
+.241
+.419
+
+
+Andrew McCutchen
+Andrew McCutchenNANew Player Note
+TEX - OF
+FA
+1.0
+576
+740
+1%
+0.84/3.53
+0.38
+0.84
+0.16
+0.00
+0.10
+0.42
+0.01
+0.50
+0.01
+0.87
+1.30
+.239
+.367
+
+
+Matt Shaw
+Matt ShawNo new player Notes
+CHC - 3B
+FA
+1.0
+254
+741
+20%
+0.71/3.12
+0.45
+0.71
+0.17
+0.02
+0.10
+0.35
+0.13
+0.30
+0.02
+0.75
+1.23
+.226
+.394
+
+
+Nathan Lukes
+Nathan LukesPlayer Note
+TOR - OF
+FA
+1.0
+558
+743
+1%
+0.73/2.87
+0.41
+0.73
+0.14
+0.01
+0.09
+0.48
+0.01
+0.28
+0.01
+0.44
+1.17
+.255
+.407
+
+
+Victor Caratini
+Victor CaratiniNo new player Notes
+MIN - C,1B
+FA
+1.0
+1,250
+744
+2%
+0.78/3.02
+0.31
+0.78
+0.12
+0.00
+0.11
+0.40
+0.01
+0.20
+0.11
+0.57
+1.22
+.259
+.404
+
+
+Edmundo Sosa
+Edmundo SosaNo new player Notes
+PHI - 2B,3B,SS
+FA
+1.0
+1,260
+745
+1%
+0.75/2.73
+0.34
+0.75
+0.13
+0.01
+0.12
+0.44
+0.01
+0.11
+0.02
+0.63
+1.28
+.276
+.469
+
+
+Christian Encarnacion-Strand
+C. Encarnacion-StrandPlayer Note
+CIN - 1B,3B
+FA
+1.0
+1,586
+749
+1%
+0.75/3.61
+0.36
+0.75
+0.11
+0.00
+0.17
+0.53
+0.00
+0.08
+0.06
+0.89
+1.36
+.208
+.377
+
+
+Marcell Ozuna
+Marcell OzunaNo new player Notes
+PIT - Util
+FA
+1.0
+265
+750
+16%
+0.78/3.36
+0.42
+0.78
+0.13
+0.00
+0.14
+0.47
+0.00
+0.65
+0.02
+0.99
+1.34
+.232
+.400
+
+
+Oneil Cruz
+Oneil CruzPlayer Note
+PIT - OF Contest Eligible Player
+FA
+1.0
+80
+751
+96%
+0.70/3.49
+0.46
+0.70
+0.13
+0.02
+0.15
+0.45
+0.28
+0.47
+0.03
+1.29
+1.32
+.200
+.378
+
+
+Nick Gonzales
+Nick GonzalesPlayer Note
+PIT - 2B,SS
+FA
+1.0
+1,362
+752
+1%
+1.03/3.97
+0.41
+1.03
+0.19
+0.03
+0.05
+0.31
+0.00
+0.22
+0.02
+0.76
+1.44
+.260
+.362
+
+
+Blaze Alexander
+Blaze AlexanderNew Player Note
+BAL - 2B,3B
+FA
+1.0
+1,465
+753
+1%
+0.72/3.11
+0.42
+0.72
+0.16
+0.01
+0.09
+0.38
+0.05
+0.30
+0.14
+1.16
+1.19
+.230
+.383
+
+
+Jahmai Jones
+Jahmai JonesNo new player Notes
+DET - OF
+FA
+1.0
+1,475
+754
+0%
+0.51/1.79
+0.29
+0.51
+0.15
+0.01
+0.10
+0.32
+0.03
+0.25
+0.04
+0.44
+0.99
+.287
+.550
+
+
+Willi Castro
+Willi CastroPlayer Note
+COL - 2B,3B,OF
+FA
+1.0
+333
+756
+13%
+0.76/3.35
+0.48
+0.76
+0.14
+0.03
+0.09
+0.28
+0.08
+0.33
+0.09
+0.93
+1.23
+.226
+.366
+
+
+Otto Kemp
+Otto KempPlayer Note
+PHI - 1B,3B,OF
+FA
+1.0
+1,495
+757
+0%
+0.74/3.18
+0.42
+0.74
+0.18
+0.00
+0.13
+0.45
+0.03
+0.19
+0.11
+1.08
+1.31
+.234
+.411
+
+
+Spencer Steer
+Spencer SteerNo new player Notes
+CIN - 1B,OF
+FA
+1.0
+288
+759
+17%
+0.83/3.49
+0.45
+0.83
+0.14
+0.01
+0.14
+0.51
+0.05
+0.35
+0.03
+0.88
+1.43
+.238
+.411
+
+
+Adley Rutschman
+Adley RutschmanPlayer Note
+BAL - C Contest Eligible Player
+FA
+1.0
+235
+762
+76%
+0.79/3.58
+0.41
+0.79
+0.18
+0.02
+0.10
+0.32
+0.00
+0.44
+0.01
+0.63
+1.31
+.220
+.366
+
+
+Pavin Smith
+Pavin SmithNew Player Note
+AZ - 1B
+FA
+1.0
+1,373
+763
+1%
+0.72/2.80
+0.41
+0.72
+0.20
+0.01
+0.09
+0.32
+0.02
+0.47
+0.00
+1.06
+1.22
+.258
+.434
+
+
+Mark Vientos
+Mark VientosPlayer Note
+NYM - 3B
+FA
+1.0
+262
+764
+10%
+0.82/3.50
+0.36
+0.82
+0.17
+0.02
+0.14
+0.50
+0.01
+0.25
+0.04
+0.95
+1.45
+.233
+.413
+
+
+José Tena
+José TenaNew Player Note
+WSH - 2B,3B
+FA
+1.0
+1,545
+765
+0%
+0.74/3.04
+0.38
+0.74
+0.26
+0.04
+0.00
+0.32
+0.06
+0.30
+0.02
+0.74
+1.08
+.243
+.355
+
+
+Anthony Volpe
+Anthony VolpeDTDPlayer Note
+NYY - SS Contest Eligible Player
+FA
+1.0
+331
+766
+6%
+0.75/3.52
+0.42
+0.75
+0.21
+0.03
+0.12
+0.47
+0.12
+0.28
+0.03
+0.98
+1.38
+.212
+.391
+
+
+Brenton Doyle
+Brenton DoyleDTDNew Player Note
+COL - OF
+FA
+1.0
+143
+770
+75%
+0.85/3.64
+0.41
+0.85
+0.17
+0.01
+0.11
+0.41
+0.13
+0.22
+0.00
+1.00
+1.37
+.233
+.376
+
+
+Tyler Heineman
+Tyler HeinemanNo new player Notes
+TOR - C
+FA
+1.0
+1,497
+771
+0%
+0.70/2.44
+0.41
+0.70
+0.13
+0.02
+0.05
+0.33
+0.03
+0.20
+0.10
+0.51
+1.02
+.289
+.416
+
+
+Liam Hicks
+Liam HicksNo new player Notes
+MIA - C,1B
+FA
+1.0
+1,433
+772
+0%
+0.69/2.79
+0.31
+0.69
+0.11
+0.01
+0.05
+0.38
+0.02
+0.36
+0.08
+0.47
+0.97
+.247
+.346
+
+
+Rhys Hoskins
+Rhys HoskinsNAPlayer Note
+CLE - 1B
+FA
+1.0
+1,240
+776
+1%
+0.73/3.10
+0.33
+0.73
+0.13
+0.01
+0.13
+0.48
+0.02
+0.42
+0.06
+1.01
+1.29
+.237
+.416
+
+
+Sean Murphy
+Sean MurphyDTDNo new player Notes
+ATL - C
+FA
+1.0
+1,453
+779
+1%
+0.62/3.10
+0.36
+0.62
+0.14
+0.00
+0.17
+0.48
+0.00
+0.37
+0.09
+1.12
+1.27
+.199
+.409
+
+
+Ryan Mountcastle
+Ryan MountcastleNo new player Notes
+BAL - 1B
+FA
+1.0
+1,285
+782
+1%
+0.93/3.73
+0.38
+0.93
+0.20
+0.00
+0.08
+0.39
+0.03
+0.17
+0.04
+1.10
+1.37
+.250
+.367
+
+
+Adam Frazier
+Adam FrazierNANo new player Notes
+LAA - 2B,OF
+FA
+1.0
+1,207
+784
+1%
+0.84/3.13
+0.32
+0.84
+0.15
+0.00
+0.05
+0.33
+0.06
+0.19
+0.06
+0.60
+1.14
+.267
+.365
+
+
+Edgar Quero
+Edgar QueroPlayer Note
+CWS - C
+FA
+1.0
+1,456
+785
+1%
+0.88/3.29
+0.28
+0.88
+0.15
+0.00
+0.05
+0.32
+0.00
+0.29
+0.04
+0.64
+1.17
+.268
+.356
+
+
+Kyle Higashioka
+Kyle HigashiokaPlayer Note
+TEX - C
+FA
+1.0
+1,296
+786
+1%
+0.78/3.22
+0.35
+0.78
+0.15
+0.01
+0.12
+0.50
+0.03
+0.21
+0.02
+0.77
+1.30
+.241
+.403
+
+
+CJ Kayfus
+CJ KayfusNew Player Note
+CLE - 1B,OF
+FA
+1.0
+1,566
+791
+1%
+0.61/2.80
+0.36
+0.61
+0.23
+0.02
+0.09
+0.43
+0.09
+0.25
+0.05
+0.86
+1.16
+.220
+.415
+
+
+Dylan Crews
+Dylan CrewsPlayer Note
+WSH - OF
+FA
+1.0
+173
+792
+58%
+0.72/3.45
+0.51
+0.72
+0.09
+0.02
+0.12
+0.32
+0.20
+0.28
+0.06
+0.89
+1.21
+.208
+.352
+
+
+Ramón Urías
+Ramón UríasNo new player Notes
+STL - 2B,3B
+FA
+1.0
+1,326
+795
+0%
+0.76/3.14
+0.29
+0.76
+0.15
+0.00
+0.10
+0.39
+0.03
+0.24
+0.02
+0.79
+1.21
+.241
+.384
+
+
+Alex Jackson
+Alex JacksonNo new player Notes
+MIN - C
+FA
+1.0
+1,613
+799
+0%
+0.56/2.53
+0.47
+0.56
+0.22
+0.00
+0.14
+0.22
+0.00
+0.14
+0.11
+1.03
+1.19
+.220
+.473
+
+
+Jake Burger
+Jake BurgerPlayer Note
+TEX - 1B
+FA
+1.0
+300
+801
+8%
+0.82/3.46
+0.42
+0.82
+0.15
+0.01
+0.16
+0.51
+0.01
+0.12
+0.05
+0.90
+1.45
+.236
+.419
+
+
+Javier Sanoja
+Javier SanojaNo new player Notes
+MIA - 2B,3B,SS,OF
+FA
+1.0
+1,422
+802
+0%
+0.64/2.65
+0.34
+0.64
+0.19
+0.03
+0.05
+0.32
+0.05
+0.16
+0.02
+0.35
+1.05
+.243
+.396
+
+
+Brice Matthews
+Brice MatthewsPlayer Note
+HOU - 2B
+FA
+1.0
+1,653
+804
+1%
+0.54/3.23
+0.46
+0.54
+0.00
+0.00
+0.31
+0.69
+0.08
+0.15
+0.08
+1.54
+1.46
+.167
+.452
+
+
+Maximo Acosta
+Maximo AcostaNo new player Notes
+MIA - SS
+FA
+1.0
+1,661
+805
+0%
+0.58/2.84
+0.37
+0.58
+0.05
+0.00
+0.16
+0.26
+0.05
+0.32
+0.05
+0.89
+1.11
+.204
+.389
+
+
+Max Kepler
+Max KeplerSUSPNo new player Notes
+PHI - OF
+FA
+1.0
+1,139
+806
+0%
+0.71/3.28
+0.46
+0.71
+0.15
+0.00
+0.14
+0.41
+0.02
+0.38
+0.03
+0.73
+1.28
+.216
+.391
+
+
+Jesse Winker
+Jesse WinkerNANo new player Notes
+NYM - OF
+FA
+1.0
+1,516
+807
+0%
+0.62/2.69
+0.31
+0.62
+0.19
+0.08
+0.04
+0.38
+0.04
+0.35
+0.00
+0.81
+1.08
+.229
+.400
+
+
+Miguel Rojas
+Miguel RojasNo new player Notes
+LAD - 2B,3B,SS
+FA
+1.0
+1,320
+810
+1%
+0.67/2.54
+0.31
+0.67
+0.16
+0.00
+0.06
+0.24
+0.04
+0.21
+0.00
+0.40
+1.01
+.262
+.397
+
+
+Jared Triolo
+Jared TrioloNo new player Notes
+PIT - 1B,2B,3B,SS
+FA
+1.0
+1,379
+812
+2%
+0.70/3.09
+0.38
+0.70
+0.17
+0.02
+0.07
+0.22
+0.12
+0.36
+0.02
+0.71
+1.10
+.227
+.356
+
+
+José Caballero
+José CaballeroNo new player Notes
+NYY - 2B,3B,SS,OF
+FA
+1.0
+205
+814
+69%
+0.59/2.49
+0.41
+0.59
+0.14
+0.01
+0.04
+0.29
+0.39
+0.37
+0.02
+0.78
+0.87
+.236
+.347
+
+
+Tommy Pham
+Tommy PhamNANo new player Notes
+PIT - OF
+FA
+1.0
+1,131
+815
+1%
+0.80/3.27
+0.37
+0.80
+0.14
+0.01
+0.08
+0.43
+0.04
+0.42
+0.02
+0.78
+1.21
+.245
+.370
+
+
+José Fermín
+José FermínNo new player Notes
+STL - 2B
+FA
+1.0
+1,631
+819
+0%
+0.57/2.00
+0.17
+0.57
+0.17
+0.00
+0.03
+0.30
+0.07
+0.27
+0.03
+0.33
+0.83
+.283
+.417
+
+
+Enmanuel Valdez
+Enmanuel ValdezNo new player Notes
+PIT - 1B
+FA
+1.0
+1,619
+822
+0%
+0.61/2.94
+0.23
+0.61
+0.13
+0.06
+0.06
+0.39
+0.00
+0.35
+0.00
+0.52
+1.06
+.209
+.363
+
+
+Alex Call
+Alex CallNo new player Notes
+LAD - OF
+FA
+1.0
+1,366
+823
+0%
+0.65/2.45
+0.39
+0.65
+0.12
+0.02
+0.05
+0.28
+0.02
+0.33
+0.05
+0.50
+0.95
+.267
+.385
+
+
+Brooks Lee
+Brooks LeePlayer Note
+MIN - 2B,3B,SS
+FA
+1.0
+318
+824
+7%
+0.83/3.50
+0.36
+0.83
+0.11
+0.01
+0.12
+0.46
+0.02
+0.22
+0.03
+0.66
+1.29
+.236
+.370
+
+
+Tyler Black
+Tyler BlackPlayer Note
+MIL - 1B
+FA
+1.0
+1,710
+828
+0%
+0.40/1.60
+0.20
+0.40
+0.20
+0.00
+0.00
+0.20
+0.00
+1.00
+0.00
+0.20
+0.60
+.250
+.375
+
+
+Marcelo Mayer
+Marcelo MayerPlayer Note
+BOS - 2B,3B
+FA
+1.0
+1,607
+830
+8%
+0.66/2.89
+0.45
+0.66
+0.18
+0.02
+0.09
+0.23
+0.00
+0.18
+0.00
+0.93
+1.16
+.228
+.402
+
+
+Oswaldo Cabrera
+Oswaldo CabreraDTDNew Player Note
+NYY - 3B
+FA
+1.0
+1,536
+833
+0%
+0.76/3.15
+0.50
+0.76
+0.12
+0.00
+0.03
+0.32
+0.00
+0.32
+0.06
+0.74
+0.97
+.243
+.308
+
+
+Paul DeJong
+Paul DeJongNANo new player Notes
+NYY - 2B,3B,SS
+FA
+1.0
+1,457
+834
+0%
+0.77/3.39
+0.32
+0.77
+0.18
+0.00
+0.11
+0.40
+0.07
+0.19
+0.02
+1.23
+1.26
+.228
+.373
+
+
+Angel Martínez
+Angel MartínezNew Player Note
+CLE - 2B,OF
+FA
+1.0
+1,331
+835
+1%
+0.72/3.21
+0.40
+0.72
+0.17
+0.01
+0.08
+0.32
+0.06
+0.17
+0.04
+0.79
+1.15
+.224
+.359
+
+
+Brayan Rocchio
+Brayan RocchioNo new player Notes
+CLE - 2B,SS
+FA
+1.0
+1,376
+836
+1%
+0.70/2.99
+0.30
+0.70
+0.16
+0.02
+0.04
+0.38
+0.07
+0.19
+0.07
+0.67
+1.02
+.233
+.340
+
+
+Zach Dezenzo
+Zach DezenzoNo new player Notes
+HOU - OF
+FA
+1.0
+1,589
+839
+0%
+0.71/2.88
+0.50
+0.71
+0.18
+0.00
+0.06
+0.29
+0.03
+0.32
+0.00
+1.09
+1.06
+.245
+.367
+
+
+Kristian Campbell
+Kristian CampbellNo new player Notes
+BOS - 2B,OF
+FA
+1.0
+1,555
+841
+3%
+0.76/3.42
+0.36
+0.76
+0.15
+0.00
+0.09
+0.31
+0.03
+0.43
+0.06
+1.07
+1.18
+.223
+.345
+
+
+Bo Naylor
+Bo NaylorNo new player Notes
+CLE - C
+FA
+1.0
+1,409
+843
+2%
+0.57/2.92
+0.37
+0.57
+0.18
+0.01
+0.11
+0.38
+0.01
+0.37
+0.01
+0.80
+1.11
+.195
+.379
+
+
+Kody Clemens
+Kody ClemensNo new player Notes
+MIN - 1B,2B,OF
+FA
+1.0
+1,272
+844
+1%
+0.62/2.92
+0.39
+0.62
+0.10
+0.03
+0.16
+0.44
+0.04
+0.24
+0.04
+0.78
+1.27
+.213
+.434
+
+
+Javier Báez
+Javier BáezDTDPlayer Note
+DET - 2B,3B,SS,OF
+FA
+1.0
+543
+845
+8%
+0.85/3.31
+0.44
+0.85
+0.13
+0.02
+0.10
+0.45
+0.04
+0.08
+0.05
+0.87
+1.32
+.257
+.398
+
+
+Tomás Nido
+Tomás NidoNANo new player Notes
+DET - C
+FA
+1.0
+1,655
+849
+0%
+1.20/3.50
+0.40
+1.20
+0.00
+0.00
+0.00
+0.20
+0.00
+0.00
+0.10
+1.00
+1.20
+.343
+.343
+
+
+Rhylan Thomas
+Rhylan ThomasPlayer Note
+SEA - OF
+FA
+1.0
+1,714
+850
+0%
+0.33/2.67
+0.67
+0.33
+0.33
+0.00
+0.00
+0.67
+0.00
+0.33
+0.00
+0.00
+0.67
+.125
+.250
+
+
+Jake Fraley
+Jake FraleyNo new player Notes
+TB - OF
+FA
+1.0
+1,399
+851
+0%
+0.61/2.51
+0.41
+0.61
+0.12
+0.00
+0.08
+0.30
+0.05
+0.33
+0.01
+0.64
+0.96
+.241
+.382
+
+
+Matt McLain
+Matt McLainNew Player Note
+CIN - 2B
+FA
+1.0
+253
+853
+30%
+0.76/3.47
+0.50
+0.76
+0.12
+0.00
+0.10
+0.34
+0.12
+0.37
+0.03
+1.14
+1.19
+.220
+.343
+
+
+Mauricio Dubón
+Mauricio DubónNo new player Notes
+ATL - 2B,3B,SS,OF
+FA
+1.0
+1,355
+855
+2%
+0.67/2.77
+0.32
+0.67
+0.16
+0.00
+0.05
+0.25
+0.02
+0.18
+0.01
+0.32
+0.98
+.241
+.355
+
+
+Victor Robles
+Victor RoblesNo new player Notes
+SEA - OF
+FA
+1.0
+1,478
+856
+1%
+0.81/3.31
+0.38
+0.81
+0.13
+0.03
+0.03
+0.28
+0.19
+0.09
+0.09
+0.81
+1.09
+.245
+.330
+
+
+Ha-Seong Kim
+Ha-Seong KimDTDNo new player Notes
+ATL - 2B,SS
+FA
+1.0
+1,447
+858
+2%
+0.83/3.56
+0.40
+0.83
+0.08
+0.00
+0.10
+0.35
+0.13
+0.33
+0.04
+0.81
+1.23
+.234
+.345
+
+
+Nacho Alvarez Jr.
+Nacho Alvarez Jr.NAPlayer Note
+ATL - 3B
+FA
+1.0
+1,621
+859
+0%
+0.76/3.24
+0.31
+0.76
+0.21
+0.00
+0.03
+0.26
+0.00
+0.21
+0.09
+0.84
+1.07
+.234
+.330
+
+
+Chase Meidroth
+Chase MeidrothNo new player Notes
+CWS - 2B,3B,SS
+FA
+1.0
+324
+861
+3%
+0.93/3.69
+0.44
+0.93
+0.12
+0.00
+0.04
+0.19
+0.11
+0.37
+0.05
+0.59
+1.18
+.253
+.320
+
+
+Carlos Santana
+Carlos SantanaNo new player Notes
+AZ - 1B
+FA
+1.0
+604
+865
+1%
+0.73/3.35
+0.40
+0.73
+0.09
+0.00
+0.09
+0.44
+0.06
+0.42
+0.02
+0.73
+1.09
+.219
+.325
+
+
+Gabriel Arias
+Gabriel AriasDTDPlayer Note
+CLE - 2B,SS
+FA
+1.0
+1,358
+868
+1%
+0.74/3.35
+0.34
+0.74
+0.19
+0.02
+0.09
+0.42
+0.06
+0.21
+0.05
+1.26
+1.22
+.220
+.363
+
+
+Tristan Gray
+Tristan GrayNo new player Notes
+MIN - 2B,SS
+FA
+1.0
+1,652
+869
+0%
+0.60/2.60
+0.30
+0.60
+0.17
+0.00
+0.10
+0.30
+0.00
+0.20
+0.00
+0.63
+1.07
+.231
+.410
+
+
+Luis Urías
+Luis UríasNANo new player Notes
+ATH - 2B,3B
+FA
+1.0
+1,513
+870
+0%
+0.69/2.99
+0.28
+0.69
+0.07
+0.00
+0.08
+0.26
+0.02
+0.32
+0.06
+0.47
+1.01
+.230
+.338
+
+
+Keibert Ruiz
+Keibert RuizPlayer Note
+WSH - C
+FA
+1.0
+1,490
+871
+1%
+0.93/3.75
+0.28
+0.93
+0.18
+0.00
+0.03
+0.37
+0.00
+0.12
+0.04
+0.38
+1.19
+.247
+.318
+
+
+Rowdy Tellez
+Rowdy TellezNAPlayer Note
+TEX - 1B
+FA
+1.0
+1,242
+872
+0%
+0.59/2.58
+0.30
+0.59
+0.10
+0.00
+0.15
+0.44
+0.01
+0.15
+0.03
+0.74
+1.14
+.228
+.443
+
+
+Denzel Clarke
+Denzel ClarkeNo new player Notes
+ATH - OF
+FA
+1.0
+1,587
+879
+1%
+0.72/3.15
+0.38
+0.72
+0.17
+0.04
+0.06
+0.17
+0.13
+0.13
+0.06
+1.30
+1.17
+.230
+.372
+
+
+George Valera
+George ValeraNo new player Notes
+CLE - OF
+FA
+1.0
+1,666
+880
+0%
+0.56/2.56
+0.44
+0.56
+0.13
+0.00
+0.13
+0.31
+0.00
+0.44
+0.00
+0.81
+1.06
+.220
+.415
+
+
+Brady House
+Brady HousePlayer Note
+WSH - 3B
+FA
+1.0
+1,520
+881
+2%
+0.84/3.58
+0.36
+0.84
+0.15
+0.00
+0.05
+0.40
+0.07
+0.11
+0.00
+1.07
+1.15
+.234
+.322
+
+
+Davis Schneider
+Davis SchneiderNo new player Notes
+TOR - 2B,OF Contest Eligible Player
+FA
+1.0
+1,383
+882
+1%
+0.54/2.29
+0.40
+0.54
+0.06
+0.00
+0.13
+0.38
+0.04
+0.44
+0.02
+0.73
+1.00
+.234
+.436
+
+
+Christopher Morel
+Christopher MorelPlayer Note
+MIA - OF
+FA
+1.0
+1,348
+885
+1%
+0.58/2.65
+0.35
+0.58
+0.15
+0.00
+0.10
+0.31
+0.07
+0.24
+0.02
+1.04
+1.05
+.219
+.396
+
+
+Sam Haggerty
+Sam HaggertyNo new player Notes
+TEX - OF
+FA
+1.0
+1,486
+888
+0%
+0.64/2.53
+0.48
+0.64
+0.11
+0.05
+0.03
+0.20
+0.19
+0.25
+0.03
+0.58
+0.94
+.253
+.370
+
+
+Luis Rengifo
+Luis RengifoPlayer Note
+MIL - 2B,3B,OF
+FA
+1.0
+582
+889
+2%
+0.81/3.41
+0.37
+0.81
+0.11
+0.02
+0.06
+0.29
+0.07
+0.22
+0.02
+0.71
+1.14
+.238
+.335
+
+
+Brooks Baldwin
+Brooks BaldwinNo new player Notes
+CWS - 2B,3B,SS,OF
+FA
+1.0
+1,416
+890
+1%
+0.70/2.91
+0.31
+0.70
+0.15
+0.01
+0.11
+0.37
+0.05
+0.20
+0.01
+0.83
+1.18
+.240
+.407
+
+
+Isiah Kiner-Falefa
+Isiah Kiner-FalefaNo new player Notes
+BOS - 2B,3B,SS
+FA
+1.0
+557
+891
+1%
+0.82/3.12
+0.33
+0.82
+0.15
+0.01
+0.01
+0.29
+0.11
+0.12
+0.04
+0.56
+1.04
+.262
+.334
+
+
+Danny Jansen
+Danny JansenPlayer Note
+TEX - C
+FA
+1.0
+1,435
+892
+1%
+0.63/2.94
+0.39
+0.63
+0.11
+0.00
+0.14
+0.37
+0.00
+0.43
+0.04
+0.88
+1.17
+.215
+.399
+
+
+Ryan Fitzgerald
+Ryan FitzgeraldNANo new player Notes
+LAD - SS
+FA
+1.0
+1,627
+893
+0%
+0.38/1.92
+0.42
+0.38
+0.00
+0.00
+0.17
+0.38
+0.04
+0.29
+0.00
+0.33
+0.88
+.196
+.457
+
+
+Will Benson
+Will BensonNo new player Notes
+CIN - OF
+FA
+1.0
+1,364
+894
+1%
+0.58/2.56
+0.34
+0.58
+0.09
+0.02
+0.13
+0.46
+0.02
+0.18
+0.01
+0.74
+1.11
+.226
+.435
+
+
+Eli White
+Eli WhiteNew Player Note
+ATL - OF
+FA
+1.0
+1,345
+898
+0%
+0.57/2.44
+0.41
+0.57
+0.08
+0.03
+0.10
+0.33
+0.10
+0.10
+0.02
+0.67
+0.99
+.234
+.406
+
+
+Andrés Giménez
+Andrés GiménezNo new player Notes
+TOR - 2B,SS
+FA
+1.0
+293
+899
+8%
+0.68/3.26
+0.39
+0.68
+0.11
+0.01
+0.07
+0.35
+0.12
+0.25
+0.11
+0.65
+1.02
+.210
+.313
+
+
+Jake McCarthy
+Jake McCarthyNo new player Notes
+COL - OF
+FA
+1.0
+1,452
+900
+1%
+0.63/3.07
+0.27
+0.63
+0.10
+0.07
+0.06
+0.30
+0.09
+0.15
+0.03
+0.60
+1.06
+.204
+.345
+
+
+Jerar Encarnacion
+Jerar EncarnacionNo new player Notes
+SF - OF
+FA
+1.0
+1,639
+902
+0%
+0.58/2.89
+0.26
+0.58
+0.16
+0.00
+0.11
+0.37
+0.05
+0.05
+0.00
+0.79
+1.05
+.200
+.364
+

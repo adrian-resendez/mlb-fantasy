@@ -1,46 +1,82 @@
 import { useMemo } from "react";
 import {
+  buildDefaultWeights,
   computeWeightedScores,
-  DEFAULT_WEIGHTS,
+  getModeConfig,
   normalizePlayerName,
   sortRankings,
 } from "../utils/scoring";
 
-export function useScoringHook({ players, weights, sortConfig, searchTerm, consensusRankMap }) {
+function toFiniteNumber(value) {
+  if (value === null || value === undefined) {
+    return null;
+  }
+  if (typeof value === "string" && value.trim() === "") {
+    return null;
+  }
+  const numeric = Number(value);
+  return Number.isFinite(numeric) ? numeric : null;
+}
+
+export function useScoringHook({
+  players,
+  mode,
+  categories,
+  negativeCategories,
+  weights,
+  sortConfig,
+  consensusRankMap,
+}) {
   return useMemo(() => {
+    const modeConfig = getModeConfig(mode);
+    const activeCategories = Array.isArray(categories) && categories.length
+      ? categories
+      : modeConfig.categories;
+
     const mergedWeights = {
-      ...DEFAULT_WEIGHTS,
-      ...weights,
+      ...buildDefaultWeights(activeCategories),
+      ...(weights ?? {}),
     };
 
-    const scoredPlayers = computeWeightedScores(players, mergedWeights);
+    const scoredPlayers = computeWeightedScores(players, {
+      mode: modeConfig.key,
+      categories: activeCategories,
+      negativeCategories: negativeCategories ?? modeConfig.negativeCategories,
+      weights: mergedWeights,
+    });
 
-    const filteredPlayers = searchTerm
-      ? scoredPlayers.filter((player) => {
-          const text = `${player.name} ${player.team} ${player.position}`.toLowerCase();
-          return text.includes(searchTerm.toLowerCase());
-        })
-      : scoredPlayers;
-
-    const rankedPlayers = sortRankings(
-      filteredPlayers,
-      sortConfig?.key ?? "overall_score",
-      sortConfig?.direction ?? "desc"
-    );
-
-    const playersWithConsensus = rankedPlayers.map((player) => {
-      const consensusRank = consensusRankMap?.[normalizePlayerName(player.name)] ?? null;
-      const rankDelta = consensusRank ? consensusRank - player.rank : null;
+    const overallRankedPlayers = sortRankings(scoredPlayers, "overall_score", "desc").map((player) => {
+      const consensusRank = toFiniteNumber(consensusRankMap?.[normalizePlayerName(player.name)] ?? null);
+      const playerRank = toFiniteNumber(player.rank) ?? null;
+      const rankDelta = consensusRank !== null && playerRank !== null
+        ? consensusRank - playerRank
+        : null;
       return {
         ...player,
+        overall_rank: player.rank,
         consensus_rank: consensusRank,
         rank_delta: rankDelta,
       };
     });
 
+    const rankedPlayers = sortRankings(
+      overallRankedPlayers,
+      sortConfig?.key ?? "overall_score",
+      sortConfig?.direction ?? "desc"
+    );
+
     return {
-      rankedPlayers: playersWithConsensus,
+      rankedPlayers,
+      overallRankedPlayers,
       mergedWeights,
     };
-  }, [players, weights, sortConfig, searchTerm, consensusRankMap]);
+  }, [
+    players,
+    mode,
+    categories,
+    negativeCategories,
+    weights,
+    sortConfig,
+    consensusRankMap,
+  ]);
 }

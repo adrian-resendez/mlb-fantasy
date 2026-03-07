@@ -1,0 +1,6000 @@
+
+
+Shohei Ohtani (Batter)
+Shohei Ohtani (Batter)No new player Notes
+LAD - Util
+FA
+116
+2
+1
+100%
+160/519
+123
+160
+28.6
+4.4
+49
+110
+26.2
+87.8
+6.8
+160
+344
+.308
+.662
+
+
+Aaron Judge
+Aaron JudgeNo new player Notes
+NYY - OF
+FA
+145
+1
+2
+100%
+153/512
+110
+153
+26.6
+0.9
+49.9
+115
+8.6
+108
+8.3
+159
+330
+.299
+.646
+
+
+Bobby Witt Jr.
+Bobby Witt Jr.Player Note
+KC - SS
+FA
+150
+3
+3
+100%
+174/596
+101
+174
+36.7
+5.2
+28.7
+93
+35.1
+46.9
+7.1
+113
+307
+.292
+.515
+
+
+Juan Soto
+Juan SotoPlayer Note
+NYM - OF
+FA
+151
+4
+4
+100%
+147/538
+108
+147
+25.1
+0.9
+38.8
+98.9
+19.3
+115
+7
+121
+290
+.273
+.540
+
+
+Vladimir Guerrero Jr.
+Vladimir Guerrero Jr.No new player Notes
+TOR - 1B
+FA
+151
+17
+5
+100%
+170/576
+94.4
+170
+31.7
+0.6
+29.6
+95.9
+5
+70.4
+7.5
+91.5
+291
+.295
+.506
+
+
+José Ramírez
+José RamírezPlayer Note
+CLE - 3B
+FA
+150
+7
+6
+100%
+157/574
+92.3
+157
+32.4
+2.8
+27
+87.3
+33.8
+60.9
+5.6
+74.6
+276
+.275
+.482
+
+
+Corbin Carroll
+Corbin CarrollDTDPlayer Note
+AZ - OF
+FA
+138
+20
+7
+99%
+136/530
+98.8
+136
+28.2
+8
+26.2
+77.5
+34.2
+61.8
+9
+127
+258
+.257
+.488
+
+
+Ronald Acuña Jr.
+Ronald Acuña Jr.Player Note
+ATL - OF
+FA
+146
+12
+9
+100%
+152/547
+106
+152
+24.8
+2.2
+29.6
+79.4
+27.2
+82.1
+9.1
+138
+270
+.278
+.494
+
+
+Gunnar Henderson
+Gunnar HendersonNo new player Notes
+BAL - SS
+FA
+152
+13
+10
+100%
+157/586
+95.9
+157
+32.8
+3.4
+24.9
+79.9
+22
+64.6
+7.1
+141
+271
+.268
+.463
+
+
+Julio Rodríguez
+Julio RodríguezPlayer Note
+SEA - OF
+FA
+149
+10
+11
+100%
+160/594
+92.4
+160
+26.9
+3.4
+28.5
+87.8
+26.6
+44.3
+8.9
+147
+279
+.270
+.470
+
+
+Ketel Marte
+Ketel MartePlayer Note
+AZ - 2B
+FA
+140
+28
+12
+99%
+149/537
+90.1
+149
+30.1
+1.7
+29.3
+89.1
+5.3
+66
+7.7
+101
+271
+.278
+.504
+
+
+Fernando Tatis Jr.
+Fernando Tatis Jr.Player Note
+SD - OF
+FA
+144
+15
+14
+99%
+150/556
+96.2
+150
+27.7
+2.4
+27.7
+80
+24
+66.5
+7.3
+127
+266
+.270
+.477
+
+
+Kyle Tucker
+Kyle TuckerDTDPlayer Note
+LAD - OF
+FA
+140
+8
+15
+100%
+139/519
+93.1
+139
+27.2
+2.2
+28
+84.7
+20.2
+80
+5.4
+92.3
+254
+.268
+.491
+
+
+Pete Alonso
+Pete AlonsoPlayer Note
+BAL - 1B
+FA
+152
+23
+16
+99%
+146/581
+86.8
+146
+29
+0.8
+37.3
+102
+2.3
+60.1
+12.6
+153
+288
+.252
+.497
+
+
+Freddie Freeman
+Freddie FreemanPlayer Note
+LAD - 1B
+FA
+142
+59
+17
+99%
+152/546
+83.7
+152
+33.8
+1.4
+23.2
+84.1
+8.6
+64
+8.8
+115
+258
+.279
+.473
+
+
+Yordan Alvarez
+Yordan AlvarezPlayer Note
+HOU - OF
+FA
+129
+52
+19
+99%
+138/477
+78.8
+138
+27.5
+1.2
+30
+85.8
+3.8
+65.6
+7.7
+97.4
+258
+.290
+.542
+
+
+Brent Rooker
+Brent RookerNew Player Note
+ATH - OF
+FA
+147
+34
+20
+99%
+148/564
+85.9
+148
+31
+1.7
+32.5
+93.6
+6.4
+57.4
+7.6
+163
+280
+.263
+.497
+
+
+Bryce Harper
+Bryce HarperPlayer Note
+PHI - 1B
+FA
+139
+32
+23
+99%
+142/523
+83.4
+142
+31.2
+1.2
+26.9
+84.3
+10
+72
+6.4
+130
+257
+.273
+.492
+
+
+Trea Turner
+Trea TurnerPlayer Note
+PHI - SS
+FA
+141
+25
+24
+99%
+160/573
+87.9
+160
+29
+3.6
+17.7
+70.2
+26.8
+38.7
+5.7
+114
+250
+.280
+.436
+
+
+Francisco Lindor
+Francisco LindorDTDNew Player Note
+NYM - SS Contest Eligible Player
+FA
+142
+26
+25
+99%
+143/558
+91.5
+143
+29.2
+1.3
+25.5
+77.6
+22.6
+55.2
+10.7
+117
+251
+.258
+.452
+
+
+Kyle Schwarber
+Kyle SchwarberNo new player Notes
+PHI - OF
+FA
+148
+19
+26
+100%
+127/546
+98.4
+127
+21.2
+1
+43.4
+105
+6
+94.7
+9.1
+182
+280
+.233
+.514
+
+
+Jackson Chourio
+Jackson ChourioNo new player Notes
+MIL - OF
+FA
+144
+16
+27
+99%
+154/581
+84
+154
+32.6
+3.4
+22.7
+80.7
+23.6
+38
+4.5
+130
+261
+.266
+.450
+
+
+Junior Caminero
+Junior CamineroPlayer Note
+TB - 3B Contest Eligible Player
+FA
+143
+14
+29
+99%
+150/566
+81.4
+150
+26.6
+0.9
+35.3
+99.4
+5.9
+42.4
+4.8
+122
+284
+.265
+.502
+
+
+Jarren Duran
+Jarren DuranPlayer Note
+BOS - OF
+FA
+136
+44
+31
+99%
+139/535
+80.3
+139
+35.1
+5
+16.7
+68.7
+24.3
+48.2
+7.3
+138
+234
+.261
+.439
+
+
+Mookie Betts
+Mookie BettsPlayer Note
+LAD - SS
+FA
+143
+39
+32
+99%
+148/557
+86.7
+148
+30.2
+1.8
+20.9
+78.8
+9.1
+64.8
+5.9
+74.9
+245
+.266
+.439
+
+
+Nick Kurtz
+Nick KurtzPlayer Note
+ATH - 1B
+FA
+139
+21
+33
+99%
+133/511
+90.4
+133
+26.2
+2.1
+36.9
+89.1
+3.4
+65.4
+5.7
+178
+274
+.261
+.537
+
+
+Zach Neto
+Zach NetoPlayer Note
+LAA - SS
+FA
+145
+24
+34
+99%
+139/566
+84.8
+139
+29.8
+1.5
+26.6
+74.2
+26.2
+42.8
+15
+156
+252
+.247
+.446
+
+
+Elly De La Cruz
+Elly De La CruzNew Player Note
+CIN - SS Contest Eligible Player
+FA
+145
+5
+35
+100%
+143/566
+90
+143
+29.1
+4.4
+21.1
+72.3
+41.3
+57
+4.6
+175
+244
+.254
+.432
+
+
+Roman Anthony
+Roman AnthonyPlayer Note
+BOS - OF
+FA
+146
+45
+36
+99%
+147/551
+83.8
+147
+32.5
+2.3
+21.3
+69.7
+10.5
+72.4
+8
+160
+248
+.268
+.453
+
+
+Rafael Devers
+Rafael DeversDTDPlayer Note
+SF - 1B
+FA
+147
+46
+38
+99%
+139/549
+86.3
+139
+28.1
+1.1
+30.7
+90.1
+2.3
+77.9
+7.7
+157
+261
+.253
+.476
+
+
+Vinnie Pasquantino
+Vinnie PasquantinoPlayer Note
+KC - 1B
+FA
+146
+75
+40
+96%
+147/570
+71.8
+147
+32.4
+1.6
+25
+89.1
+1.3
+50.5
+6.5
+94
+258
+.259
+.453
+
+
+Yandy Díaz
+Yandy DíazPlayer Note
+TB - 1B
+FA
+141
+100
+41
+92%
+158/548
+75.7
+158
+27.2
+0.9
+20.8
+77.6
+1.9
+55.8
+6.8
+93
+250
+.290
+.456
+
+
+Jackson Merrill
+Jackson MerrillNew Player Note
+SD - OF
+FA
+139
+51
+44
+98%
+147/552
+76.6
+147
+32.1
+3.2
+22.7
+80.6
+8.3
+39.3
+4.2
+121
+254
+.268
+.461
+
+
+Matt Olson
+Matt OlsonPlayer Note
+ATL - 1B
+FA
+153
+33
+46
+99%
+142/579
+86.6
+142
+30.4
+1
+28.7
+92.9
+1
+78.2
+7.3
+160
+261
+.246
+.450
+
+
+Jeremy Peña
+Jeremy PeñaDTDNew Player Note
+HOU - SS
+FA
+142
+68
+47
+96%
+153/567
+79.1
+153
+29.4
+1.8
+17.1
+66.9
+18.1
+36.4
+10.4
+112
+237
+.271
+.419
+
+
+Geraldo Perdomo
+Geraldo PerdomoPlayer Note
+AZ - SS
+FA
+148
+57
+48
+98%
+145/550
+86.3
+145
+27.7
+3.2
+12.4
+62.8
+19.3
+72.7
+8.5
+89.3
+216
+.265
+.395
+
+
+Alex Bregman
+Alex BregmanPlayer Note
+CHC - 3B
+FA
+149
+99
+52
+98%
+145/572
+79.9
+145
+29.1
+1.1
+22.5
+79.1
+2.2
+63.8
+9.1
+90
+244
+.255
+.428
+
+
+Maikel Garcia
+Maikel GarciaNo new player Notes
+KC - 2B,3B,SS,OF
+FA
+147
+78
+55
+99%
+152/572
+81.3
+152
+31.4
+3.3
+11.9
+65.1
+26.1
+51.2
+3.3
+95.3
+226
+.267
+.396
+
+
+Pete Crow-Armstrong
+Pete Crow-ArmstrongNo new player Notes
+CHC - OF
+FA
+143
+42
+57
+99%
+133/559
+82.5
+133
+27.9
+4.5
+22.8
+73.6
+34
+37.3
+7
+152
+239
+.240
+.428
+
+
+Austin Riley
+Austin RileyPlayer Note
+ATL - 3B
+FA
+143
+61
+58
+99%
+145/564
+81.4
+145
+28.3
+2.2
+27.6
+84.6
+2.5
+45.5
+7.2
+162
+260
+.257
+.462
+
+
+Randy Arozarena
+Randy ArozarenaNo new player Notes
+SEA - OF
+FA
+149
+73
+60
+96%
+130/566
+85.4
+130
+26.1
+1.9
+23.2
+72.5
+23.4
+64.8
+17.1
+170
+229
+.230
+.406
+
+
+Manny Machado
+Manny MachadoPlayer Note
+SD - 3B
+FA
+145
+30
+61
+99%
+151/573
+78.4
+151
+27.9
+0.3
+27.8
+88.3
+8.9
+49.4
+3.6
+123
+263
+.264
+.458
+
+
+George Springer
+George SpringerPlayer Note
+TOR - OF
+FA
+129
+89
+62
+96%
+132/496
+84.7
+132
+23.1
+1.5
+25.7
+73.6
+13.9
+56.1
+7
+108
+235
+.266
+.474
+
+
+Bo Bichette
+Bo BichetteNo new player Notes
+NYM - SS
+FA
+137
+69
+63
+98%
+158/559
+72.3
+158
+30.2
+2.2
+16.5
+74.4
+5.9
+36.4
+4.5
+100
+242
+.283
+.434
+
+
+Wyatt Langford
+Wyatt LangfordNew Player Note
+TEX - OF
+FA
+139
+40
+65
+98%
+130/522
+82.9
+130
+27.2
+2.3
+23.2
+73.1
+20.8
+68
+6.9
+142
+232
+.250
+.444
+
+
+Cal Raleigh
+Cal RaleighPlayer Note
+SEA - C Contest Eligible Player
+FA
+147
+18
+66
+100%
+123/537
+85.3
+123
+21.8
+0.4
+40.4
+100
+7.5
+71.7
+7.4
+169
+268
+.230
+.497
+
+
+Seiya Suzuki
+Seiya SuzukiNo new player Notes
+CHC - OF
+FA
+138
+95
+70
+95%
+134/525
+77.1
+134
+27
+2.5
+25.8
+83.4
+9.1
+62.5
+5.1
+149
+243
+.256
+.464
+
+
+Nico Hoerner
+Nico HoernerNo new player Notes
+CHC - 2B Contest Eligible Player
+FA
+145
+103
+71
+96%
+156/565
+75
+156
+27.4
+2.6
+6.8
+55.1
+26.5
+38.8
+8.8
+60
+209
+.277
+.372
+
+
+CJ Abrams
+CJ AbramsNo new player Notes
+WSH - SS
+FA
+138
+82
+73
+95%
+134/550
+77.9
+134
+28.8
+3.2
+17.5
+62.5
+30.5
+37.3
+11.3
+118
+221
+.244
+.403
+
+
+Riley Greene
+Riley GreenePlayer Note
+DET - OF
+FA
+144
+54
+78
+98%
+140/557
+79.8
+140
+26.6
+2.8
+27.5
+84.2
+4.1
+54
+5.6
+175
+255
+.253
+.458
+
+
+James Wood
+James WoodNo new player Notes
+WSH - OF
+FA
+141
+31
+79
+99%
+138/537
+80.1
+138
+29.8
+1.6
+22.6
+76.7
+17
+68.4
+5
+183
+239
+.259
+.446
+
+
+Brandon Nimmo
+Brandon NimmoNew Player Note
+TEX - OF
+FA
+143
+134
+85
+88%
+138/554
+79.8
+138
+25.8
+2.3
+21.4
+72.5
+9
+58.9
+9.4
+137
+233
+.250
+.421
+
+
+Bryan Reynolds
+Bryan ReynoldsNo new player Notes
+PIT - OF
+FA
+144
+158
+86
+83%
+144/565
+73.8
+144
+29.5
+3
+18.1
+74.5
+5.9
+54
+8.3
+153
+234
+.256
+.415
+
+
+Corey Seager
+Corey SeagerPlayer Note
+TEX - SS
+FA
+121
+58
+89
+98%
+126/456
+71.6
+126
+24.4
+0.4
+27.4
+77.7
+2.5
+57
+5.7
+99.3
+233
+.277
+.513
+
+
+William Contreras
+William ContrerasNo new player Notes
+MIL - C
+FA
+142
+62
+90
+99%
+140/525
+76.6
+140
+28.2
+0.8
+19.4
+77.4
+6
+66.3
+5.5
+117
+228
+.268
+.435
+
+
+Ezequiel Tovar
+Ezequiel TovarNo new player Notes
+COL - SS
+FA
+142
+155
+93
+73%
+149/571
+75.8
+149
+32.9
+3.1
+19.8
+73.2
+8.9
+29.4
+3.9
+157
+247
+.261
+.434
+
+
+Luis Arraez
+Luis ArraezNo new player Notes
+SF - 1B,2B
+FA
+137
+202
+94
+74%
+167/562
+67.7
+167
+27.7
+3.1
+3.3
+52.8
+8.2
+31.9
+4.4
+26.2
+211
+.298
+.376
+
+
+Ian Happ
+Ian HappPlayer Note
+CHC - OF
+FA
+144
+133
+95
+89%
+132/544
+81.7
+132
+30
+1.4
+22.1
+76.6
+8.7
+77
+6.3
+148
+231
+.243
+.424
+
+
+Taylor Ward
+Taylor WardNo new player Notes
+BAL - OF
+FA
+145
+123
+99
+90%
+133/549
+80.7
+133
+26.2
+1.6
+27
+81.6
+4.9
+63.8
+7.3
+152
+243
+.242
+.443
+
+
+Josh Naylor
+Josh NaylorNo new player Notes
+SEA - 1B
+FA
+140
+56
+100
+98%
+140/540
+71.8
+140
+26.6
+0.3
+21
+83
+15.4
+48.6
+5.9
+90.3
+230
+.260
+.427
+
+
+Byron Buxton
+Byron BuxtonPlayer Note
+MIN - OF
+FA
+119
+87
+108
+94%
+116/465
+76.7
+116
+25.6
+2.7
+27.2
+71.7
+14.5
+39.6
+8
+141
+228
+.249
+.491
+
+
+Matt Chapman
+Matt ChapmanPlayer Note
+SF - 3B
+FA
+142
+159
+116
+90%
+126/530
+80.8
+126
+28.9
+1.9
+23.5
+73.5
+9.2
+66.9
+7.8
+150
+229
+.238
+.432
+
+
+Cody Bellinger
+Cody BellingerPlayer Note
+NYY - OF Contest Eligible Player
+FA
+135
+50
+118
+99%
+134/529
+74.2
+134
+24.5
+2.8
+21.3
+75.5
+11.6
+47.7
+4.3
+89.6
+227
+.254
+.431
+
+
+Brice Turang
+Brice TurangPlayer Note
+MIL - 2B
+FA
+146
+60
+124
+99%
+144/561
+79.6
+144
+24
+3.3
+14.7
+63.1
+31.3
+55.4
+3.9
+131
+219
+.258
+.391
+
+
+Jacob Wilson
+Jacob WilsonPlayer Note
+ATH - SS
+FA
+138
+128
+125
+89%
+155/542
+66.9
+155
+27.5
+2
+9.8
+57.8
+6
+34.6
+6.7
+60.4
+216
+.286
+.398
+
+
+Michael Busch
+Michael BuschPlayer Note
+CHC - 1B
+FA
+135
+91
+129
+93%
+124/505
+75.8
+124
+25.7
+2
+27.1
+77.6
+4.1
+55.2
+7.6
+146
+235
+.247
+.467
+
+
+Willy Adames
+Willy AdamesPlayer Note
+SF - SS
+FA
+149
+97
+131
+93%
+131/566
+83.3
+131
+26.6
+1.4
+27.7
+84.7
+11.4
+68
+5.6
+167
+243
+.231
+.430
+
+
+Eugenio Suárez
+Eugenio SuárezPlayer Note
+CIN - 3B
+FA
+143
+110
+140
+96%
+125/542
+75.8
+125
+23.8
+0.8
+34.5
+91.5
+2.7
+49.3
+10.5
+179
+253
+.231
+.469
+
+
+Steven Kwan
+Steven KwanPlayer Note
+CLE - OF
+FA
+144
+141
+157
+86%
+152/568
+76.7
+152
+25.1
+2.5
+7.7
+51.2
+17
+55.4
+5.4
+58.8
+205
+.268
+.362
+
+
+Salvador Perez
+Salvador PerezNo new player Notes
+KC - C,1B
+FA
+138
+109
+161
+95%
+134/532
+61.8
+134
+25.7
+0.5
+28.1
+90.2
+0.2
+29.5
+9.1
+120
+244
+.252
+.461
+
+
+Jazz Chisholm Jr.
+Jazz Chisholm Jr.Player Note
+NYY - 2B,3B Contest Eligible Player
+FA
+137
+22
+164
+99%
+123/517
+79.7
+123
+19.5
+2.1
+27.8
+73.1
+31.5
+53.6
+5.9
+156
+230
+.238
+.444
+
+
+Willson Contreras
+Willson ContrerasPlayer Note
+BOS - 1B Contest Eligible Player
+FA
+127
+98
+166
+91%
+119/475
+68.7
+119
+24.4
+1.2
+22
+71.4
+5.1
+50.9
+14.7
+137
+212
+.252
+.447
+
+
+Ben Rice
+Ben RiceNew Player Note
+NYY - C,1B
+FA
+127
+85
+199
+98%
+115/470
+73.1
+115
+23.7
+1.9
+26.7
+74.5
+4.7
+51.8
+7.8
+113
+223
+.246
+.475
+
+
+Jose Altuve
+Jose AltuveNo new player Notes
+HOU - 2B,OF
+FA
+136
+112
+204
+95%
+139/534
+76
+139
+24.6
+1
+19.8
+66.7
+12.1
+48.4
+5.7
+103
+225
+.260
+.421
+
+
+Daylen Lile
+Daylen LilePlayer Note
+WSH - OF
+FA
+125
+197
+210
+40%
+128/480
+63.2
+128
+25.9
+5.8
+10.8
+56.9
+13.3
+34.2
+6
+94.7
+198
+.268
+.413
+
+
+Teoscar Hernández
+Teoscar HernándezNo new player Notes
+LAD - OF
+FA
+132
+90
+222
+94%
+133/520
+71.2
+133
+26.3
+1.2
+26.3
+81.7
+6.2
+34.8
+5.4
+149
+240
+.256
+.463
+
+
+Gleyber Torres
+Gleyber TorresNo new player Notes
+DET - 2B
+FA
+145
+196
+226
+74%
+141/550
+78.6
+141
+25.8
+0.7
+17.3
+68.6
+6.1
+69
+5.4
+109
+220
+.258
+.401
+
+
+Tyler Soderstrom
+Tyler SoderstromNew Player Note
+ATH - 1B,OF
+FA
+134
+79
+227
+97%
+130/509
+71.5
+130
+26.4
+1.5
+22.5
+74.7
+5.6
+47.8
+6.2
+135
+228
+.257
+.447
+
+
+Christian Yelich
+Christian YelichPlayer Note
+MIL - OF
+FA
+131
+94
+237
+94%
+129/495
+74
+129
+22
+1.9
+19.4
+72.3
+17.3
+60.8
+5.2
+134
+213
+.261
+.431
+
+
+Hunter Goodman
+Hunter GoodmanPlayer Note
+COL - C
+FA
+133
+81
+249
+97%
+125/506
+67.3
+125
+27
+2.4
+26.5
+84.2
+3.2
+33.3
+5.4
+144
+235
+.247
+.467
+
+
+Andy Pages
+Andy PagesPlayer Note
+LAD - OF
+FA
+133
+119
+250
+89%
+130/515
+72.3
+130
+26.9
+1.6
+21.3
+72.7
+9.3
+33.6
+7.5
+125
+224
+.254
+.437
+
+
+Alec Burleson
+Alec BurlesonPlayer Note
+STL - 1B,OF
+FA
+134
+144
+300
+86%
+138/518
+64.1
+138
+25.5
+1
+19.8
+72.2
+5.8
+38.7
+4.7
+83.4
+224
+.267
+.434
+
+
+Dansby Swanson
+Dansby SwansonNew Player Note
+CHC - SS Contest Eligible Player
+FA
+149
+131
+320
+88%
+137/564
+77.6
+137
+25.8
+2
+21.9
+74.4
+15.6
+51.1
+4.4
+159
+232
+.244
+.413
+
+
+Kyle Stowers
+Kyle StowersDTDPlayer Note
+MIA - OF
+FA
+137
+92
+327
+92%
+123/512
+64.8
+123
+24.6
+2.3
+26.1
+80.5
+4.7
+58.5
+7.2
+163
+231
+.242
+.452
+
+
+Brendan Donovan
+Brendan DonovanPlayer Note
+SEA - 2B,SS,OF
+FA
+131
+206
+328
+77%
+135/505
+65
+135
+27.3
+1.1
+13.3
+58.3
+5.1
+47.7
+9.3
+80.7
+204
+.267
+.404
+
+
+Michael Harris II
+Michael Harris IIPlayer Note
+ATL - OF
+FA
+131
+84
+346
+95%
+136/519
+67.3
+136
+25.9
+2.3
+18.9
+67.1
+17.4
+24.3
+4.1
+110
+223
+.263
+.431
+
+
+Alec Bohm
+Alec BohmPlayer Note
+PHI - 1B,3B Contest Eligible Player
+FA
+133
+213
+392
+60%
+142/522
+62.8
+142
+26.8
+1.8
+14.2
+69.4
+3.1
+36.3
+5.3
+90.5
+215
+.273
+.413
+
+
+Heliot Ramos
+Heliot RamosPlayer Note
+SF - OF
+FA
+140
+189
+400
+66%
+135/540
+71
+135
+25.8
+1.9
+20.8
+68.9
+5.8
+44
+7.9
+146
+227
+.250
+.420
+
+
+Shea Langeliers
+Shea LangeliersPlayer Note
+ATH - C
+FA
+126
+67
+406
+99%
+120/482
+68.4
+120
+25.3
+1.3
+28.3
+74.3
+5.9
+37.9
+4.6
+123
+233
+.250
+.483
+
+
+Will Smith
+Will SmithPlayer Note
+LAD - C
+FA
+120
+121
+417
+95%
+113/427
+70.1
+113
+21.4
+1.3
+21.1
+69.3
+2.7
+55.7
+8.5
+97.2
+200
+.265
+.469
+
+
+Ozzie Albies
+Ozzie AlbiesNo new player Notes
+ATL - 2B
+FA
+136
+118
+421
+93%
+132/529
+68.3
+132
+27.1
+1.6
+17.2
+70.3
+10.4
+42
+5.5
+87.1
+214
+.249
+.404
+
+
+Spencer Torkelson
+Spencer TorkelsonNo new player Notes
+DET - 1B
+FA
+144
+185
+468
+83%
+124/539
+73.1
+124
+27.4
+1
+25.6
+77
+2.1
+61.4
+7.9
+159
+230
+.231
+.429
+
+
+Luke Keaschall
+Luke KeaschallNew Player Note
+MIN - 2B
+FA
+122
+104
+481
+91%
+123/465
+66
+123
+26.6
+1.6
+11.1
+54.8
+20.7
+45.4
+8.8
+93.7
+186
+.266
+.401
+
+
+Caleb Durbin
+Caleb DurbinNo new player Notes
+BOS - 2B,3B
+FA
+128
+286
+523
+21%
+119/470
+61.5
+119
+24.1
+1.8
+10.1
+52.2
+20
+34.7
+14.7
+59.5
+177
+.254
+.378
+
+
+Jung Hoo Lee
+Jung Hoo LeeNo new player Notes
+SF - OF
+FA
+130
+294
+527
+10%
+132/503
+62.5
+132
+27.5
+4.3
+7.8
+52.3
+8.2
+40.4
+5.4
+67.7
+191
+.263
+.381
+
+
+Jakob Marsee
+Jakob MarseePlayer Note
+MIA - OF
+FA
+132
+120
+562
+89%
+119/501
+69.1
+119
+25.9
+3.3
+13.1
+55.9
+27.4
+56.6
+7.7
+127
+191
+.238
+.381
+
+
+Marcus Semien
+Marcus SemienPlayer Note
+NYM - 2B
+FA
+137
+182
+584
+82%
+127/528
+74.2
+127
+23.1
+2.5
+18.5
+68.4
+9.1
+51.9
+5.1
+97.7
+211
+.241
+.399
+
+
+Xander Bogaerts
+Xander BogaertsPlayer Note
+SD - SS
+FA
+132
+234
+603
+20%
+134/509
+69.2
+134
+25.3
+1.3
+14
+58.1
+16.8
+43.8
+5
+100
+205
+.264
+.402
+
+
+Jonathan Aranda
+Jonathan ArandaNo new player Notes
+TB - 1B
+FA
+130
+161
+622
+76%
+125/485
+66.8
+125
+24.6
+1
+19.6
+70.5
+2.6
+51
+8.3
+137
+210
+.258
+.434
+
+
+Ceddanne Rafaela
+Ceddanne RafaelaPlayer Note
+BOS - 2B,OF
+FA
+134
+160
+652
+87%
+126/511
+67.2
+126
+27
+3.3
+15.7
+60.1
+18.9
+25
+6.1
+124
+206
+.247
+.404
+
+
+Bryson Stott
+Bryson StottPlayer Note
+PHI - 2B,SS
+FA
+134
+246
+654
+56%
+128/505
+68.1
+128
+23
+2.5
+13.4
+59.5
+23.9
+47.1
+4.1
+93.8
+196
+.254
+.389
+
+
+Jo Adell
+Jo AdellNo new player Notes
+LAA - OF
+FA
+132
+116
+656
+90%
+117/501
+67.8
+117
+22.1
+1.5
+29.1
+78.3
+9.5
+37.4
+7.2
+152
+230
+.234
+.458
+
+
+Xavier Edwards
+Xavier EdwardsDTDNew Player Note
+MIA - 2B,SS
+FA
+133
+138
+666
+86%
+143/521
+67.6
+143
+22.5
+3.4
+4
+43.3
+27.2
+45.1
+4.3
+87.8
+184
+.275
+.355
+
+
+Ivan Herrera
+Ivan HerreraPlayer Note
+STL - C
+FA
+123
+162
+672
+84%
+122/462
+66.2
+122
+21.7
+0.9
+16.7
+61.9
+8.1
+49.8
+9.7
+108
+195
+.265
+.424
+
+
+Nolan Schanuel
+Nolan SchanuelNo new player Notes
+LAA - 1B
+FA
+137
+231
+691
+9%
+131/509
+68
+131
+22.1
+1.6
+11.4
+52.4
+5.9
+63.3
+9.6
+85.2
+190
+.258
+.374
+
+
+Willi Castro
+Willi CastroPlayer Note
+COL - 2B,3B,OF
+FA
+123
+333
+700
+13%
+115/460
+65.7
+115
+23.7
+3.6
+11.8
+50.1
+15.8
+41.2
+11.1
+119
+182
+.251
+.395
+
+
+Christian Walker
+Christian WalkerNo new player Notes
+HOU - 1B
+FA
+134
+152
+701
+85%
+120/515
+68.1
+120
+23.1
+0.8
+26.7
+78.9
+3.5
+46.3
+8.3
+145
+225
+.234
+.439
+
+
+Brenton Doyle
+Brenton DoyleDTDNew Player Note
+COL - OF
+FA
+135
+143
+703
+75%
+128/520
+68.6
+128
+25.1
+3
+18.2
+63.9
+20.9
+34.9
+3.8
+152
+214
+.247
+.411
+
+
+Trevor Story
+Trevor StoryPlayer Note
+BOS - SS
+FA
+130
+93
+706
+93%
+126/512
+68.2
+126
+25.7
+1.7
+18.7
+67.1
+21.9
+35.4
+5.6
+151
+211
+.247
+.413
+
+
+Otto Lopez
+Otto LopezPlayer Note
+MIA - 2B,SS
+FA
+130
+187
+731
+61%
+132/503
+62.1
+132
+24.7
+2.3
+11.7
+59
+16.5
+36
+4
+86.7
+196
+.263
+.392
+
+
+Miguel Vargas
+Miguel VargasPlayer Note
+CWS - 1B,3B
+FA
+135
+309
+738
+17%
+116/508
+67.9
+116
+27.6
+1.7
+18.6
+63.6
+7.2
+56.3
+7.1
+113
+202
+.228
+.399
+
+
+Jeff McNeil
+Jeff McNeilPlayer Note
+ATH - 2B,OF
+FA
+128
+301
+743
+6%
+120/475
+59.1
+120
+25
+2.4
+12.1
+55.6
+3.7
+43.6
+9
+70.9
+186
+.254
+.394
+
+
+Andrew Vaughn
+Andrew VaughnPlayer Note
+MIL - 1B
+FA
+128
+194
+753
+27%
+126/496
+55.3
+126
+25.7
+0.9
+19.7
+73.6
+0.9
+37
+6.3
+107
+212
+.254
+.429
+
+
+Jake Cronenworth
+Jake CronenworthPlayer Note
+SD - 1B,2B,SS
+FA
+136
+307
+762
+15%
+117/495
+64.9
+117
+24.3
+1.8
+14.3
+61.6
+4.5
+61
+11.3
+114
+188
+.238
+.380
+
+
+Oneil Cruz
+Oneil CruzPlayer Note
+PIT - OF Contest Eligible Player
+FA
+123
+80
+779
+96%
+109/464
+71.2
+109
+21.9
+2
+20.8
+63.2
+25.9
+52.9
+4.6
+155
+198
+.235
+.425
+
+
+TJ Friedl
+TJ FriedlPlayer Note
+CIN - OF
+FA
+132
+230
+784
+15%
+119/499
+65.9
+119
+19.4
+2.3
+13.2
+53.8
+11.2
+57.1
+12
+97.3
+182
+.238
+.366
+
+
+Kazuma Okamoto
+Kazuma OkamotoNo new player Notes
+TOR - 1B,3B
+FA
+122
+215
+789
+81%
+112/463
+63
+112
+23
+0.3
+23.1
+69.3
+1.8
+47.4
+7
+100
+205
+.243
+.443
+
+
+Masyn Winn
+Masyn WinnNew Player Note
+STL - SS
+FA
+142
+171
+790
+56%
+135/556
+68.1
+135
+26.2
+2.4
+11.9
+58.7
+11.8
+39.8
+5.1
+112
+202
+.244
+.364
+
+
+Kerry Carpenter
+Kerry CarpenterPlayer Note
+DET - OF
+FA
+112
+180
+792
+63%
+108/429
+59.6
+108
+19.8
+3
+22.7
+67.1
+2.8
+30
+6.2
+113
+202
+.252
+.471
+
+
+Carlos Correa
+Carlos CorreaNo new player Notes
+HOU - 3B,SS
+FA
+125
+238
+797
+39%
+128/481
+63.5
+128
+24
+0.9
+15.8
+62.3
+0.5
+47.4
+4.2
+106
+201
+.266
+.418
+
+
+Ramón Laureano
+Ramón LaureanoNo new player Notes
+SD - OF
+FA
+120
+192
+798
+28%
+112/456
+63.9
+112
+22.4
+2.3
+19.1
+62.1
+9.1
+35.6
+8.1
+132
+197
+.248
+.432
+
+
+Yainer Diaz
+Yainer DiazPlayer Note
+HOU - C
+FA
+125
+184
+803
+80%
+129/484
+58
+129
+24.2
+1
+19
+67.2
+1.6
+21.6
+3.3
+91.6
+212
+.268
+.440
+
+
+Jonathan India
+Jonathan IndiaNo new player Notes
+KC - 2B,3B,OF
+FA
+126
+611
+805
+5%
+113/470
+63.1
+113
+24.7
+1.3
+12.8
+51.8
+7.1
+54.8
+12.2
+105
+179
+.241
+.380
+
+
+Mickey Moniak
+Mickey MoniakPlayer Note
+COL - OF
+FA
+111
+276
+810
+7%
+109/428
+58.4
+109
+21.9
+3.7
+19.7
+63.1
+9.3
+24.4
+3.9
+117
+197
+.254
+.461
+
+
+Adley Rutschman
+Adley RutschmanPlayer Note
+BAL - C Contest Eligible Player
+FA
+135
+235
+813
+76%
+121/494
+63.9
+121
+24.2
+1.3
+16.5
+62.5
+1
+58.5
+4.7
+90.8
+197
+.246
+.400
+
+
+Daulton Varsho
+Daulton VarshoNo new player Notes
+TOR - OF
+FA
+128
+224
+814
+36%
+108/486
+70.3
+108
+22
+2.4
+26
+72.2
+9.1
+41.5
+4.5
+140
+213
+.223
+.438
+
+
+Luis García Jr.
+Luis García Jr.Player Note
+WSH - 2B
+FA
+120
+183
+816
+71%
+124/465
+58.2
+124
+24.1
+1.4
+15.1
+61.2
+13.7
+27.4
+2.3
+81.3
+196
+.267
+.422
+
+
+Drake Baldwin
+Drake BaldwinNo new player Notes
+ATL - C
+FA
+124
+148
+818
+89%
+118/457
+61.2
+118
+21.3
+1
+18.4
+69.8
+1.1
+43
+5.1
+89.5
+196
+.259
+.431
+
+
+Adolis García
+Adolis GarcíaNo new player Notes
+PHI - OF
+FA
+132
+223
+821
+46%
+119/514
+66
+119
+24.2
+0.8
+23.8
+75.2
+10.2
+37.4
+5.4
+145
+216
+.232
+.421
+
+
+Dylan Crews
+Dylan CrewsPlayer Note
+WSH - OF
+FA
+131
+173
+826
+58%
+117/502
+64.8
+117
+21.4
+2.9
+16
+57.6
+23
+39.1
+7.2
+126
+192
+.233
+.384
+
+
+Lawrence Butler
+Lawrence ButlerDTDNo new player Notes
+ATH - OF
+FA
+130
+125
+827
+88%
+118/493
+69.5
+118
+24.3
+1.5
+20.3
+62.5
+15.8
+44.9
+3
+143
+206
+.240
+.419
+
+
+Wilyer Abreu
+Wilyer AbreuPlayer Note
+BOS - OF
+FA
+122
+191
+828
+51%
+110/450
+61
+110
+24.2
+1.3
+21.3
+67.5
+8.6
+47.3
+3.7
+125
+200
+.245
+.446
+
+
+Brandon Lowe
+Brandon LowePlayer Note
+PIT - 2B
+FA
+122
+204
+829
+71%
+115/476
+66.5
+115
+22.1
+1.1
+23
+71
+4.8
+42.8
+5.2
+137
+209
+.242
+.437
+
+
+Jake Burger
+Jake BurgerNew Player Note
+TEX - 1B
+FA
+124
+300
+834
+8%
+116/482
+61.6
+116
+22.3
+1
+24.9
+72.9
+2
+27.3
+6.8
+131
+215
+.241
+.446
+
+
+Ernie Clement
+Ernie ClementPlayer Note
+TOR - 1B,2B,3B,SS
+FA
+132
+335
+836
+59%
+129/501
+59.9
+129
+25.1
+2.2
+10.3
+53.8
+9.3
+23.8
+3.9
+58.8
+190
+.258
+.379
+
+
+Andrés Giménez
+Andrés GiménezNo new player Notes
+TOR - 2B,SS
+FA
+132
+293
+840
+8%
+120/500
+62.3
+120
+21.9
+2
+10
+51.8
+20.7
+31.6
+11.9
+98.5
+176
+.241
+.353
+
+
+Nolan Arenado
+Nolan ArenadoPlayer Note
+AZ - 3B
+FA
+129
+522
+841
+13%
+126/503
+59.1
+126
+23.7
+1.1
+15.6
+67.8
+2.8
+35.9
+4.4
+77.6
+198
+.252
+.396
+
+
+Kyle Manzardo
+Kyle ManzardoPlayer Note
+CLE - 1B
+FA
+130
+247
+843
+21%
+112/479
+56.7
+112
+23.7
+1
+23.9
+68.1
+2.2
+47.5
+6.6
+130
+209
+.234
+.437
+
+
+Sal Frelick
+Sal FrelickPlayer Note
+MIL - OF
+FA
+126
+239
+854
+15%
+122/481
+62.2
+122
+21
+3.1
+7.5
+49
+16.7
+43.3
+5.8
+78.6
+172
+.255
+.358
+
+
+Ryan O'Hearn
+Ryan O'HearnNew Player Note
+PIT - 1B,OF
+FA
+119
+287
+856
+11%
+117/446
+59
+117
+22.6
+1.4
+13.8
+59
+3.8
+44.8
+5.6
+96.4
+184
+.263
+.413
+
+
+Sal Stewart
+Sal StewartPlayer Note
+CIN - 1B
+FA
+113
+220
+863
+37%
+110/423
+57.3
+110
+23.3
+0.8
+17.6
+61.1
+6.7
+35.2
+4.4
+90.3
+188
+.260
+.443
+
+
+Luis Robert Jr.
+Luis Robert Jr.New Player Note
+NYM - OF
+FA
+127
+124
+865
+88%
+113/486
+66.9
+113
+21.3
+1.6
+19.9
+57.9
+27.9
+38.5
+5.4
+151
+197
+.234
+.407
+
+
+Matt McLain
+Matt McLainNew Player Note
+CIN - 2B
+FA
+132
+253
+870
+30%
+116/495
+66.4
+116
+22.7
+1.9
+17.5
+54.7
+15.6
+48.6
+7
+155
+194
+.235
+.394
+
+
+Josh Bell
+Josh BellNo new player Notes
+MIN - 1B
+FA
+122
+298
+872
+4%
+114/457
+59.9
+114
+20
+0.8
+19.7
+65.9
+1.1
+51
+4.9
+97.5
+194
+.250
+.426
+
+
+Agustín Ramírez
+Agustín RamírezNo new player Notes
+MIA - C
+FA
+116
+129
+876
+91%
+108/450
+58.3
+108
+24.6
+1.1
+17.3
+60.7
+11
+33.6
+5.9
+98
+187
+.242
+.416
+
+
+Mike Trout
+Mike TroutNew Player Note
+LAA - OF
+FA
+114
+222
+878
+85%
+98.4/417
+63.7
+98.4
+17
+1.6
+23.9
+63.1
+4.6
+62.3
+7.1
+143
+190
+.236
+.456
+
+
+Munetaka Murakami
+Munetaka MurakamiDTDNo new player Notes
+CWS - 1B,3B
+FA
+131
+240
+880
+81%
+100/465
+72.4
+100
+16.1
+0.4
+29.2
+75.4
+9.6
+72
+7.3
+181
+205
+.216
+.441
+
+
+Jac Caglianone
+Jac CaglianonePlayer Note
+KC - 1B,OF
+FA
+124
+229
+881
+34%
+111/470
+58.7
+111
+21.9
+1.7
+19.8
+64.1
+4.5
+39.4
+6.8
+120
+196
+.237
+.417
+
+
+J.P. Crawford
+J.P. CrawfordPlayer Note
+SEA - SS
+FA
+138
+332
+886
+6%
+124/509
+65.2
+124
+23.7
+1
+11.2
+53.6
+5.2
+65.1
+6.2
+114
+183
+.244
+.360
+
+
+Jorge Polanco
+Jorge PolancoNo new player Notes
+NYM - 2B,3B
+FA
+120
+236
+888
+57%
+110/453
+58.9
+110
+21.9
+0.7
+20.4
+64.3
+5.4
+45
+4.6
+107
+195
+.244
+.430
+
+
+Noelvi Marte
+Noelvi MarteNew Player Note
+CIN - 3B,OF
+FA
+119
+151
+891
+88%
+115/466
+60.1
+115
+22.4
+1.6
+16.1
+58.2
+13.8
+30.4
+5.1
+119
+189
+.247
+.406
+
+
+Colson Montgomery
+Colson MontgomeryPlayer Note
+CWS - 3B,SS
+FA
+128
+165
+893
+86%
+109/492
+63.5
+109
+19.7
+1.9
+24.3
+70.7
+3.2
+45.3
+7.4
+160
+205
+.222
+.418
+
+
+Isaac Paredes
+Isaac ParedesPlayer Note
+HOU - 3B
+FA
+112
+216
+899
+65%
+99/416
+57.4
+99
+18.1
+0.9
+18.5
+59.4
+1.1
+52.2
+9.7
+82.2
+174
+.238
+.419
+
+
+Colt Keith
+Colt KeithNo new player Notes
+DET - 1B,2B,3B
+FA
+115
+280
+903
+14%
+109/430
+58.6
+109
+20.6
+3.2
+13.6
+52.5
+3.4
+40.7
+3.6
+100
+178
+.255
+.413
+
+
+Alejandro Kirk
+Alejandro KirkNo new player Notes
+TOR - C
+FA
+117
+248
+904
+46%
+111/422
+52.4
+111
+19.4
+0.4
+15.4
+61.5
+1
+43.9
+4.7
+62.8
+178
+.265
+.421
+
+
+Jordan Beck
+Jordan BeckNo new player Notes
+COL - OF
+FA
+123
+244
+905
+9%
+114/469
+60
+114
+23.5
+2.4
+14.3
+55.4
+15.3
+37.8
+4.1
+148
+186
+.244
+.396
+
+
+Lars Nootbaar
+Lars NootbaarDTDPlayer Note
+STL - OF
+FA
+119
+570
+906
+3%
+107/445
+61.2
+107
+21.5
+1.7
+15.1
+53.5
+6.2
+57.7
+4.6
+104
+177
+.241
+.398
+
+
+Trent Grisham
+Trent GrishamNo new player Notes
+NYY - OF
+FA
+119
+211
+909
+51%
+95.8/432
+68.1
+95.8
+17.7
+1
+22.8
+63.1
+5.8
+62.2
+6.5
+125
+184
+.222
+.426
+
+
+Harrison Bader
+Harrison BaderDTDPlayer Note
+SF - OF
+FA
+117
+366
+912
+4%
+107/445
+59.4
+107
+21.3
+2.3
+14.1
+51.7
+14.7
+31.4
+7.1
+117
+175
+.241
+.394
+
+
+Matt Wallner
+Matt WallnerNo new player Notes
+MIN - OF
+FA
+112
+338
+913
+3%
+90.5/406
+57.9
+90.5
+20.1
+1.3
+21.9
+59.9
+5.1
+46.7
+10.9
+141
+178
+.223
+.440
+
+
+Ryan Jeffers
+Ryan JeffersNo new player Notes
+MIN - C Contest Eligible Player
+FA
+121
+550
+914
+6%
+105/437
+56.6
+105
+22.2
+0.8
+15.1
+56.4
+2.9
+44.5
+8.9
+106
+174
+.242
+.400
+
+
+J.T. Realmuto
+J.T. RealmutoNo new player Notes
+PHI - C
+FA
+114
+315
+919
+24%
+106/420
+54.7
+106
+21.4
+1.9
+14
+53.5
+7.3
+30.2
+6.5
+111
+174
+.254
+.413
+
+
+Spencer Horwitz
+Spencer HorwitzNo new player Notes
+PIT - 1B
+FA
+114
+314
+920
+3%
+107/425
+54.7
+107
+23.6
+1
+11.5
+52.3
+2.4
+47.9
+6.1
+91.6
+168
+.254
+.394
+
+
+Gabriel Moreno
+Gabriel MorenoNo new player Notes
+AZ - C
+FA
+108
+252
+922
+12%
+108/392
+52.4
+108
+20.3
+1.4
+10.8
+52.4
+4.5
+38.5
+4
+78.8
+163
+.276
+.417
+
+
+Jordan Westburg
+Jordan WestburgDTDNo new player Notes
+BAL - 2B,3B
+FA
+100
+225
+924
+69%
+100/394
+54.3
+100
+19.7
+2.5
+16.4
+50.6
+4.9
+26.9
+5.4
+98.7
+174
+.256
+.444
+
+
+Marcell Ozuna
+Marcell OzunaNo new player Notes
+PIT - Util
+FA
+118
+265
+928
+16%
+104/435
+59.4
+104
+19.4
+0.2
+20.6
+65.1
+0.2
+58.6
+4.5
+122
+186
+.239
+.427
+
+
+Royce Lewis
+Royce LewisPlayer Note
+MIN - 3B
+FA
+119
+209
+929
+31%
+110/455
+55.9
+110
+22.3
+0.6
+18.1
+61.2
+9.7
+34.7
+3.1
+108
+188
+.242
+.412
+
+
+Jackson Holliday
+Jackson HollidayDTDPlayer Note
+BAL - 2B,SS
+FA
+111
+264
+933
+70%
+104/426
+61.3
+104
+20.1
+1.9
+12.3
+47.1
+12.8
+45.7
+5
+106
+165
+.245
+.388
+
+
+Colton Cowser
+Colton CowserNo new player Notes
+BAL - OF
+FA
+122
+278
+934
+7%
+99.9/449
+63.8
+99.9
+20.9
+1
+19.6
+59
+11.8
+46.4
+7.3
+156
+181
+.222
+.404
+
+
+Jurickson Profar
+Jurickson ProfarSUSPPlayer Note
+ATL - OF
+FA
+101
+393
+936
+52%
+95.3/382
+56.1
+95.3
+18.2
+0.9
+13.7
+50.5
+6.2
+48.9
+7.1
+71.6
+156
+.249
+.409
+
+
+Max Muncy
+Max MuncyNo new player Notes
+LAD - 3B
+FA
+106
+243
+938
+33%
+83.1/369
+60
+83.1
+16.5
+1.1
+20.8
+62.5
+3.2
+60.9
+6.7
+106
+164
+.225
+.445
+
+
+Brandon Marsh
+Brandon MarshPlayer Note
+PHI - OF
+FA
+113
+285
+940
+4%
+103/407
+56.2
+103
+20.7
+2.5
+12.5
+49.5
+10.4
+42.9
+3.3
+127
+166
+.255
+.411
+
+
+Andrew Benintendi
+Andrew BenintendiDTDPlayer Note
+CWS - OF
+FA
+115
+442
+942
+2%
+106/437
+53.9
+106
+19.4
+1.3
+16.5
+56.4
+3.3
+40.2
+3.5
+84.6
+178
+.244
+.407
+
+
+Addison Barger
+Addison BargerPlayer Note
+TOR - 3B,OF
+FA
+111
+241
+945
+47%
+100/420
+54.9
+100
+23.3
+1.1
+16.8
+58.2
+4.5
+34.4
+4
+113
+176
+.238
+.418
+
+
+Josh Jung
+Josh JungDTDNew Player Note
+TEX - 3B
+FA
+118
+325
+949
+6%
+113/459
+53.8
+113
+21.6
+1.4
+15.8
+57.7
+4.1
+27.8
+3.7
+125
+185
+.247
+.403
+
+
+Chandler Simpson
+Chandler SimpsonPlayer Note
+TB - OF
+FA
+104
+174
+951
+73%
+114/405
+53.4
+114
+15.2
+2.9
+1.2
+30.6
+37
+23.3
+1.7
+49.2
+138
+.282
+.342
+
+
+Josh Smith
+Josh SmithPlayer Note
+TEX - 1B,3B,SS,OF
+FA
+117
+420
+952
+8%
+101/431
+55.8
+101
+20.3
+1.8
+9.4
+42.5
+8.7
+44.9
+9.8
+94.9
+153
+.235
+.356
+
+
+Jordan Walker
+Jordan WalkerNo new player Notes
+STL - OF
+FA
+124
+1,443
+953
+3%
+109/468
+52.9
+109
+22.8
+1.5
+15.7
+54.8
+8.2
+36.1
+5.5
+140
+182
+.233
+.388
+
+
+Brooks Lee
+Brooks LeePlayer Note
+MIN - 2B,3B,SS
+FA
+130
+318
+954
+7%
+117/496
+51.6
+117
+21.6
+1.7
+12.9
+58.5
+4.9
+34.5
+3.7
+97.5
+180
+.237
+.366
+
+
+Chase Meidroth
+Chase MeidrothNo new player Notes
+CWS - 2B,3B,SS
+FA
+123
+324
+955
+3%
+118/472
+58.2
+118
+18.6
+0.9
+6.1
+36.6
+12.1
+49.7
+7.7
+81.6
+156
+.250
+.332
+
+
+JJ Wetherholt
+JJ WetherholtNANo new player Notes
+STL - 2B,3B,SS
+FA
+118
+177
+957
+62%
+105/434
+53.4
+105
+21.2
+1.3
+9.2
+46.7
+9.4
+42.5
+6.5
+89
+157
+.243
+.360
+
+
+Spencer Steer
+Spencer SteerNo new player Notes
+CIN - 1B,OF
+FA
+105
+288
+958
+17%
+92.8/396
+51.8
+92.8
+19.5
+1.6
+14.8
+53.5
+8.5
+42.6
+5.7
+96.4
+160
+.234
+.402
+
+
+Kyle Teel
+Kyle TeelPlayer Note
+CWS - C
+FA
+114
+226
+959
+24%
+102/413
+56.2
+102
+18.5
+1.3
+13.2
+49.7
+6.4
+48.7
+6
+120
+163
+.247
+.394
+
+
+Jared Triolo
+Jared TrioloNo new player Notes
+PIT - 1B,2B,3B,SS
+FA
+121
+1,379
+961
+2%
+105/440
+56
+105
+20.5
+1.8
+9.9
+45.6
+12.5
+46.9
+5.3
+115
+159
+.240
+.361
+
+
+Jorge Soler
+Jorge SolerNew Player Note
+LAA - OF
+FA
+113
+1,363
+963
+1%
+94.6/416
+55.5
+94.6
+19.4
+0.4
+20.9
+58.7
+1.2
+47.2
+5.6
+127
+177
+.227
+.426
+
+
+Gavin Sheets
+Gavin SheetsNo new player Notes
+SD - 1B,OF
+FA
+113
+427
+964
+3%
+101/424
+48.3
+101
+21.3
+0.9
+14.1
+54.6
+2.5
+37.4
+4.6
+95.4
+167
+.240
+.394
+
+
+Cedric Mullins
+Cedric MullinsDTDNew Player Note
+TB - OF
+FA
+106
+263
+965
+6%
+89.1/394
+54.5
+89.1
+17.7
+1.8
+14.6
+50.4
+19.1
+39.6
+4.3
+99.6
+154
+.226
+.392
+
+
+Wenceel Pérez
+Wenceel PérezNo new player Notes
+DET - OF
+FA
+106
+590
+966
+1%
+93.7/398
+51.6
+93.7
+18.6
+3.5
+11.7
+44.8
+10.1
+34.6
+3.7
+97.2
+154
+.235
+.387
+
+
+Austin Hays
+Austin HaysPlayer Note
+CWS - OF
+FA
+110
+412
+967
+2%
+98.9/405
+48.9
+98.9
+20.6
+1.7
+13.2
+49.1
+4.8
+28.3
+5.3
+108
+162
+.244
+.401
+
+
+Joey Ortiz
+Joey OrtizPlayer Note
+MIL - SS
+FA
+120
+544
+968
+2%
+104/441
+53.2
+104
+19.5
+2.6
+8.9
+48.2
+11.2
+31.2
+4.1
+88.1
+156
+.237
+.353
+
+
+Tommy Edman
+Tommy EdmanDTDPlayer Note
+LAD - 2B,3B,OF
+FA
+103
+311
+970
+12%
+95/394
+53.4
+95
+18.1
+2
+11.6
+47.7
+9.5
+28.2
+4.7
+78.1
+152
+.241
+.385
+
+
+Parker Meadows
+Parker MeadowsNew Player Note
+DET - OF
+FA
+114
+1,515
+971
+1%
+94.2/419
+55.4
+94.2
+17.2
+4.3
+11.6
+43
+12.7
+40.4
+4.3
+118
+154
+.225
+.370
+
+
+Chase DeLauter
+Chase DeLauterPlayer Note
+CLE - OF
+FA
+104
+308
+972
+7%
+102/419
+50.6
+102
+21.5
+0.8
+12.1
+51.6
+3.2
+38.9
+3.5
+88.2
+161
+.243
+.384
+
+
+Josh Lowe
+Josh LoweDTDPlayer Note
+LAA - OF
+FA
+108
+272
+973
+4%
+96.7/413
+54
+96.7
+20.5
+2
+12.5
+46.2
+19.9
+34.3
+2.9
+122
+158
+.234
+.383
+
+
+Mike Yastrzemski
+Mike YastrzemskiPlayer Note
+ATL - OF
+FA
+103
+468
+974
+3%
+86.1/373
+52.1
+86.1
+19.5
+1.6
+14.8
+47.8
+4.3
+44.7
+4.5
+97.6
+153
+.230
+.410
+
+
+Jake Meyers
+Jake MeyersPlayer Note
+HOU - OF
+FA
+109
+486
+975
+1%
+97.3/401
+52.2
+97.3
+19.4
+1.6
+9.4
+42.8
+11.5
+33.9
+5.6
+93.6
+148
+.242
+.369
+
+
+Zach McKinstry
+Zach McKinstryNo new player Notes
+DET - 3B,SS,OF
+FA
+105
+402
+976
+9%
+88.6/380
+50.2
+88.6
+17.2
+4.4
+8.2
+37.6
+14.7
+34.7
+4.6
+92.7
+138
+.233
+.365
+
+
+Anthony Volpe
+Anthony VolpeDTDPlayer Note
+NYY - SS Contest Eligible Player
+FA
+107
+331
+977
+6%
+92/409
+53
+92
+20
+1.9
+13.4
+46.6
+15.9
+31.4
+4.1
+109
+156
+.225
+.381
+
+
+Jesús Sánchez
+Jesús SánchezNo new player Notes
+TOR - OF
+FA
+100
+414
+978
+3%
+90.5/374
+50.2
+90.5
+18.4
+1.3
+14.5
+48.2
+8.6
+33.9
+3.6
+99.4
+155
+.242
+.414
+
+
+Konnor Griffin
+Konnor GriffinNANo new player Notes
+PIT - SS,OF
+FA
+94.8
+208
+979
+77%
+92/358
+50
+92
+16.4
+1
+10.1
+43.2
+16.7
+23.7
+7.3
+98.9
+141
+.257
+.392
+
+
+Connor Norby
+Connor NorbyNo new player Notes
+MIA - 3B
+FA
+107
+1,298
+980
+2%
+95.2/395
+50
+95.2
+20
+2
+12.5
+47.5
+7.9
+29.2
+4.2
+117
+156
+.241
+.396
+
+
+Evan Carter
+Evan CarterNew Player Note
+TEX - OF
+FA
+104
+321
+981
+5%
+87.1/376
+50.3
+87.1
+17.4
+2.5
+10.9
+40.5
+14.3
+38.5
+6.2
+98
+141
+.231
+.378
+
+
+Trevor Larnach
+Trevor LarnachNo new player Notes
+MIN - OF
+FA
+104
+406
+982
+2%
+93.8/385
+51.4
+93.8
+18.4
+1
+13.2
+50.4
+3.7
+41.8
+4
+102
+154
+.243
+.399
+
+
+Mark Vientos
+Mark VientosPlayer Note
+NYM - 3B
+FA
+104
+262
+983
+10%
+95.9/403
+49.2
+95.9
+18.1
+0.9
+18.2
+57.2
+1.4
+29.7
+4.1
+117
+170
+.238
+.423
+
+
+Victor Scott II
+Victor Scott IINo new player Notes
+STL - OF
+FA
+123
+1,185
+984
+5%
+95.8/440
+55.7
+95.8
+17.6
+2.5
+7.5
+37.7
+30.9
+36.9
+7.1
+115
+140
+.217
+.320
+
+
+Ke'Bryan Hayes
+Ke'Bryan HayesPlayer Note
+CIN - 3B
+FA
+122
+1,276
+986
+1%
+110/461
+51.6
+110
+18.9
+1.8
+8
+45.8
+10.5
+32
+4.1
+99.1
+158
+.240
+.341
+
+
+Carter Jensen
+Carter JensenPlayer Note
+KC - C
+FA
+107
+297
+988
+14%
+89.7/371
+46.7
+89.7
+18.7
+2.4
+12.3
+46.3
+5.2
+38.7
+3.1
+104
+150
+.241
+.404
+
+
+Francisco Alvarez
+Francisco AlvarezNo new player Notes
+NYM - C
+FA
+111
+261
+989
+16%
+91/395
+49.3
+91
+16.4
+1
+17.8
+53.8
+1.5
+38.4
+6
+114
+163
+.230
+.411
+
+
+Austin Wells
+Austin WellsNo new player Notes
+NYY - C Contest Eligible Player
+FA
+112
+482
+990
+15%
+87.2/394
+49.3
+87.2
+19.1
+1.1
+17.4
+55.3
+4.1
+34.9
+4.8
+108
+160
+.221
+.408
+
+
+Justin Crawford
+Justin CrawfordNANo new player Notes
+PHI - OF
+FA
+101
+266
+991
+10%
+99.1/372
+50.5
+99.1
+17.4
+1.9
+5.1
+35.1
+21.7
+27.2
+2
+84.3
+136
+.266
+.363
+
+
+Joc Pederson
+Joc PedersonNo new player Notes
+TEX - Util
+FA
+100
+1,454
+992
+1%
+80.3/354
+47.9
+80.3
+15
+0.9
+16.3
+49.3
+3.4
+44.2
+8
+92.8
+145
+.227
+.411
+
+
+Tyler Freeman
+Tyler FreemanNew Player Note
+COL - 2B,OF
+FA
+81.6
+539
+993
+2%
+82/302
+43.5
+82
+15.3
+1.7
+5.6
+32.8
+12.7
+25.2
+8
+49.5
+117
+.271
+.388
+
+
+Nick Gonzales
+Nick GonzalesPlayer Note
+PIT - 2B,SS
+FA
+94.8
+1,362
+994
+1%
+93.5/369
+43
+93.5
+20.2
+2.3
+7.6
+41.3
+3
+24
+5
+84
+141
+.253
+.382
+
+
+Gavin Lux
+Gavin LuxDTDNew Player Note
+TB - 2B,3B,OF
+FA
+105
+551
+995
+2%
+97.9/390
+48.1
+97.9
+20.8
+1.8
+6.6
+42.4
+3.6
+42.2
+3.1
+96.2
+141
+.251
+.365
+
+
+Brayan Rocchio
+Brayan RocchioNo new player Notes
+CLE - 2B,SS
+FA
+115
+1,376
+996
+1%
+94.5/415
+48.7
+94.5
+20.8
+1.5
+8
+43.2
+10.6
+33
+6.2
+95.1
+142
+.227
+.342
+
+
+Cam Smith
+Cam SmithPlayer Note
+HOU - OF
+FA
+106
+329
+997
+5%
+92.9/391
+47.6
+92.9
+18.7
+1.8
+9.8
+42.3
+6.2
+36.4
+5.9
+115
+144
+.237
+.368
+
+
+Brady House
+Brady HousePlayer Note
+WSH - 3B
+FA
+117
+1,520
+998
+2%
+108/451
+48.7
+108
+19.9
+1.2
+12.3
+52.4
+5.9
+21.7
+3.4
+137
+168
+.241
+.372
+
+
+Tyler Stephenson
+Tyler StephensonNo new player Notes
+CIN - C
+FA
+103
+317
+999
+4%
+88.2/372
+47.9
+88.2
+17.6
+0.9
+14.6
+51
+1.3
+39.1
+5
+118
+151
+.236
+.405
+
+
+Logan O'Hoppe
+Logan O'HoppePlayer Note
+LAA - C
+FA
+113
+1,314
+1,000
+7%
+95.5/416
+46.9
+95.5
+16
+1
+19
+52.5
+2.6
+29.8
+4.8
+129
+170
+.230
+.410
+
+
+Brett Baty
+Brett BatyNew Player Note
+NYM - 2B,3B
+FA
+105
+323
+1,001
+6%
+92.8/384
+48.6
+92.8
+15.9
+0.8
+15.1
+49.9
+4.4
+33.7
+3.6
+105
+155
+.241
+.405
+
+
+Marcelo Mayer
+Marcelo MayerPlayer Note
+BOS - 2B,3B
+FA
+102
+1,607
+1,003
+8%
+90/372
+46.7
+90
+20.6
+1.4
+10.7
+44.3
+5.9
+29.5
+3
+99.2
+145
+.241
+.391
+
+
+Kyle Isbel
+Kyle IsbelNo new player Notes
+KC - OF Contest Eligible Player
+FA
+112
+1,318
+1,004
+0%
+92.2/399
+50.1
+92.2
+17.7
+3.5
+6.9
+38.7
+9.2
+27.6
+4.1
+87.8
+138
+.231
+.344
+
+
+Dillon Dingler
+Dillon DinglerDTDPlayer Note
+DET - C
+FA
+103
+233
+1,005
+16%
+90.7/372
+42.9
+90.7
+19.1
+1.6
+11.3
+46.8
+1.8
+24.7
+5.1
+102
+146
+.244
+.395
+
+
+Samuel Basallo
+Samuel BasalloPlayer Note
+BAL - C
+FA
+101
+255
+1,006
+21%
+87.8/371
+47
+87.8
+17.6
+0.5
+14.6
+50.8
+2.9
+30.3
+4.6
+99.3
+150
+.236
+.405
+
+
+Paul Goldschmidt
+Paul GoldschmidtPlayer Note
+NYY - 1B Contest Eligible Player
+FA
+94.7
+381
+1,007
+6%
+89.7/356
+46.9
+89.7
+18.6
+0.5
+12.2
+42.2
+4.7
+30.2
+2.8
+88.8
+146
+.251
+.409
+
+
+Ryan McMahon
+Ryan McMahonPlayer Note
+NYY - 3B
+FA
+113
+549
+1,008
+5%
+90.4/413
+52.7
+90.4
+17.9
+1
+16.3
+50.6
+3.2
+51.2
+4
+147
+159
+.219
+.385
+
+
+Bo Naylor
+Bo NaylorNo new player Notes
+CLE - C
+FA
+114
+1,409
+1,009
+2%
+83.8/389
+49.8
+83.8
+18.5
+1.2
+15.6
+50.1
+5
+42.5
+3.6
+110
+151
+.216
+.389
+
+
+Luis Rengifo
+Luis RengifoPlayer Note
+MIL - 2B,3B,OF
+FA
+104
+582
+1,010
+2%
+93.7/379
+44.4
+93.7
+15.2
+2.2
+7.8
+39.7
+12
+26.8
+4
+77.5
+136
+.247
+.360
+
+
+Nolan Gorman
+Nolan GormanNew Player Note
+STL - 2B,3B
+FA
+115
+1,341
+1,013
+3%
+89/426
+53.2
+89
+17.4
+1
+19.3
+59.6
+4.4
+45.6
+3.5
+156
+165
+.208
+.390
+
+
+Giancarlo Stanton
+Giancarlo StantonPlayer Note
+NYY - OF
+FA
+92.6
+282
+1,014
+28%
+78.4/344
+47.7
+78.4
+12.6
+0.3
+23.1
+61.8
+0.9
+34.7
+3
+119
+161
+.227
+.466
+
+
+Lane Thomas
+Lane ThomasPlayer Note
+KC - OF
+FA
+94.9
+1,517
+1,015
+1%
+80.5/358
+47.9
+80.5
+17.2
+1.5
+12.4
+42.5
+14.6
+31.8
+4.7
+103
+137
+.225
+.386
+
+
+Dominic Canzone
+Dominic CanzoneNo new player Notes
+SEA - OF
+FA
+98.7
+310
+1,016
+3%
+86.6/363
+44.4
+86.6
+17
+0.8
+14.4
+48
+4.4
+28.5
+3.5
+94.4
+148
+.238
+.409
+
+
+Dylan Beavers
+Dylan BeaversNo new player Notes
+BAL - OF
+FA
+96.5
+1,585
+1,017
+3%
+80.4/345
+47.4
+80.4
+16.9
+1.5
+11.3
+41
+9.2
+40.8
+3.6
+94.9
+133
+.232
+.388
+
+
+Alek Thomas
+Alek ThomasPlayer Note
+AZ - OF
+FA
+101
+1,306
+1,018
+1%
+87.4/372
+46.2
+87.4
+18.8
+2.1
+9.4
+42.6
+8
+23.6
+3.5
+94.8
+138
+.235
+.373
+
+
+Jake McCarthy
+Jake McCarthyNo new player Notes
+COL - OF
+FA
+86.6
+1,452
+1,019
+1%
+79.6/316
+42.2
+79.6
+12.9
+3.6
+5.7
+31.1
+14.4
+22.6
+5
+63.4
+116
+.252
+.370
+
+
+Lourdes Gurriel Jr.
+Lourdes Gurriel Jr.DTDNo new player Notes
+AZ - OF
+FA
+77.2
+355
+1,020
+3%
+80.3/306
+37.8
+80.3
+15.7
+1.1
+10.5
+43.2
+4.8
+19.3
+3.2
+53.6
+129
+.262
+.424
+
+
+Tyler O'Neill
+Tyler O'NeillPlayer Note
+BAL - OF
+FA
+86.6
+1,392
+1,021
+2%
+73.7/321
+46.4
+73.7
+13.3
+1
+17.3
+47
+4.9
+35.5
+4.5
+100
+141
+.229
+.438
+
+
+Isaac Collins
+Isaac CollinsPlayer Note
+KC - OF
+FA
+104
+508
+1,022
+2%
+85.6/373
+40.5
+85.6
+17.3
+2
+7.7
+35.3
+11
+43.5
+5.9
+103
+129
+.229
+.348
+
+
+Bryce Eldridge
+Bryce EldridgePlayer Note
+SF - 1B
+FA
+98.9
+2,333
+1,023
+7%
+83.2/358
+44.4
+83.2
+17.1
+0.6
+14.5
+49.6
+3.2
+33.7
+4.2
+114
+145
+.232
+.405
+
+
+Lenyn Sosa
+Lenyn SosaNo new player Notes
+CWS - 1B,2B
+FA
+95.8
+390
+1,024
+5%
+92.5/374
+40.1
+92.5
+16.9
+0.9
+13.4
+45.9
+2.4
+17.3
+2.7
+90.1
+151
+.247
+.404
+
+
+Edgar Quero
+Edgar QueroPlayer Note
+CWS - C
+FA
+100
+1,456
+1,025
+1%
+91.7/361
+39.8
+91.7
+16.8
+0.6
+7.5
+40
+1.3
+33
+4.8
+74
+132
+.253
+.365
+
+
+Ha-Seong Kim
+Ha-Seong KimDTDNo new player Notes
+ATL - 2B,SS
+FA
+89.9
+1,447
+1,026
+2%
+77.4/320
+43.5
+77.4
+14.3
+1.5
+8.2
+34.5
+12.9
+35.8
+3.9
+67.2
+119
+.241
+.371
+
+
+José Caballero
+José CaballeroNo new player Notes
+NYY - 2B,3B,SS,OF
+FA
+92.6
+205
+1,027
+69%
+70.7/317
+46.9
+70.7
+14
+1
+7.8
+30.3
+33
+33.8
+6.8
+92.8
+109
+.222
+.346
+
+
+Freddy Fermin
+Freddy FerminNew Player Note
+SD - C
+FA
+112
+1,438
+1,028
+1%
+95.3/398
+43.3
+95.3
+15.4
+1.4
+9.3
+40.8
+3.1
+27.3
+3.7
+89.1
+141
+.239
+.354
+
+
+Carson Benge
+Carson BengeNANo new player Notes
+NYM - OF
+FA
+92.3
+312
+1,029
+7%
+78.1/329
+42.3
+78.1
+16.5
+1.4
+8.8
+38.3
+7.5
+31.2
+3.8
+79.2
+124
+.237
+.376
+
+
+Kevin McGonigle
+Kevin McGonigleNAPlayer Note
+DET - SS
+FA
+76.7
+237
+1,030
+30%
+70/278
+38.3
+70
+15.5
+1.5
+8.9
+35.5
+6.4
+30.5
+2.3
+46.2
+114
+.252
+.415
+
+
+Gabriel Arias
+Gabriel AriasDTDPlayer Note
+CLE - 2B,SS
+FA
+104
+1,358
+1,031
+1%
+88.1/393
+44.3
+88.1
+18.8
+1.2
+11.2
+43.6
+8.7
+26
+4.7
+133
+143
+.224
+.363
+
+
+Pavin Smith
+Pavin SmithNew Player Note
+AZ - 1B
+FA
+90
+1,373
+1,032
+1%
+75.5/320
+42.6
+75.5
+15.9
+1.1
+11.3
+43.4
+2.9
+40
+3.2
+93.3
+127
+.235
+.398
+
+
+Rhys Hoskins
+Rhys HoskinsNAPlayer Note
+CLE - 1B
+FA
+92
+1,240
+1,033
+1%
+73.2/331
+42
+73.2
+14.3
+0.7
+14.9
+48
+2.6
+39.6
+5.4
+101
+133
+.221
+.403
+
+
+Miguel Andujar
+Miguel AndujarNo new player Notes
+SD - 3B,OF
+FA
+89.8
+510
+1,034
+2%
+84.6/325
+37.3
+84.6
+14.9
+1.2
+8.6
+39.6
+2.8
+19.3
+2.5
+57
+127
+.260
+.392

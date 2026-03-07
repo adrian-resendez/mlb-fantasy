@@ -1,11 +1,7 @@
 import { useState } from "react";
-import { CATEGORIES } from "../utils/scoring";
+import { formatCategoryLabel } from "../utils/scoring";
 
-function formatCategoryLabel(category) {
-  return category;
-}
-
-export default function WeightPanel({ weights, onWeightChange, onReset }) {
+export default function WeightPanel({ categories, weights, onWeightChange, onReset }) {
   const [isOpen, setIsOpen] = useState(true);
 
   return (
@@ -13,9 +9,7 @@ export default function WeightPanel({ weights, onWeightChange, onReset }) {
       <div className="flex flex-wrap items-center justify-between gap-3">
         <div>
           <h2 className="text-lg font-bold text-strong">Category Weights</h2>
-          <p className="text-sm text-soft">
-            Tune how much each stat drives rankings.
-          </p>
+          <p className="text-sm text-soft">Tune how much each stat drives rankings.</p>
         </div>
         <div className="flex items-center gap-2">
           <button
@@ -45,12 +39,12 @@ export default function WeightPanel({ weights, onWeightChange, onReset }) {
           </div>
 
           <div id="category-weights-content" className="mt-4 grid gap-3 md:grid-cols-2 lg:grid-cols-3">
-            {CATEGORIES.map((category) => (
+            {categories.map((category) => (
               <div key={category} className="panel-soft p-3 shadow-sm">
                 <div className="mb-2 flex items-center justify-between">
                   <label className="text-sm font-semibold text-main">{formatCategoryLabel(category)}</label>
                   <span className="badge-pill rounded-md px-2 py-1 text-xs font-bold shadow-sm transition">
-                    {Number(weights[category] ?? 1).toFixed(2)}
+                    {Number(weights?.[category] ?? 1).toFixed(2)}
                   </span>
                 </div>
                 <input
@@ -58,7 +52,7 @@ export default function WeightPanel({ weights, onWeightChange, onReset }) {
                   min="0"
                   max="1"
                   step="0.05"
-                  value={weights[category] ?? 1}
+                  value={weights?.[category] ?? 1}
                   onChange={(event) => onWeightChange(category, Number(event.target.value))}
                   className="weight-slider h-2 w-full cursor-pointer appearance-none rounded-lg"
                   aria-label={`${category} weight`}

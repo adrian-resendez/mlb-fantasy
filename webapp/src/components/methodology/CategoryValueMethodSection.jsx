@@ -9,7 +9,7 @@ import {
   YAxis,
 } from "recharts";
 import { buildPercentileMap } from "../../utils/analytics";
-import { NEGATIVE_CATEGORIES } from "../../utils/scoring";
+import { formatCategoryLabel } from "../../utils/scoring";
 import MethodologyStep from "./MethodologyStep";
 
 const FALLBACK_ROWS = [
@@ -41,6 +41,17 @@ function shortPlayerLabel(name) {
   return `${words[0]} ${words[1]}`;
 }
 
+function toFiniteNumber(value) {
+  if (value === null || value === undefined) {
+    return null;
+  }
+  if (typeof value === "string" && value.trim() === "") {
+    return null;
+  }
+  const numeric = Number(value);
+  return Number.isFinite(numeric) ? numeric : null;
+}
+
 function ChartTooltip({ active, payload }) {
   if (!active || !payload?.length) {
     return null;
@@ -67,6 +78,7 @@ function ChartTooltip({ active, payload }) {
 export default function CategoryValueMethodSection({
   players,
   category,
+  negativeCategories = new Set(),
   valueFilter,
   teamFilter,
   positionFilter,
@@ -101,14 +113,14 @@ export default function CategoryValueMethodSection({
 
     const consensusPercentiles = buildPercentileMap(comparisonPool, {
       getId: (player) => `${player.name}-${player.team}-${player.position}`,
-      getValue: (player) => Number(player.consensus_rank),
+      getValue: (player) => toFiniteNumber(player.consensus_rank),
       descending: false,
     });
 
     const categoryPercentiles = buildPercentileMap(comparisonPool, {
       getId: (player) => `${player.name}-${player.team}-${player.position}`,
       getValue: (player) => Number(player[category]),
-      descending: !NEGATIVE_CATEGORIES.has(category),
+      descending: !negativeCategories.has(category),
     });
 
     return comparisonPool
@@ -155,10 +167,10 @@ export default function CategoryValueMethodSection({
 
   const modeLabel = valueFilter === "worst" ? "Worst Value" : "Best Value";
   const sortDirectionLabel = valueFilter === "worst" ? "ascending" : "descending";
-  const activeCategoryLabel = category || "No category selected";
+  const activeCategoryLabel = category ? formatCategoryLabel(category) : "No category selected";
   const negativeCategoryText =
-    category && NEGATIVE_CATEGORIES.has(category)
-      ? `${category} is a negative category, so lower raw values get higher percentiles.`
+    category && negativeCategories.has(category)
+      ? `${formatCategoryLabel(category)} is a negative category, so lower raw values get higher percentiles.`
       : "";
 
   return (

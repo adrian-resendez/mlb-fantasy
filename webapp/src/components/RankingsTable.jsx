@@ -18,6 +18,7 @@ function sortIndicator(columnKey, sortConfig) {
 
 export default function RankingsTable({
   players,
+  categories,
   sortConfig,
   onSortChange,
   showContributions,
@@ -71,6 +72,7 @@ export default function RankingsTable({
                 <PlayerRow
                   key={playerKey}
                   player={player}
+                  categories={categories}
                   showContributions={showContributions}
                   onSelect={onSelectPlayer}
                   isSelected={selectedPlayerKey === playerKey}

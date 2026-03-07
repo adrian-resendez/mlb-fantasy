@@ -1,27 +1,356 @@
-Rank | Name | Position | Team | Overall Score (0-100)
- 1. Aaron Judge | OF | NYY | 100.00
- 2. Shohei Ohtani (Batter) | UTIL | LAD | 79.10
- 3. Corbin Carroll | OF | AZ | 67.87
- 4. Bobby Witt Jr. | SS | KC | 63.51
- 5. Nick Kurtz | 1B | ATH | 60.83
- 6. José Ramírez | 3B | CLE | 58.80
- 7. Trea Turner | SS | PHI | 57.09
- 8. Ketel Marte | 2B | AZ | 53.52
- 9. Cal Raleigh | C | SEA | 52.80
-10. Francisco Lindor | SS | NYM | 51.55
-11. Juan Soto | OF | NYM | 51.02
-12. Pete Alonso | 1B | BAL | 50.64
-13. Kyle Schwarber | OF | PHI | 48.42
-14. Julio Rodríguez | OF | SEA | 46.73
-15. Jackson Chourio | OF | MIL | 43.44
-16. Vladimir Guerrero Jr. | 1B | TOR | 40.77
-17. Kyle Tucker | OF | LAD | 40.76
-18. Ronald Acuña Jr. | OF | ATL | 39.81
-19. Junior Caminero | 3B | TB | 39.14
-20. Zach Neto | SS | LAA | 38.03
-21. Fernando Tatis Jr. | OF | SD | 35.54
-22. Brent Rooker | OF | ATH | 30.17
-23. Gunnar Henderson | SS | BAL | 28.69
-24. Elly De La Cruz | SS | CIN | 26.52
-25. Jazz Chisholm Jr. | 2B,3B | NYY | 21.97
-26. Gleyber Torres | 2B | DET | 0.00
+Rank | Name | Position | Team | Type | Overall Score (0-100)
+ 1. Aaron Judge | OF | NYY | batter | 100.00
+ 2. Shohei Ohtani (Batter) | UTIL | LAD | batter | 91.59
+ 3. Corbin Carroll | OF | AZ | batter | 87.50
+ 4. Byron Buxton | OF | MIN | batter | 78.89
+ 5. Bobby Witt Jr. | SS | KC | batter | 78.82
+ 6. George Springer | OF | TOR | batter | 78.74
+ 7. Nick Kurtz | 1B | ATH | batter | 78.06
+ 8. José Ramírez | 3B | CLE | batter | 77.34
+ 9. Juan Soto | OF | NYM | batter | 75.62
+10. Cal Raleigh | C | SEA | batter | 75.35
+11. Jakob Marsee | OF | MIA | batter | 74.91
+12. Trea Turner | SS | PHI | batter | 74.70
+13. Kyle Schwarber | OF | PHI | batter | 73.23
+14. Geraldo Perdomo | SS | AZ | batter | 73.03
+15. Luke Keaschall | 2B | MIN | batter | 72.53
+16. Ketel Marte | 2B | AZ | batter | 71.77
+17. Francisco Lindor | SS | NYM | batter | 71.30
+18. Jeremy Peña | SS | HOU | batter | 71.03
+19. Bo Bichette | SS | NYM | batter | 70.94
+20. Pete Alonso | 1B | BAL | batter | 70.18
+21. Julio Rodríguez | OF | SEA | batter | 69.56
+22. Daylen Lile | OF | WSH | batter | 69.29
+23. Kyle Tucker | OF | LAD | batter | 68.33
+24. Jarren Duran | OF | BOS | batter | 67.03
+25. Jackson Chourio | OF | MIL | batter | 66.87
+26. Ronald Acuña Jr. | OF | ATL | batter | 66.54
+27. Freddie Freeman | 1B | LAD | batter | 66.09
+28. Shea Langeliers | C | ATH | batter | 65.66
+29. Josh Naylor | 1B | SEA | batter | 65.37
+30. CJ Abrams | SS | WSH | batter | 64.37
+31. Zach Neto | SS | LAA | batter | 64.35
+32. Junior Caminero | 3B | TB | batter | 64.33
+33. Fernando Tatis Jr. | OF | SD | batter | 64.04
+34. Vladimir Guerrero Jr. | 1B | TOR | batter | 63.99
+35. Carter Jensen | C | KC | batter | 63.95
+36. Jurickson Profar | OF | ATL | batter | 63.92
+37. Cody Bellinger | OF | NYY | batter | 63.86
+38. Pete Crow-Armstrong | OF | CHC | batter | 63.80
+39. Yandy Díaz | 1B | TB | batter | 62.91
+40. Bryce Harper | 1B | PHI | batter | 62.72
+41. Kyle Stowers | OF | MIA | batter | 62.70
+42. Alex Bregman | 3B | CHC | batter | 62.62
+43. Ivan Herrera | C | STL | batter | 61.58
+44. Roman Anthony | OF | BOS | batter | 61.41
+45. Matt Olson | 1B | ATL | batter | 60.89
+46. Miguel Amaya | C | CHC | batter | 60.67
+47. Randy Arozarena | OF | SEA | batter | 60.63
+48. Will Smith | C | LAD | batter | 60.62
+49. Maikel Garcia | 2B,3B,SS,OF | KC | batter | 60.61
+50. Corey Seager | SS | TEX | batter | 60.60
+51. Jacob Wilson | SS | ATH | batter | 59.96
+52. Brent Rooker | OF | ATH | batter | 59.93
+53. Elly De La Cruz | SS | CIN | batter | 59.91
+54. Gunnar Henderson | SS | BAL | batter | 59.71
+55. Willson Contreras | 1B | BOS | batter | 59.64
+56. Eugenio Suárez | 3B | CIN | batter | 59.54
+57. Jonathan Aranda | 1B | TB | batter | 59.25
+58. Daulton Varsho | OF | TOR | batter | 59.08
+59. Ramón Laureano | OF | SD | batter | 59.03
+60. Rafael Devers | 1B | SF | batter | 58.99
+61. Hunter Goodman | C | COL | batter | 58.94
+62. Vinnie Pasquantino | 1B | KC | batter | 58.92
+63. Nico Hoerner | 2B | CHC | batter | 58.54
+64. Jazz Chisholm Jr. | 2B,3B | NYY | batter | 58.37
+65. Michael Busch | 1B | CHC | batter | 58.22
+66. Ben Rice | C,1B | NYY | batter | 57.76
+67. Manny Machado | 3B | SD | batter | 57.72
+68. Giancarlo Stanton | OF | NYY | batter | 56.37
+69. Brendan Donovan | 2B,SS,OF | SEA | batter | 56.33
+70. Colson Montgomery | 3B,SS | CWS | batter | 56.11
+71. Jackson Merrill | OF | SD | batter | 55.98
+72. Jung Hoo Lee | OF | SF | batter | 55.83
+73. Brice Turang | 2B | MIL | batter | 55.73
+74. Christian Yelich | OF | MIL | batter | 55.66
+75. James Wood | OF | WSH | batter | 55.60
+76. Isaac Paredes | 3B | HOU | batter | 55.37
+77. Zach Cole | OF | HOU | batter | 55.35
+78. Romy Gonzalez | 1B,2B | BOS | batter | 55.34
+79. Seiya Suzuki | OF | CHC | batter | 55.19
+80. Tyler Soderstrom | 1B,OF | ATH | batter | 55.15
+81. Riley Greene | OF | DET | batter | 54.52
+82. Austin Hays | OF | CWS | batter | 54.13
+83. Jorge Polanco | 2B,3B | NYM | batter | 53.79
+84. Sal Frelick | OF | MIL | batter | 53.25
+85. Trevor Story | SS | BOS | batter | 53.24
+86. Mookie Betts | SS | LAD | batter | 53.11
+87. Mickey Moniak | OF | COL | batter | 52.94
+88. Max Muncy | 3B | LAD | batter | 52.81
+89. Taylor Ward | OF | BAL | batter | 52.47
+90. Jordan Westburg | 2B,3B | BAL | batter | 52.17
+91. Luis Arraez | 1B,2B | SF | batter | 52.16
+92. Andy Pages | OF | LAD | batter | 52.10
+93. Jonny DeLuca | OF | TB | batter | 52.00
+94. Moisés Ballesteros | C | CHC | batter | 51.97
+95. Lourdes Gurriel Jr. | OF | AZ | batter | 51.70
+96. Jose Altuve | 2B,OF | HOU | batter | 51.66
+97. Noelvi Marte | 3B,OF | CIN | batter | 51.56
+98. Brandon Nimmo | OF | TEX | batter | 51.14
+99. Wyatt Langford | OF | TEX | batter | 51.01
+100. Agustín Ramírez | C | MIA | batter | 50.95
+101. Alec Burleson | 1B,OF | STL | batter | 50.88
+102. Caleb Durbin | 2B,3B | BOS | batter | 50.85
+103. Zach McKinstry | 3B,SS,OF | DET | batter | 50.79
+104. Drake Baldwin | C | ATL | batter | 50.64
+105. Matt Chapman | 3B | SF | batter | 50.43
+106. TJ Friedl | OF | CIN | batter | 50.16
+107. Steven Kwan | OF | CLE | batter | 49.92
+108. Drew Millas | C | WSH | batter | 49.89
+109. Teoscar Hernández | OF | LAD | batter | 49.37
+110. Miguel Andujar | 3B,OF | SD | batter | 49.22
+111. Kerry Carpenter | OF | DET | batter | 49.19
+112. William Contreras | C | MIL | batter | 49.18
+113. Nolan Schanuel | 1B | LAA | batter | 49.09
+114. Chandler Simpson | OF | TB | batter | 49.06
+115. Spencer Torkelson | 1B | DET | batter | 48.96
+116. Xavier Edwards | 2B,SS | MIA | batter | 48.88
+117. Brandon Lowe | 2B | PIT | batter | 48.84
+118. Salvador Perez | C,1B | KC | batter | 48.63
+119. Alec Bohm | 1B,3B | PHI | batter | 48.54
+120. Evan Carter | OF | TEX | batter | 48.54
+121. Ian Happ | OF | CHC | batter | 48.49
+122. Heliot Ramos | OF | SF | batter | 48.41
+123. Ceddanne Rafaela | 2B,OF | BOS | batter | 48.06
+124. Tyler Freeman | 2B,OF | COL | batter | 47.90
+125. Trent Grisham | OF | NYY | batter | 47.25
+126. Spencer Horwitz | 1B | PIT | batter | 47.25
+127. Ryan O'Hearn | 1B,OF | PIT | batter | 47.03
+128. Miguel Vargas | 1B,3B | CWS | batter | 46.82
+129. Jo Adell | OF | LAA | batter | 46.81
+130. Austin Riley | 3B | ATL | batter | 46.64
+131. Gleyber Torres | 2B | DET | batter | 46.30
+132. Jeremiah Jackson | 3B,OF | BAL | batter | 46.12
+133. Willy Adames | SS | SF | batter | 45.94
+134. Jeff McNeil | 2B,OF | ATH | batter | 45.81
+135. Yordan Alvarez | OF | HOU | batter | 45.80
+136. Andrew Benintendi | OF | CWS | batter | 45.64
+137. Xander Bogaerts | SS | SD | batter | 45.49
+138. Addison Barger | 3B,OF | TOR | batter | 45.34
+139. Wenceel Pérez | OF | DET | batter | 45.24
+140. Gabriel Moreno | C | AZ | batter | 45.06
+141. Alejandro Kirk | C | TOR | batter | 44.50
+142. Bryan Reynolds | OF | PIT | batter | 44.29
+143. Mike Trout | OF | LAA | batter | 44.28
+144. Richie Palacios | OF | TB | batter | 44.18
+145. Michael Harris II | OF | ATL | batter | 43.99
+146. Ernie Clement | 1B,2B,3B,SS | TOR | batter | 43.89
+147. Dansby Swanson | SS | CHC | batter | 43.84
+148. Bryson Stott | 2B,SS | PHI | batter | 43.79
+149. Harrison Bader | OF | SF | batter | 43.63
+150. Luis García Jr. | 2B | WSH | batter | 43.55
+151. Gary Sánchez | C | MIL | batter | 43.44
+152. Dillon Dingler | C | DET | batter | 43.43
+153. Christian Walker | 1B | HOU | batter | 43.31
+154. Isaac Collins | OF | KC | batter | 43.24
+155. Wilyer Abreu | OF | BOS | batter | 43.14
+156. Sal Stewart | 1B | CIN | batter | 42.66
+157. Matt Wallner | OF | MIN | batter | 42.43
+158. Masyn Winn | SS | STL | batter | 42.16
+159. Jordan Beck | OF | COL | batter | 42.03
+160. Dominic Canzone | OF | SEA | batter | 42.02
+161. Kyle Teel | C | CWS | batter | 41.92
+162. Ryan Jeffers | C | MIN | batter | 41.72
+163. Dominic Smith | 1B | ATL | batter | 41.72
+164. Lawrence Butler | OF | ATH | batter | 41.68
+165. Ozzie Albies | 2B | ATL | batter | 41.67
+166. Otto Lopez | 2B,SS | MIA | batter | 41.54
+167. Gavin Sheets | 1B,OF | SD | batter | 41.46
+168. Jake Cronenworth | 1B,2B,SS | SD | batter | 41.26
+169. Jackson Holliday | 2B,SS | BAL | batter | 41.19
+170. Lenyn Sosa | 1B,2B | CWS | batter | 41.01
+171. Jake Meyers | OF | HOU | batter | 40.91
+172. Paul Goldschmidt | 1B | NYY | batter | 40.85
+173. Andrew Vaughn | 1B | MIL | batter | 40.83
+174. J.T. Realmuto | C | PHI | batter | 40.75
+175. Nolan Arenado | 3B | AZ | batter | 40.71
+176. Thairo Estrada | 2B | BAL | batter | 40.66
+177. Michael Helman | OF | TEX | batter | 40.52
+178. Yoán Moncada | 3B | LAA | batter | 40.48
+179. Carson Kelly | C | CHC | batter | 40.45
+180. Nick Castellanos | OF | SD | batter | 40.43
+181. Austin Wynns | C | ATH | batter | 40.34
+182. Francisco Alvarez | C | NYM | batter | 40.31
+183. Marcus Semien | 2B | NYM | batter | 40.22
+184. Yainer Diaz | C | HOU | batter | 39.94
+185. Adolis García | OF | PHI | batter | 39.94
+186. Jake Mangum | OF | PIT | batter | 39.76
+187. Trevor Larnach | OF | MIN | batter | 39.76
+188. Austin Martin | 2B,OF | MIN | batter | 39.69
+189. Carlos Correa | 3B,SS | HOU | batter | 39.54
+190. Spencer Steer | 1B,OF | CIN | batter | 39.52
+191. Ezequiel Tovar | SS | COL | batter | 39.38
+192. Kyle Manzardo | 1B | CLE | batter | 39.18
+193. Masataka Yoshida | OF | BOS | batter | 39.15
+194. Anthony Volpe | SS | NYY | batter | 39.10
+195. Heriberto Hernández | OF | MIA | batter | 39.03
+196. Connor Norby | 3B | MIA | batter | 38.79
+197. Josh Lowe | OF | LAA | batter | 38.54
+198. Oneil Cruz | OF | PIT | batter | 38.48
+199. Josh Bell | 1B | MIN | batter | 38.42
+200. Tommy Edman | 2B,3B,OF | LAD | batter | 38.37
+201. Lars Nootbaar | OF | STL | batter | 38.36
+202. Rob Refsnyder | OF | SEA | batter | 38.25
+203. Dylan Beavers | OF | BAL | batter | 38.20
+204. Cedric Mullins | OF | TB | batter | 38.06
+205. Josh Smith | 1B,3B,SS,OF | TEX | batter | 37.96
+206. Mike Yastrzemski | OF | ATL | batter | 37.92
+207. Tyler Heineman | C | TOR | batter | 37.91
+208. J.P. Crawford | SS | SEA | batter | 37.88
+209. Warming Bernabel | 1B | WSH | batter | 37.72
+210. Luis Robert Jr. | OF | NYM | batter | 37.61
+211. Starling Marte | OF | NYM | batter | 37.53
+212. Starling Marte | OF | KC | batter | 37.53
+213. Brandon Marsh | OF | PHI | batter | 37.51
+214. Jasson Domínguez | OF | NYY | batter | 37.46
+215. Jonathan India | 2B,3B,OF | KC | batter | 37.43
+216. Jesús Sánchez | OF | TOR | batter | 37.40
+217. Ty France | 1B | SD | batter | 37.27
+218. Austin Wells | C | NYY | batter | 37.23
+219. James McCann | C | AZ | batter | 37.10
+220. Mark Vientos | 3B | NYM | batter | 37.01
+221. Carlos Cortes | OF | ATH | batter | 36.98
+222. Joey Loperfido | OF | HOU | batter | 36.78
+223. Carlos Narváez | C | BOS | batter | 36.67
+224. Jake Burger | 1B | TEX | batter | 36.46
+225. Griffin Conine | OF | MIA | batter | 36.41
+226. Nick Gonzales | 2B,SS | PIT | batter | 36.29
+227. Willi Castro | 2B,3B,OF | COL | batter | 36.27
+228. Otto Kemp | 1B,3B,OF | PHI | batter | 36.20
+229. Tyler Stephenson | C | CIN | batter | 36.17
+230. Jahmai Jones | OF | DET | batter | 35.95
+231. Marcell Ozuna | UTIL | PIT | batter | 35.89
+232. Victor Caratini | C,1B | MIN | batter | 35.69
+233. Tyler O'Neill | OF | BAL | batter | 35.59
+234. Matt Shaw | 3B | CHC | batter | 35.57
+235. Josh Jung | 3B | TEX | batter | 35.57
+236. Luis Matos | OF | SF | batter | 35.52
+237. Nick Sogard | 1B,2B | BOS | batter | 35.41
+238. Blaze Alexander | 2B,3B | BAL | batter | 35.22
+239. Javier Báez | 2B,3B,SS,OF | DET | batter | 34.95
+240. CJ Kayfus | 1B,OF | CLE | batter | 34.92
+241. Brett Baty | 2B,3B | NYM | batter | 34.89
+242. Amed Rosario | 2B,3B | NYY | batter | 34.83
+243. Nathan Lukes | OF | TOR | batter | 34.73
+244. Rhys Hoskins | 1B | CLE | batter | 34.62
+245. Royce Lewis | 3B | MIN | batter | 34.53
+246. Edmundo Sosa | 2B,3B,SS | PHI | batter | 34.34
+247. Eric Wagaman | 1B,OF | MIN | batter | 34.02
+248. Blaine Crim | 1B | COL | batter | 34.01
+249. Colt Keith | 1B,2B,3B | DET | batter | 33.93
+250. Dylan Crews | OF | WSH | batter | 33.84
+251. José Tena | 2B,3B | WSH | batter | 33.72
+252. Sam Haggerty | OF | TEX | batter | 33.65
+253. Jesse Winker | OF | NYM | batter | 33.62
+254. Adley Rutschman | C | BAL | batter | 33.50
+255. Wilmer Flores | 1B | SF | batter | 33.22
+256. Max Kepler | OF | PHI | batter | 33.05
+257. Kody Clemens | 1B,2B,OF | MIN | batter | 32.99
+258. José Caballero | 2B,3B,SS,OF | NYY | batter | 32.93
+259. Kyle Higashioka | C | TEX | batter | 32.89
+260. Pavin Smith | 1B | AZ | batter | 32.89
+261. Brenton Doyle | OF | COL | batter | 32.69
+262. Tommy Pham | OF | PIT | batter | 32.57
+263. Andrew McCutchen | OF | PIT | batter | 32.38
+264. Casey Schmitt | 1B,2B,3B | SF | batter | 32.38
+265. Andrew McCutchen | OF | TEX | batter | 32.38
+266. Victor Robles | OF | SEA | batter | 32.31
+267. Gavin Lux | 2B,3B,OF | TB | batter | 32.26
+268. Ildemaro Vargas | 1B,2B | AZ | batter | 32.08
+269. Chase Meidroth | 2B,3B,SS | CWS | batter | 31.95
+270. Alex Jackson | C | MIN | batter | 31.95
+271. Cam Smith | OF | HOU | batter | 31.51
+272. Javier Sanoja | 2B,3B,SS,OF | MIA | batter | 31.37
+273. Brooks Lee | 2B,3B,SS | MIN | batter | 31.24
+274. Colton Cowser | OF | BAL | batter | 31.07
+275. Adam Frazier | 2B,OF | LAA | batter | 30.98
+276. Ryan Mountcastle | 1B | BAL | batter | 30.76
+277. Sean Murphy | C | ATL | batter | 30.68
+278. Alex Call | OF | LAD | batter | 30.61
+279. Ha-Seong Kim | 2B,SS | ATL | batter | 29.91
+280. Liam Hicks | C,1B | MIA | batter | 29.72
+281. Jared Triolo | 1B,2B,3B,SS | PIT | batter | 29.56
+282. Andrés Giménez | 2B,SS | TOR | batter | 29.49
+283. JJ Bleday | OF | CIN | batter | 29.31
+284. Brice Matthews | 2B | HOU | batter | 28.66
+285. Ryan Ritter | 2B,SS | COL | batter | 28.48
+286. Edgar Quero | C | CWS | batter | 28.48
+287. Jorge Soler | OF | LAA | batter | 28.33
+288. Brayan Rocchio | 2B,SS | CLE | batter | 28.10
+289. Matt McLain | 2B | CIN | batter | 27.61
+290. Keibert Ruiz | C | WSH | batter | 27.57
+291. Christian Encarnacion-Strand | 1B,3B | CIN | batter | 27.56
+292. Gabriel Arias | 2B,SS | CLE | batter | 27.53
+293. Ryan McMahon | 3B | NYY | batter | 27.29
+294. Isiah Kiner-Falefa | 2B,3B,SS | BOS | batter | 27.26
+295. Angel Martínez | 2B,OF | CLE | batter | 27.01
+296. Danny Jansen | C | TEX | batter | 26.99
+297. José Fermín | 2B | STL | batter | 26.92
+298. Brooks Baldwin | 2B,3B,SS,OF | CWS | batter | 26.83
+299. Tyler Black | 1B | MIL | batter | 26.73
+300. Ramón Urías | 2B,3B | STL | batter | 26.58
+301. Davis Schneider | 2B,OF | TOR | batter | 26.54
+302. Rhylan Thomas | OF | SEA | batter | 26.53
+303. Kristian Campbell | 2B,OF | BOS | batter | 26.45
+304. Tomás Nido | C | DET | batter | 26.28
+305. Denzel Clarke | OF | ATH | batter | 26.24
+306. Enmanuel Valdez | 1B | PIT | batter | 26.15
+307. Carlos Santana | 1B | AZ | batter | 25.91
+308. Eli White | OF | ATL | batter | 25.65
+309. Will Benson | OF | CIN | batter | 25.63
+310. Victor Scott II | OF | STL | batter | 25.61
+311. Luis Rengifo | 2B,3B,OF | MIL | batter | 25.58
+312. Jake McCarthy | OF | COL | batter | 25.49
+313. Oswaldo Cabrera | 3B | NYY | batter | 24.99
+314. Miguel Rojas | 2B,3B,SS | LAD | batter | 24.94
+315. Alek Thomas | OF | AZ | batter | 24.82
+316. George Valera | OF | CLE | batter | 24.71
+317. Rowdy Tellez | 1B | TEX | batter | 24.58
+318. Bo Naylor | C | CLE | batter | 24.58
+319. Nacho Alvarez Jr. | 3B | ATL | batter | 24.46
+320. Paul DeJong | 2B,3B,SS | NYY | batter | 24.44
+321. Jake Fraley | OF | TB | batter | 24.22
+322. Joey Ortiz | SS | MIL | batter | 24.07
+323. Zach Dezenzo | OF | HOU | batter | 23.89
+324. Marcelo Mayer | 2B,3B | BOS | batter | 23.73
+325. Ke'Bryan Hayes | 3B | CIN | batter | 23.69
+326. Tyrone Taylor | OF | NYM | batter | 23.62
+327. Samuel Basallo | C | BAL | batter | 23.17
+328. Jake Bauers | 1B,OF | MIL | batter | 23.08
+329. Nolan Gorman | 2B,3B | STL | batter | 22.75
+330. Kyle Isbel | OF | KC | batter | 22.04
+331. Mauricio Dubón | 2B,3B,SS,OF | ATL | batter | 21.97
+332. Luis Urías | 2B,3B | ATH | batter | 21.78
+333. Pedro Pagés | C | STL | batter | 21.71
+334. Tristan Gray | 2B,SS | MIN | batter | 21.63
+335. Michael Conforto | OF | CHC | batter | 21.61
+336. Taylor Walls | SS | TB | batter | 21.49
+337. Daniel Schneemann | 2B,3B,SS,OF | CLE | batter | 21.04
+338. Maximo Acosta | SS | MIA | batter | 20.84
+339. Ryan Fitzgerald | SS | LAD | batter | 20.48
+340. Christopher Morel | OF | MIA | batter | 20.44
+341. Myles Straw | OF | TOR | batter | 19.61
+342. Randal Grichuk | OF | KC | batter | 19.59
+343. Logan O'Hoppe | C | LAA | batter | 19.49
+344. Dane Myers | OF | CIN | batter | 19.45
+345. Brady House | 3B | WSH | batter | 19.39
+346. Patrick Bailey | C | SF | batter | 18.34
+347. Jonah Heim | C | ATL | batter | 18.04
+348. Jose Iglesias | 2B,3B,SS | SD | batter | 16.57
+349. Jacob Young | OF | WSH | batter | 16.36
+350. Jerar Encarnacion | OF | SF | batter | 15.18
+351. Jac Caglianone | 1B,OF | KC | batter | 14.42
+352. Anthony Santander | OF | TOR | batter | 11.70
+353. David Hamilton | 2B,SS | MIL | batter | 11.49
+354. Dylan Moore | 1B,2B,3B,OF | PHI | batter | 10.97
+355. Bryce Eldridge | 1B | SF | batter | 0.00

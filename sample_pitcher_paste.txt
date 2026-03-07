@@ -1,0 +1,5175 @@
+
+
+Hunter Greene
+Hunter GreeneDTDPlayer Note
+CIN - SP
+FA
+1.0
+41
+4
+99%
+5.2
+0.37
+0.21
+0.05
+0.05
+0.00
+1.37
+6.95
+0.00
+7.58
+2.76
+0.94
+0.58
+
+
+Jose Espada
+Jose EspadaNo new player Notes
+BAL - RP
+FA
+1.0
+585
+10
+0%
+3.0
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+4.00
+0.00
+1.00
+0.00
+0.33
+0.00
+
+
+Trevor Rogers
+Trevor RogersPlayer Note
+BAL - SP
+FA
+1.0
+147
+14
+88%
+6.0
+0.50
+0.17
+0.06
+0.00
+0.00
+1.61
+5.72
+0.00
+5.67
+1.81
+0.90
+0.72
+
+
+Nathan Eovaldi
+Nathan EovaldiPlayer Note
+TEX - SP
+FA
+1.0
+132
+25
+92%
+5.2
+0.50
+0.14
+0.05
+0.05
+0.00
+0.95
+5.86
+0.00
+6.45
+1.73
+0.85
+0.64
+
+
+Spencer Schwellenbach
+Spencer SchwellenbachIL60No new player Notes
+ATL - SP
+FA
+1.0
+327
+36
+68%
+6.1
+0.41
+0.24
+0.06
+0.00
+0.00
+1.06
+6.35
+0.00
+8.82
+3.09
+0.97
+0.76
+
+
+Trevor McDonald
+Trevor McDonaldNo new player Notes
+SF - SP,RP
+FA
+1.0
+506
+37
+0%
+5.0
+0.33
+0.00
+0.00
+0.00
+0.00
+0.67
+4.67
+0.00
+5.67
+1.80
+1.00
+0.67
+
+
+Tarik Skubal
+Tarik SkubalVideo ForecastPlayer Note
+DET - SP
+FA
+1.0
+6
+38
+100%
+6.0
+0.42
+0.19
+0.03
+0.03
+0.00
+1.06
+7.77
+0.00
+7.26
+2.21
+0.89
+0.68
+
+
+Aroldis Chapman
+Aroldis ChapmanNo new player Notes
+BOS - RP
+FA
+1.0
+102
+39
+98%
+0.2
+0.07
+0.04
+0.00
+0.00
+0.48
+0.22
+1.27
+0.06
+0.63
+1.17
+0.70
+0.00
+
+
+Hunter Harvey
+Hunter HarveyNo new player Notes
+CHC - RP
+FA
+1.0
+481
+43
+1%
+0.2
+0.08
+0.00
+0.00
+0.00
+0.00
+0.08
+0.92
+0.42
+0.50
+0.00
+0.66
+0.00
+
+
+Logan Henderson
+Logan HendersonNew Player Note
+MIL - SP
+FA
+1.0
+221
+44
+37%
+5.0
+0.60
+0.00
+0.00
+0.00
+0.00
+1.60
+6.60
+0.00
+5.40
+1.78
+0.99
+0.20
+
+
+Michael King
+Michael KingPlayer Note
+SD - SP
+FA
+1.0
+136
+45
+90%
+4.2
+0.33
+0.20
+0.07
+0.07
+0.00
+1.73
+5.07
+0.00
+7.33
+3.44
+1.20
+0.13
+
+
+Hunter Barco
+Hunter BarcoPlayer Note
+PIT - SP,RP
+FA
+1.0
+575
+46
+1%
+1.1
+0.50
+0.00
+0.00
+0.00
+0.00
+0.00
+1.50
+0.00
+2.00
+0.00
+1.00
+0.00
+
+
+Josh Hader
+Josh HaderDTDNew Player Note
+HOU - RP
+FA
+1.0
+149
+50
+95%
+1.0
+0.13
+0.04
+0.00
+0.00
+0.58
+0.33
+1.58
+0.00
+1.31
+2.05
+0.85
+0.00
+
+
+Edwin Díaz
+Edwin DíazPlayer Note
+LAD - RP
+FA
+1.0
+63
+51
+99%
+1.0
+0.10
+0.05
+0.00
+0.00
+0.45
+0.34
+1.58
+0.00
+0.89
+1.63
+0.87
+0.00
+
+
+Stephen Kolek
+Stephen KolekDTDPlayer Note
+KC - SP
+FA
+1.0
+464
+52
+1%
+5.2
+0.26
+0.37
+0.05
+0.05
+0.00
+1.63
+4.05
+0.00
+7.47
+3.51
+1.14
+0.47
+
+
+Justin Lawrence
+Justin LawrenceNo new player Notes
+PIT - RP
+FA
+1.0
+553
+59
+0%
+1.0
+0.06
+0.00
+0.00
+0.00
+0.00
+0.47
+1.35
+0.35
+0.76
+0.51
+0.96
+0.00
+
+
+Abner Uribe
+Abner UribePlayer Note
+MIL - RP
+FA
+1.0
+210
+62
+64%
+1.0
+0.04
+0.03
+0.00
+0.00
+0.09
+0.36
+1.20
+0.49
+0.89
+1.67
+1.04
+0.00
+
+
+Andrés Muñoz
+Andrés MuñozNo new player Notes
+SEA - RP
+FA
+1.0
+71
+64
+99%
+0.2
+0.05
+0.05
+0.00
+0.00
+0.59
+0.44
+1.30
+0.00
+0.75
+1.73
+1.03
+0.00
+
+
+Brad Keller
+Brad KellerPlayer Note
+PHI - RP
+FA
+1.0
+359
+65
+5%
+1.0
+0.06
+0.03
+0.00
+0.00
+0.04
+0.32
+1.10
+0.37
+0.90
+2.07
+0.96
+0.00
+
+
+Alex Vesia
+Alex VesiaNo new player Notes
+LAD - RP
+FA
+1.0
+347
+66
+9%
+0.2
+0.06
+0.03
+0.00
+0.00
+0.07
+0.32
+1.18
+0.38
+1.04
+3.02
+0.99
+0.00
+
+
+Mason Miller
+Mason MillerNo new player Notes
+SD - RP
+FA
+1.0
+53
+67
+99%
+1.0
+0.02
+0.03
+0.00
+0.00
+0.37
+0.47
+1.73
+0.17
+0.83
+2.63
+0.91
+0.00
+
+
+Nolan McLean
+Nolan McLeanPlayer Note
+NYM - SP
+FA
+1.0
+86
+68
+96%
+6.0
+0.63
+0.13
+0.00
+0.00
+0.00
+2.00
+7.13
+0.00
+6.25
+2.06
+1.04
+0.50
+
+
+Garrett Crochet
+Garrett CrochetPlayer Note
+BOS - SP
+FA
+1.0
+11
+69
+100%
+6.1
+0.56
+0.16
+0.03
+0.03
+0.00
+1.44
+7.97
+0.00
+8.41
+2.59
+1.03
+0.69
+
+
+Robert Suarez
+Robert SuarezNo new player Notes
+ATL - RP
+FA
+1.0
+260
+71
+68%
+0.2
+0.06
+0.09
+0.00
+0.00
+0.57
+0.23
+1.07
+0.00
+1.04
+2.97
+0.90
+0.00
+
+
+Brooks Raley
+Brooks RaleyNo new player Notes
+NYM - RP
+FA
+1.0
+409
+76
+1%
+0.2
+0.10
+0.03
+0.00
+0.00
+0.00
+0.20
+0.83
+0.33
+0.63
+2.45
+0.78
+0.00
+
+
+A.J. Puk
+A.J. PukIL60No new player Notes
+AZ - RP
+FA
+1.0
+487
+77
+3%
+1.0
+0.00
+0.00
+0.00
+0.00
+0.50
+0.25
+1.50
+0.25
+2.13
+3.38
+1.25
+0.00
+
+
+Evan Phillips
+Evan PhillipsIL60Player Note
+LAD - RP
+FA
+1.0
+474
+78
+1%
+0.2
+0.00
+0.00
+0.00
+0.00
+0.14
+0.29
+0.86
+0.29
+0.57
+0.00
+1.06
+0.00
+
+
+Ronny Henriquez
+Ronny HenriquezIL60No new player Notes
+MIA - RP
+FA
+1.0
+344
+79
+3%
+1.0
+0.10
+0.01
+0.00
+0.00
+0.10
+0.39
+1.42
+0.38
+1.29
+2.22
+1.10
+0.00
+
+
+Gabe Speier
+Gabe SpeierNo new player Notes
+SEA - RP
+FA
+1.0
+364
+80
+4%
+0.2
+0.05
+0.04
+0.00
+0.00
+0.00
+0.14
+1.08
+0.32
+0.96
+2.61
+0.87
+0.00
+
+
+Jhonathan Díaz
+Jhonathan DíazNANo new player Notes
+SEA - RP
+FA
+1.0
+1,132
+81
+0%
+1.1
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+1.00
+0.00
+1.00
+0.00
+0.75
+0.00
+
+
+Bryan Woo
+Bryan WooPlayer Note
+SEA - SP
+FA
+1.0
+36
+82
+99%
+6.0
+0.50
+0.23
+0.00
+0.00
+0.00
+1.20
+6.60
+0.00
+8.07
+2.94
+0.93
+0.70
+
+
+Zack Wheeler
+Zack WheelerDTDNew Player Note
+PHI - SP
+FA
+1.0
+135
+83
+91%
+6.0
+0.42
+0.21
+0.04
+0.00
+0.00
+1.38
+8.13
+0.00
+7.88
+2.71
+0.94
+0.67
+
+
+Cristian Mena
+Cristian MenaDTDPlayer Note
+AZ - SP,RP
+FA
+1.0
+563
+85
+0%
+2.0
+0.33
+0.00
+0.00
+0.00
+0.00
+1.00
+2.67
+0.00
+2.00
+1.35
+0.90
+0.00
+
+
+A.J. Minter
+A.J. MinterDTDPlayer Note
+NYM - RP
+FA
+1.0
+489
+86
+1%
+0.2
+0.00
+0.00
+0.00
+0.00
+0.00
+0.38
+1.08
+0.54
+0.54
+1.64
+1.00
+0.00
+
+
+Dennis Santana
+Dennis SantanaNo new player Notes
+PIT - RP
+FA
+1.0
+193
+87
+82%
+1.0
+0.06
+0.07
+0.00
+0.00
+0.23
+0.24
+0.86
+0.19
+1.04
+2.18
+0.87
+0.00
+
+
+Randy Rodríguez
+Randy RodríguezIL60No new player Notes
+SF - RP
+FA
+1.0
+354
+89
+2%
+1.0
+0.06
+0.10
+0.00
+0.00
+0.08
+0.22
+1.34
+0.26
+1.04
+1.78
+0.89
+0.00
+
+
+Brandon Woodruff
+Brandon WoodruffDTDPlayer Note
+MIL - SP
+FA
+1.0
+126
+91
+91%
+5.1
+0.58
+0.17
+0.00
+0.00
+0.00
+1.17
+6.92
+0.00
+6.58
+3.20
+0.91
+0.50
+
+
+Garrett Whitlock
+Garrett WhitlockNo new player Notes
+BOS - RP
+FA
+1.0
+348
+92
+13%
+1.0
+0.11
+0.05
+0.00
+0.00
+0.02
+0.39
+1.47
+0.39
+1.10
+2.25
+1.08
+0.00
+
+
+Paul Skenes
+Paul SkenesPlayer Note
+PIT - SP
+FA
+1.0
+9
+93
+100%
+5.2
+0.31
+0.31
+0.03
+0.00
+0.00
+1.31
+6.75
+0.00
+6.56
+1.97
+0.95
+0.63
+
+
+Carlos Estévez
+Carlos EstévezPlayer Note
+KC - RP
+FA
+1.0
+150
+95
+93%
+0.2
+0.06
+0.07
+0.00
+0.00
+0.63
+0.33
+0.81
+0.00
+1.13
+2.45
+1.06
+0.00
+
+
+Andrew Saalfrank
+Andrew SaalfrankIL60No new player Notes
+AZ - RP
+FA
+1.0
+431
+96
+1%
+1.0
+0.07
+0.04
+0.00
+0.00
+0.11
+0.36
+0.68
+0.18
+0.93
+1.24
+1.00
+0.00
+
+
+Joey Gerber
+Joey GerberNo new player Notes
+NYM - SP,RP
+FA
+1.0
+600
+97
+0%
+2.0
+0.00
+0.00
+0.00
+0.00
+0.00
+0.00
+2.00
+0.00
+3.00
+2.08
+0.69
+0.00
+
+
+Shawn Armstrong
+Shawn ArmstrongNo new player Notes
+CLE - RP
+FA
+1.0
+343
+98
+4%
+1.0
+0.06
+0.04
+0.00
+0.00
+0.13
+0.28
+1.04
+0.17
+0.94
+2.31
+0.81
+0.00
+
+
+Adrian Morejon
+Adrian MorejonNo new player Notes
+SD - RP
+FA
+1.0
+340
+99
+10%
+0.2
+0.17
+0.08
+0.00
+0.00
+0.04
+0.23
+0.93
+0.27
+0.83
+2.08
+0.90
+0.00
+
+
+Tommy Nance
+Tommy NanceNo new player Notes
+TOR - RP
+FA
+1.0
+443
+100
+0%
+1.0
+0.07
+0.00
+0.00
+0.00
+0.00
+0.23
+1.07
+0.17
+0.90
+1.99
+1.01
+0.00
+
+
+Trevor Megill
+Trevor MegillPlayer Note
+MIL - RP
+FA
+1.0
+181
+101
+88%
+0.2
+0.12
+0.06
+0.00
+0.00
+0.60
+0.34
+1.20
+0.00
+1.12
+2.49
+1.13
+0.00
+
+
+Anthony Bender
+Anthony BenderDTDPlayer Note
+MIA - RP
+FA
+1.0
+389
+103
+1%
+0.2
+0.06
+0.10
+0.00
+0.00
+0.08
+0.41
+0.82
+0.37
+0.98
+2.16
+1.06
+0.00
+
+
+J.P. France
+J.P. FranceNANo new player Notes
+HOU - SP,RP
+FA
+1.0
+1,157
+104
+0%
+2.0
+0.50
+0.00
+0.00
+0.00
+0.00
+1.00
+2.50
+0.00
+1.50
+2.25
+1.00
+0.00
+
+
+Cade Smith
+Cade SmithNo new player Notes
+CLE - RP
+FA
+1.0
+74
+105
+99%
+0.2
+0.11
+0.07
+0.00
+0.00
+0.21
+0.25
+1.37
+0.25
+1.18
+2.93
+1.00
+0.00
+
+
+Kenley Jansen
+Kenley JansenPlayer Note
+DET - RP
+FA
+1.0
+186
+110
+87%
+0.2
+0.08
+0.06
+0.00
+0.00
+0.47
+0.31
+0.92
+0.00
+1.10
+2.59
+0.95
+0.00
+
+
+Nick Raquet
+Nick RaquetNo new player Notes
+STL - RP
+FA
+1.0
+613
+112
+0%
+1.0
+0.00
+0.00
+0.00
+0.00
+0.00
+0.50
+0.50
+0.00
+0.00
+0.00
+0.50
+0.00
+
+
+David Bednar
+David BednarPlayer Note
+NYY - RP
+FA
+1.0
+101
+113
+98%
+0.2
+0.09
+0.08
+0.00
+0.00
+0.42
+0.30
+1.34
+0.06
+1.09
+2.30
+1.04
+0.00
+
+
+Matt Svanson
+Matt SvansonNo new player Notes
+STL - RP
+FA
+1.0
+353
+114
+3%
+1.1
+0.10
+0.00
+0.00
+0.00
+0.00
+0.51
+1.74
+0.13
+1.31
+1.94
+0.88
+0.00
+
+
+Jared Koenig
+Jared KoenigNo new player Notes
+MIL - RP
+FA
+1.0
+368
+115
+2%
+0.2
+0.08
+0.01
+0.00
+0.00
+0.03
+0.28
+0.94
+0.38
+1.22
+2.86
+1.17
+0.00
+
+
+AJ Blubaugh
+AJ BlubaughNo new player Notes
+HOU - SP,RP
+FA
+1.0
+399
+116
+1%
+2.2
+0.27
+0.09
+0.00
+0.00
+0.00
+1.00
+3.18
+0.00
+3.45
+1.69
+0.88
+0.00
+
+
+Bennett Sousa
+Bennett SousaNo new player Notes
+HOU - RP
+FA
+1.0
+384
+117
+1%
+1.0
+0.11
+0.02
+0.00
+0.00
+0.09
+0.34
+1.34
+0.16
+1.36
+2.84
+1.03
+0.00
+
+
+Hunter Gaddis
+Hunter GaddisDTDPlayer Note
+CLE - RP
+FA
+1.0
+383
+118
+5%
+0.2
+0.03
+0.03
+0.00
+0.00
+0.04
+0.29
+1.00
+0.48
+1.30
+3.11
+1.19
+0.00
+
+
+JoJo Romero
+JoJo RomeroNo new player Notes
+STL - RP
+FA
+1.0
+373
+119
+5%
+0.2
+0.06
+0.09
+0.00
+0.00
+0.12
+0.45
+0.85
+0.37
+0.95
+2.07
+1.25
+0.00
+
+
+Nick Mears
+Nick MearsNo new player Notes
+KC - RP
+FA
+1.0
+424
+120
+0%
+0.2
+0.08
+0.05
+0.00
+0.00
+0.02
+0.21
+0.73
+0.27
+1.16
+3.49
+0.97
+0.00
+
+
+Tyler Rogers
+Tyler RogersNo new player Notes
+TOR - RP
+FA
+1.0
+349
+121
+11%
+0.2
+0.05
+0.07
+0.00
+0.00
+0.00
+0.09
+0.59
+0.40
+1.07
+1.98
+0.94
+0.00
+
+
+Austin Warren
+Austin WarrenNo new player Notes
+NYM - RP
+FA
+1.0
+523
+122
+0%
+1.2
+0.20
+0.00
+0.00
+0.00
+0.00
+0.80
+1.80
+0.00
+1.60
+0.96
+0.96
+0.00
+
+
+Erik Sabrowski
+Erik SabrowskiNo new player Notes
+CLE - RP
+FA
+1.0
+465
+123
+1%
+0.2
+0.00
+0.03
+0.00
+0.00
+0.00
+0.64
+1.27
+0.36
+0.73
+1.84
+1.19
+0.00
+
+
+David Robertson
+David RobertsonNANo new player Notes
+PHI - RP
+FA
+1.0
+494
+124
+0%
+0.2
+0.10
+0.00
+0.00
+0.00
+0.10
+0.40
+1.10
+0.50
+1.70
+4.08
+1.47
+0.00
+
+
+Matt Strahm
+Matt StrahmPlayer Note
+KC - RP
+FA
+1.0
+351
+125
+7%
+0.2
+0.03
+0.05
+0.00
+0.00
+0.09
+0.30
+1.06
+0.33
+1.17
+2.74
+1.07
+0.00
+
+
+Raisel Iglesias
+Raisel IglesiasNo new player Notes
+ATL - RP
+FA
+1.0
+142
+128
+94%
+0.2
+0.06
+0.09
+0.00
+0.00
+0.41
+0.23
+1.04
+0.03
+1.24
+3.21
+1.00
+0.00
+
+
+Emilio Pagán
+Emilio PagánNo new player Notes
+CIN - RP
+FA
+1.0
+170
+129
+87%
+0.2
+0.03
+0.06
+0.00
+0.00
+0.46
+0.31
+1.16
+0.03
+1.17
+2.88
+0.92
+0.00
+
+
+Cody Laweryson
+Cody LawerysonNANo new player Notes
+MIN - RP
+FA
+1.0
+546
+130
+0%
+1.1
+0.00
+0.20
+0.00
+0.00
+0.00
+0.00
+1.40
+0.00
+0.80
+1.17
+0.52
+0.00
+
+
+Jhoan Duran
+Jhoan DuranPlayer Note
+PHI - RP
+FA
+1.0
+83
+133
+99%
+0.2
+0.10
+0.08
+0.00
+0.00
+0.44
+0.26
+1.11
+0.01
+1.04
+2.06
+1.10
+0.00
+
+
+Bradgley Rodriguez
+Bradgley RodriguezNo new player Notes
+SD - RP
+FA
+1.0
+537
+134
+0%
+1.0
+0.14
+0.00
+0.00
+0.00
+0.00
+0.43
+1.29
+0.00
+0.71
+1.17
+0.91
+0.00
+
+
+Tyler Wells
+Tyler WellsPlayer Note
+BAL - SP
+FA
+1.0
+495
+135
+1%
+5.1
+0.50
+0.25
+0.00
+0.00
+0.00
+0.50
+4.50
+0.00
+8.50
+2.91
+0.88
+0.50
+
+
+Brock Stewart
+Brock StewartDTDPlayer Note
+LAD - RP
+FA
+1.0
+483
+136
+0%
+0.2
+0.05
+0.05
+0.00
+0.00
+0.00
+0.30
+1.02
+0.37
+1.09
+2.63
+1.19
+0.00
+
+
+Manuel Rodríguez
+Manuel RodríguezIL60No new player Notes
+TB - RP
+FA
+1.0
+438
+138
+0%
+0.2
+0.03
+0.06
+0.00
+0.00
+0.00
+0.19
+0.81
+0.35
+1.13
+2.08
+1.05
+0.00
+
+
+Bryan Abreu
+Bryan AbreuNo new player Notes
+HOU - RP
+FA
+1.0
+251
+139
+53%
+1.0
+0.04
+0.06
+0.00
+0.00
+0.10
+0.44
+1.50
+0.36
+1.03
+2.28
+1.15
+0.00
+
+
+Bryan King
+Bryan KingNo new player Notes
+HOU - RP
+FA
+1.0
+371
+140
+3%
+1.0
+0.07
+0.06
+0.00
+0.00
+0.03
+0.16
+1.01
+0.40
+1.43
+2.78
+1.04
+0.00
+
+
+Matt Brash
+Matt BrashDTDNo new player Notes
+SEA - RP
+FA
+1.0
+454
+141
+5%
+0.2
+0.02
+0.06
+0.00
+0.00
+0.08
+0.34
+1.09
+0.40
+1.11
+2.47
+1.25
+0.00
+
+
+Jason Adam
+Jason AdamDTDNo new player Notes
+SD - RP
+FA
+1.0
+342
+142
+5%
+1.0
+0.12
+0.06
+0.00
+0.00
+0.00
+0.38
+1.08
+0.45
+1.03
+1.93
+1.15
+0.00
+
+
+Shelby Miller
+Shelby MillerIL60Player Note
+CHC - RP
+FA
+1.0
+363
+143
+1%
+0.2
+0.08
+0.06
+0.00
+0.00
+0.21
+0.31
+1.13
+0.19
+1.10
+2.74
+1.04
+0.00
+
+
+Félix Bautista
+Félix BautistaIL60Player Note
+BAL - RP
+FA
+1.0
+386
+144
+3%
+0.2
+0.03
+0.03
+0.00
+0.00
+0.54
+0.66
+1.43
+0.00
+0.83
+2.60
+1.13
+0.00
+
+
+Kyle Finnegan
+Kyle FinneganNo new player Notes
+DET - RP
+FA
+1.0
+346
+145
+12%
+1.0
+0.07
+0.07
+0.00
+0.00
+0.43
+0.32
+0.98
+0.05
+1.27
+3.47
+1.11
+0.00
+
+
+Jayden Murray
+Jayden MurrayNo new player Notes
+HOU - RP
+FA
+1.0
+583
+146
+0%
+1.0
+0.00
+0.00
+0.00
+0.00
+0.00
+0.33
+0.89
+0.22
+1.11
+1.54
+1.11
+0.00
+
+
+Pete Fairbanks
+Pete FairbanksPlayer Note
+MIA - RP
+FA
+1.0
+178
+147
+87%
+0.2
+0.07
+0.08
+0.00
+0.00
+0.44
+0.30
+0.97
+0.00
+1.28
+2.83
+1.04
+0.00
+
+
+Edgardo Henriquez
+Edgardo HenriquezNo new player Notes
+LAD - RP
+FA
+1.0
+496
+149
+0%
+0.2
+0.09
+0.05
+0.00
+0.00
+0.05
+0.23
+0.82
+0.23
+1.18
+2.37
+1.16
+0.00
+
+
+Dylan Smith
+Dylan SmithNAPlayer Note
+DET - RP
+FA
+1.0
+518
+151
+0%
+1.2
+0.14
+0.00
+0.00
+0.00
+0.00
+0.71
+0.57
+0.00
+1.00
+1.38
+0.85
+0.00
+
+
+Eduard Bazardo
+Eduard BazardoNo new player Notes
+SEA - RP
+FA
+1.0
+357
+152
+2%
+1.0
+0.07
+0.00
+0.00
+0.00
+0.00
+0.37
+1.12
+0.16
+1.19
+2.52
+1.02
+0.00
+
+
+Louis Varland
+Louis VarlandNo new player Notes
+TOR - RP
+FA
+1.0
+503
+153
+2%
+0.2
+0.05
+0.04
+0.00
+0.00
+0.00
+0.30
+1.01
+0.30
+1.38
+2.97
+1.20
+0.00
+
+
+Andrew Kittredge
+Andrew KittredgeDTDPlayer Note
+BAL - RP
+FA
+1.0
+370
+154
+3%
+0.2
+0.07
+0.06
+0.00
+0.00
+0.09
+0.20
+1.19
+0.28
+1.33
+3.40
+0.98
+0.00
+
+
+Caleb Thielbar
+Caleb ThielbarNo new player Notes
+CHC - RP
+FA
+1.0
+391
+155
+2%
+0.2
+0.04
+0.06
+0.00
+0.00
+0.01
+0.19
+0.84
+0.37
+0.96
+2.64
+0.88
+0.00
+
+
+Chris Devenski
+Chris DevenskiNANo new player Notes
+PIT - RP
+FA
+1.0
+580
+156
+0%
+1.0
+0.00
+0.00
+0.00
+0.00
+0.00
+0.38
+1.08
+0.15
+1.31
+2.16
+0.90
+0.00
+
+
+Phil Maton
+Phil MatonNo new player Notes
+CHC - RP
+FA
+1.0
+365
+158
+4%
+0.2
+0.06
+0.08
+0.00
+0.00
+0.08
+0.37
+1.29
+0.35
+1.00
+2.79
+1.06
+0.00
+
+
+Brendon Little
+Brendon LittleNo new player Notes
+TOR - RP
+FA
+1.0
+456
+159
+2%
+0.2
+0.05
+0.03
+0.00
+0.00
+0.01
+0.57
+1.15
+0.38
+0.85
+3.03
+1.36
+0.00
+
+
+Ron Marinaccio
+Ron MarinaccioNo new player Notes
+SD - RP
+FA
+1.0
+531
+160
+0%
+1.1
+0.00
+0.00
+0.00
+0.00
+0.00
+0.57
+1.71
+0.00
+0.86
+0.84
+0.94
+0.00
+
+
+Luke Weaver
+Luke WeaverNo new player Notes
+NYM - RP
+FA
+1.0
+350
+161
+8%
+1.0
+0.06
+0.06
+0.00
+0.00
+0.13
+0.31
+1.13
+0.33
+1.34
+3.62
+1.02
+0.00
+
+
+Cristopher Sánchez
+Cristopher SánchezPlayer Note
+PHI - SP
+FA
+1.0
+27
+162
+100%
+6.0
+0.41
+0.16
+0.03
+0.00
+0.00
+1.38
+6.63
+0.00
+7.56
+2.50
+1.06
+0.69
+
+
+Daniel Palencia
+Daniel PalenciaNo new player Notes
+CHC - RP
+FA
+1.0
+169
+163
+87%
+0.2
+0.02
+0.11
+0.00
+0.00
+0.41
+0.30
+1.13
+0.11
+1.31
+2.91
+1.14
+0.00
+
+
+Kade Strowd
+Kade StrowdNo new player Notes
+AZ - RP
+FA
+1.0
+507
+164
+0%
+1.0
+0.00
+0.04
+0.00
+0.00
+0.00
+0.52
+0.96
+0.20
+0.80
+1.71
+1.10
+0.00
+
+
+Bubba Chandler
+Bubba ChandlerPlayer Note
+PIT - SP
+FA
+1.0
+137
+168
+87%
+4.1
+0.57
+0.14
+0.00
+0.00
+0.14
+0.57
+4.43
+0.00
+5.57
+4.02
+0.93
+0.14
+
+
+Troy Melton
+Troy MeltonDTDPlayer Note
+DET - SP,RP
+FA
+1.0
+422
+169
+2%
+2.2
+0.19
+0.13
+0.00
+0.00
+0.00
+0.94
+2.25
+0.25
+3.50
+2.76
+1.01
+0.06
+
+
+Lucas Erceg
+Lucas ErcegPlayer Note
+KC - RP
+FA
+1.0
+360
+170
+3%
+1.0
+0.13
+0.07
+0.00
+0.00
+0.03
+0.30
+0.79
+0.36
+1.26
+2.64
+1.17
+0.00
+
+
+Ryan Thompson
+Ryan ThompsonPlayer Note
+AZ - RP
+FA
+1.0
+509
+171
+0%
+0.2
+0.06
+0.04
+0.00
+0.00
+0.02
+0.27
+0.75
+0.35
+1.27
+3.92
+1.33
+0.00
+
+
+Nick Lodolo
+Nick LodoloPlayer Note
+CIN - SP
+FA
+1.0
+115
+172
+91%
+5.1
+0.31
+0.28
+0.07
+0.03
+0.00
+1.07
+5.38
+0.00
+7.90
+3.33
+1.08
+0.48
+
+
+Tony Santillan
+Tony SantillanNo new player Notes
+CIN - RP
+FA
+1.0
+377
+173
+4%
+0.2
+0.01
+0.06
+0.00
+0.00
+0.09
+0.36
+0.94
+0.41
+1.11
+2.44
+1.11
+0.00
+
+
+Cole Winn
+Cole WinnNo new player Notes
+TEX - RP
+FA
+1.0
+444
+175
+0%
+1.0
+0.00
+0.03
+0.00
+0.00
+0.00
+0.52
+1.06
+0.12
+1.24
+1.51
+0.96
+0.00
+
+
+Garrett Cleavinger
+Garrett CleavingerNo new player Notes
+TB - RP
+FA
+1.0
+356
+176
+7%
+0.2
+0.03
+0.09
+0.00
+0.00
+0.03
+0.27
+1.22
+0.31
+1.10
+2.35
+0.95
+0.00
+
+
+Justin Wilson
+Justin WilsonNANo new player Notes
+BOS - RP
+FA
+1.0
+571
+177
+0%
+0.2
+0.07
+0.02
+0.00
+0.00
+0.00
+0.33
+0.93
+0.31
+1.10
+3.35
+1.41
+0.00
+
+
+Riley O'Brien
+Riley O'BrienDTDNew Player Note
+STL - RP
+FA
+1.0
+316
+179
+12%
+1.0
+0.07
+0.02
+0.00
+0.00
+0.14
+0.52
+1.07
+0.14
+1.10
+2.06
+1.15
+0.00
+
+
+Jose A. Ferrer
+Jose A. FerrerPlayer Note
+SEA - RP
+FA
+1.0
+485
+180
+3%
+1.0
+0.06
+0.06
+0.00
+0.00
+0.15
+0.22
+0.99
+0.29
+1.56
+4.48
+1.27
+0.00
+
+
+Erik Miller
+Erik MillerDTDNew Player Note
+SF - RP
+FA
+1.0
+463
+181
+0%
+0.2
+0.11
+0.03
+0.00
+0.00
+0.00
+0.56
+0.61
+0.28
+0.81
+1.50
+1.47
+0.00
+
+
+Drew Pomeranz
+Drew PomeranzNo new player Notes
+LAA - SP,RP
+FA
+1.0
+403
+183
+1%
+0.2
+0.04
+0.04
+0.00
+0.00
+0.02
+0.26
+1.00
+0.25
+0.96
+2.17
+1.07
+0.00
+
+
+Isaac Mattson
+Isaac MattsonNo new player Notes
+PIT - RP
+FA
+1.0
+426
+184
+0%
+1.0
+0.07
+0.07
+0.00
+0.00
+0.00
+0.43
+1.02
+0.27
+1.23
+2.45
+1.13
+0.00
+
+
+Nick Sandlin
+Nick SandlinNANo new player Notes
+LAA - RP
+FA
+1.0
+499
+186
+0%
+0.2
+0.00
+0.11
+0.00
+0.00
+0.05
+0.42
+0.84
+0.26
+1.00
+2.20
+1.16
+0.00
+
+
+Tanner Banks
+Tanner BanksNo new player Notes
+PHI - RP
+FA
+1.0
+380
+187
+1%
+0.2
+0.09
+0.03
+0.00
+0.00
+0.01
+0.17
+0.88
+0.14
+1.35
+3.07
+1.01
+0.00
+
+
+Emmanuel Clase
+Emmanuel ClaseNANo new player Notes
+CLE - RP
+FA
+1.0
+341
+188
+2%
+0.2
+0.10
+0.06
+0.00
+0.00
+0.50
+0.25
+0.98
+0.02
+1.29
+3.23
+1.23
+0.00
+
+
+Devin Williams
+Devin WilliamsPlayer Note
+NYM - RP
+FA
+1.0
+107
+189
+97%
+0.2
+0.06
+0.09
+0.00
+0.00
+0.27
+0.37
+1.34
+0.22
+1.09
+4.79
+1.13
+0.00
+
+
+Edwin Uceta
+Edwin UcetaDTDPlayer Note
+TB - RP
+FA
+1.0
+322
+191
+14%
+1.0
+0.14
+0.04
+0.00
+0.00
+0.01
+0.39
+1.47
+0.30
+1.57
+3.79
+1.17
+0.00
+
+
+Julian Fernández
+Julian FernándezNo new player Notes
+WSH - RP
+FA
+1.0
+610
+192
+0%
+1.0
+0.25
+0.00
+0.00
+0.00
+0.00
+0.50
+1.25
+0.25
+2.25
+5.40
+1.00
+0.00
+
+
+Dylan Lee
+Dylan LeeNo new player Notes
+ATL - RP
+FA
+1.0
+378
+193
+2%
+0.2
+0.03
+0.05
+0.00
+0.00
+0.03
+0.19
+1.03
+0.26
+1.34
+3.29
+0.98
+0.00
+
+
+Danny Young
+Danny YoungDTDNo new player Notes
+ATL - RP
+FA
+1.0
+635
+194
+0%
+0.2
+0.00
+0.00
+0.00
+0.00
+0.00
+0.30
+1.30
+0.40
+0.90
+4.32
+1.44
+0.00
+
+
+Danny Coulombe
+Danny CoulombeNANo new player Notes
+TEX - RP
+FA
+1.0
+407
+195
+1%
+0.2
+0.04
+0.02
+0.00
+0.00
+0.04
+0.33
+0.78
+0.16
+0.82
+2.30
+1.16
+0.00
+
+
+Steven Matz
+Steven MatzPlayer Note
+TB - RP
+FA
+1.0
+410
+196
+1%
+1.1
+0.09
+0.04
+0.00
+0.00
+0.04
+0.21
+1.11
+0.25
+2.19
+3.05
+1.10
+0.00
+
+
+Braydon Fisher
+Braydon FisherNo new player Notes
+TOR - RP
+FA
+1.0
+376
+197
+1%
+0.2
+0.13
+0.00
+0.00
+0.00
+0.00
+0.37
+1.19
+0.10
+0.96
+2.70
+1.02
+0.00
+
+
+Hunter Brown
+Hunter BrownPlayer Note
+HOU - SP
+FA
+1.0
+38
+198
+99%
+5.2
+0.39
+0.29
+0.03
+0.00
+0.00
+1.84
+6.65
+0.00
+6.77
+2.43
+1.03
+0.68
+
+
+Jalen Beeks
+Jalen BeeksNANo new player Notes
+AZ - RP
+FA
+1.0
+429
+199
+0%
+0.2
+0.08
+0.05
+0.00
+0.00
+0.02
+0.33
+0.77
+0.23
+1.16
+3.77
+1.08
+0.00
+
+
+Justin Martinez
+Justin MartinezIL60No new player Notes
+AZ - RP
+FA
+1.0
+457
+200
+2%
+0.2
+0.06
+0.12
+0.00
+0.00
+0.29
+0.71
+1.29
+0.24
+0.71
+4.11
+1.24
+0.00
+
+
+Connor Phillips
+Connor PhillipsNo new player Notes
+CIN - RP
+FA
+1.0
+411
+202
+1%
+1.0
+0.24
+0.00
+0.00
+0.00
+0.00
+0.57
+1.52
+0.05
+1.10
+2.88
+0.92
+0.00
+
+
+Brock Burke
+Brock BurkeNo new player Notes
+CIN - RP
+FA
+1.0
+451
+203
+0%
+0.2
+0.10
+0.01
+0.00
+0.00
+0.00
+0.26
+0.75
+0.22
+1.38
+3.36
+1.23
+0.00
+
+
+Taylor Clarke
+Taylor ClarkeNo new player Notes
+AZ - RP
+FA
+1.0
+416
+205
+0%
+1.0
+0.02
+0.02
+0.00
+0.00
+0.02
+0.18
+0.86
+0.10
+1.37
+3.25
+0.85
+0.00
+
+
+Jacob deGrom
+Jacob deGromNew Player Note
+TEX - SP
+FA
+1.0
+47
+206
+99%
+5.2
+0.40
+0.27
+0.00
+0.00
+0.00
+1.23
+6.17
+0.00
+7.37
+2.97
+0.92
+0.47
+
+
+Will Vest
+Will VestPlayer Note
+DET - RP
+FA
+1.0
+345
+207
+12%
+1.0
+0.09
+0.08
+0.00
+0.00
+0.36
+0.34
+1.17
+0.05
+1.33
+3.01
+1.21
+0.00
+
+
+José Alvarado
+José AlvaradoNo new player Notes
+PHI - RP
+FA
+1.0
+423
+208
+2%
+0.2
+0.14
+0.07
+0.00
+0.00
+0.25
+0.25
+1.14
+0.18
+1.46
+3.81
+1.31
+0.00
+
+
+Nick Pivetta
+Nick PivettaPlayer Note
+SD - SP
+FA
+1.0
+76
+209
+98%
+5.2
+0.42
+0.16
+0.00
+0.00
+0.00
+1.61
+6.13
+0.00
+7.03
+2.87
+0.99
+0.61
+
+
+Aaron Ashby
+Aaron AshbyPlayer Note
+MIL - RP
+FA
+1.0
+367
+210
+2%
+1.1
+0.12
+0.05
+0.00
+0.00
+0.07
+0.56
+1.77
+0.14
+1.72
+2.16
+1.17
+0.00
+
+
+Bryan Baker
+Bryan BakerNo new player Notes
+TB - RP
+FA
+1.0
+425
+213
+1%
+0.2
+0.05
+0.05
+0.00
+0.00
+0.04
+0.23
+1.14
+0.26
+1.52
+4.06
+1.11
+0.00
+
+
+Kyle Leahy
+Kyle LeahyPlayer Note
+STL - RP
+FA
+1.0
+421
+214
+1%
+1.1
+0.06
+0.03
+0.00
+0.00
+0.02
+0.45
+1.29
+0.29
+1.79
+3.07
+1.23
+0.00
+
+
+Camilo Doval
+Camilo DovalPlayer Note
+NYY - RP
+FA
+1.0
+397
+217
+5%
+0.2
+0.06
+0.04
+0.00
+0.00
+0.23
+0.51
+1.04
+0.14
+1.04
+3.58
+1.32
+0.00
+
+
+Greg Weissert
+Greg WeissertNo new player Notes
+BOS - RP
+FA
+1.0
+385
+218
+1%
+0.2
+0.08
+0.08
+0.00
+0.00
+0.06
+0.29
+0.79
+0.24
+1.24
+2.82
+1.16
+0.00
+
+
+Yoshinobu Yamamoto
+Yoshinobu YamamotoNew Player Note
+LAD - SP
+FA
+1.0
+29
+219
+100%
+5.2
+0.40
+0.27
+0.00
+0.00
+0.00
+1.97
+6.70
+0.00
+5.83
+2.49
+0.99
+0.60
+
+
+Anthony Banda
+Anthony BandaNo new player Notes
+MIN - RP
+FA
+1.0
+415
+220
+1%
+0.2
+0.07
+0.01
+0.00
+0.00
+0.00
+0.48
+0.86
+0.17
+1.14
+3.18
+1.22
+0.00
+
+
+Justin Sterner
+Justin SternerNo new player Notes
+ATH - RP
+FA
+1.0
+400
+221
+8%
+1.0
+0.07
+0.05
+0.00
+0.00
+0.00
+0.36
+1.19
+0.27
+1.39
+3.18
+1.05
+0.00
+
+
+Jeremiah Estrada
+Jeremiah EstradaNo new player Notes
+SD - RP
+FA
+1.0
+372
+222
+8%
+0.2
+0.05
+0.06
+0.00
+0.00
+0.04
+0.35
+1.40
+0.39
+1.36
+3.45
+1.16
+0.00
+
+
+Reed Garrett
+Reed GarrettIL60No new player Notes
+NYM - RP
+FA
+1.0
+472
+223
+0%
+0.2
+0.05
+0.10
+0.00
+0.00
+0.05
+0.45
+1.10
+0.34
+1.28
+3.90
+1.32
+0.00
+
+
+Rob Zastryzny
+Rob ZastryznyNo new player Notes
+MIL - RP
+FA
+1.0
+490
+224
+0%
+0.2
+0.08
+0.04
+0.00
+0.00
+0.00
+0.38
+0.77
+0.08
+1.04
+2.45
+1.18
+0.00
+
+
+Kyle Bradish
+Kyle BradishPlayer Note
+BAL - SP
+FA
+1.0
+70
+225
+97%
+5.1
+0.17
+0.17
+0.00
+0.00
+0.00
+1.67
+7.83
+0.00
+5.67
+2.53
+1.03
+0.50
+
+
+Joel Peguero
+Joel PegueroDTDPlayer Note
+SF - RP
+FA
+1.0
+469
+228
+0%
+1.0
+0.18
+0.06
+0.00
+0.00
+0.00
+0.47
+1.00
+0.24
+1.41
+2.42
+1.03
+0.00
+
+
+Orion Kerkering
+Orion KerkeringDTDPlayer Note
+PHI - RP
+FA
+1.0
+387
+229
+3%
+0.2
+0.12
+0.06
+0.00
+0.00
+0.06
+0.39
+0.94
+0.28
+1.22
+3.30
+1.37
+0.00
+
+
+José Suarez
+José SuarezNo new player Notes
+ATL - RP
+FA
+1.0
+595
+230
+0%
+2.2
+0.29
+0.00
+0.00
+0.00
+0.14
+1.43
+2.29
+0.14
+2.86
+1.86
+1.29
+0.14
+
+
+Jimmy Herget
+Jimmy HergetNo new player Notes
+COL - RP
+FA
+1.0
+418
+231
+0%
+1.1
+0.02
+0.03
+0.00
+0.00
+0.00
+0.44
+1.37
+0.15
+1.81
+2.48
+1.18
+0.00
+
+
+Robert Garcia
+Robert GarciaNo new player Notes
+TEX - RP
+FA
+1.0
+320
+232
+14%
+0.2
+0.06
+0.11
+0.00
+0.00
+0.13
+0.31
+0.96
+0.21
+1.27
+2.95
+1.25
+0.00
+
+
+Ben Joyce
+Ben JoyceDTDPlayer Note
+LAA - RP
+FA
+1.0
+577
+233
+2%
+0.2
+0.20
+0.00
+0.00
+0.00
+0.00
+0.20
+0.20
+0.40
+2.20
+6.23
+1.38
+0.00
+
+
+Chris Sale
+Chris SaleNew Player Note
+ATL - SP
+FA
+1.0
+37
+234
+99%
+5.2
+0.33
+0.24
+0.00
+0.00
+0.00
+1.52
+7.86
+0.00
+7.52
+2.58
+1.07
+0.52
+
+
+Steven Okert
+Steven OkertNo new player Notes
+HOU - RP
+FA
+1.0
+374
+235
+1%
+1.0
+0.04
+0.03
+0.00
+0.00
+0.01
+0.28
+1.24
+0.15
+1.04
+3.01
+0.89
+0.00
+
+
+Jeff Hoffman
+Jeff HoffmanPlayer Note
+TOR - RP
+FA
+1.0
+168
+236
+90%
+0.2
+0.13
+0.10
+0.00
+0.00
+0.46
+0.38
+1.18
+0.00
+1.59
+4.37
+1.19
+0.00
+
+
+Tim Hill
+Tim HillNo new player Notes
+NYY - RP
+FA
+1.0
+449
+237
+0%
+0.2
+0.06
+0.06
+0.00
+0.00
+0.00
+0.23
+0.53
+0.21
+1.30
+3.09
+1.10
+0.00
+
+
+Jack Dreyer
+Jack DreyerNo new player Notes
+LAD - SP,RP
+FA
+1.0
+388
+238
+2%
+1.0
+0.04
+0.03
+0.00
+0.00
+0.06
+0.36
+1.10
+0.15
+1.28
+2.95
+1.05
+0.00
+
+
+Robert Stephenson
+Robert StephensonDTDNew Player Note
+LAA - RP
+FA
+1.0
+526
+239
+1%
+0.2
+0.17
+0.00
+0.00
+0.00
+0.00
+0.25
+0.83
+0.00
+1.17
+2.70
+1.00
+0.00
+
+
+Tyler Phillips
+Tyler PhillipsNo new player Notes
+MIA - RP
+FA
+1.0
+452
+242
+0%
+1.1
+0.04
+0.02
+0.00
+0.00
+0.07
+0.44
+0.96
+0.15
+1.87
+2.78
+1.15
+0.00
+
+
+Max Fried
+Max FriedPlayer Note
+NYY - SP
+FA
+1.0
+48
+243
+99%
+6.0
+0.59
+0.16
+0.00
+0.00
+0.00
+1.59
+5.91
+0.00
+7.69
+2.86
+1.10
+0.63
+
+
+Taylor Rogers
+Taylor RogersNo new player Notes
+MIN - RP
+FA
+1.0
+515
+246
+2%
+0.2
+0.05
+0.04
+0.00
+0.00
+0.00
+0.40
+0.93
+0.18
+1.46
+3.38
+1.38
+0.00
+
+
+Tyler Kinley
+Tyler KinleyNo new player Notes
+ATL - RP
+FA
+1.0
+440
+247
+1%
+0.2
+0.08
+0.04
+0.00
+0.00
+0.04
+0.45
+1.00
+0.19
+1.12
+3.96
+1.18
+0.00
+
+
+Pierce Johnson
+Pierce JohnsonNo new player Notes
+CIN - RP
+FA
+1.0
+419
+248
+1%
+0.2
+0.05
+0.05
+0.00
+0.00
+0.02
+0.29
+0.91
+0.25
+1.32
+3.05
+1.20
+0.00
+
+
+John Schreiber
+John SchreiberNo new player Notes
+KC - RP
+FA
+1.0
+484
+249
+1%
+0.2
+0.04
+0.04
+0.00
+0.00
+0.01
+0.26
+0.84
+0.31
+1.36
+3.80
+1.19
+0.00
+
+
+Seranthony Domínguez
+Seranthony DomínguezNo new player Notes
+CWS - RP
+FA
+1.0
+326
+250
+50%
+0.2
+0.06
+0.06
+0.00
+0.00
+0.03
+0.54
+1.18
+0.30
+1.00
+3.16
+1.28
+0.00
+
+
+Michael Kopech
+Michael KopechNANo new player Notes
+LAD - RP
+FA
+1.0
+527
+251
+1%
+0.2
+0.00
+0.00
+0.00
+0.00
+0.00
+0.93
+0.86
+0.43
+0.43
+2.45
+1.73
+0.00
+
+
+Ryan Walker
+Ryan WalkerNo new player Notes
+SF - RP
+FA
+1.0
+207
+252
+76%
+0.2
+0.07
+0.10
+0.00
+0.00
+0.25
+0.26
+0.88
+0.13
+1.29
+4.11
+1.27
+0.00
+
+
+Steven Cruz
+Steven CruzNo new player Notes
+KC - RP
+FA
+1.0
+505
+253
+0%
+0.2
+0.06
+0.02
+0.00
+0.00
+0.00
+0.38
+0.81
+0.19
+1.23
+3.74
+1.18
+0.00
+
+
+Yimi García
+Yimi GarcíaDTDNo new player Notes
+TOR - RP
+FA
+1.0
+477
+255
+1%
+0.2
+0.05
+0.09
+0.00
+0.00
+0.14
+0.55
+1.14
+0.27
+0.91
+3.86
+1.19
+0.00
+
+
+Hunter Bigge
+Hunter BiggeNo new player Notes
+TB - RP
+FA
+1.0
+562
+256
+0%
+1.0
+0.00
+0.00
+0.00
+0.00
+0.00
+0.38
+0.92
+0.08
+1.85
+2.40
+1.07
+0.00
+
+
+Grant Taylor
+Grant TaylorNo new player Notes
+CWS - RP
+FA
+1.0
+319
+257
+7%
+1.0
+0.06
+0.11
+0.00
+0.00
+0.17
+0.42
+1.50
+0.25
+1.17
+4.91
+1.42
+0.00
+
+
+Dylan Dodd
+Dylan DoddNo new player Notes
+ATL - RP
+FA
+1.0
+512
+258
+0%
+1.0
+0.04
+0.00
+0.00
+0.00
+0.00
+0.18
+1.07
+0.07
+1.79
+3.60
+0.94
+0.00
+
+
+Justin Slaten
+Justin SlatenNo new player Notes
+BOS - RP
+FA
+1.0
+458
+259
+1%
+0.2
+0.06
+0.11
+0.00
+0.00
+0.08
+0.28
+0.69
+0.19
+1.08
+4.24
+1.09
+0.00
+
+
+Matt Festa
+Matt FestaNo new player Notes
+CLE - RP
+FA
+1.0
+434
+260
+0%
+0.2
+0.08
+0.06
+0.00
+0.00
+0.00
+0.24
+0.89
+0.19
+1.02
+4.12
+1.08
+0.00
+
+
+Emmet Sheehan
+Emmet SheehanPlayer Note
+LAD - SP
+FA
+1.0
+130
+261
+88%
+4.2
+0.40
+0.20
+0.00
+0.00
+0.00
+1.47
+5.93
+0.00
+5.60
+2.82
+0.97
+0.20
+
+
+Calvin Faucher
+Calvin FaucherNo new player Notes
+MIA - RP
+FA
+1.0
+395
+263
+2%
+0.2
+0.06
+0.06
+0.00
+0.00
+0.23
+0.37
+0.91
+0.11
+1.28
+3.28
+1.28
+0.00
+
+
+Keegan Akin
+Keegan AkinNo new player Notes
+BAL - SP,RP
+FA
+1.0
+405
+264
+1%
+0.2
+0.08
+0.06
+0.00
+0.00
+0.13
+0.52
+0.92
+0.25
+1.45
+3.41
+1.37
+0.00
+
+
+Jakob Junis
+Jakob JunisNo new player Notes
+TEX - RP
+FA
+1.0
+404
+265
+0%
+1.0
+0.07
+0.02
+0.00
+0.00
+0.00
+0.32
+0.96
+0.11
+1.65
+2.97
+1.23
+0.00
+
+
+Fernando Cruz
+Fernando CruzNo new player Notes
+NYY - RP
+FA
+1.0
+446
+266
+3%
+0.2
+0.06
+0.08
+0.00
+0.00
+0.04
+0.49
+1.47
+0.33
+1.12
+3.56
+1.19
+0.00
+
+
+Griffin Jax
+Griffin JaxNo new player Notes
+TB - RP
+FA
+1.0
+232
+267
+47%
+0.2
+0.01
+0.10
+0.00
+0.00
+0.00
+0.29
+1.36
+0.38
+1.36
+4.23
+1.29
+0.00
+
+
+Tyler Holton
+Tyler HoltonNo new player Notes
+DET - SP,RP
+FA
+1.0
+352
+268
+5%
+1.0
+0.09
+0.07
+0.00
+0.00
+0.00
+0.24
+0.91
+0.24
+1.67
+3.66
+1.04
+0.00
+
+
+Jordan Leasure
+Jordan LeasureNo new player Notes
+CWS - RP
+FA
+1.0
+448
+269
+2%
+0.2
+0.07
+0.09
+0.00
+0.00
+0.10
+0.44
+1.19
+0.21
+1.49
+3.92
+1.23
+0.00
+
+
+Lake Bachar
+Lake BacharNo new player Notes
+MIA - RP
+FA
+1.0
+408
+271
+0%
+1.1
+0.15
+0.04
+0.00
+0.00
+0.06
+0.57
+1.42
+0.11
+1.89
+3.93
+1.20
+0.00
+
+
+Luinder Avila
+Luinder AvilaNo new player Notes
+KC - RP
+FA
+1.0
+498
+272
+0%
+1.0
+0.08
+0.08
+0.00
+0.00
+0.00
+0.46
+1.23
+0.00
+0.77
+1.29
+0.93
+0.00
+
+
+Chris Martin
+Chris MartinNo new player Notes
+TEX - RP
+FA
+1.0
+450
+273
+1%
+0.2
+0.04
+0.12
+0.00
+0.00
+0.04
+0.16
+0.88
+0.27
+1.31
+2.98
+1.20
+0.00
+
+
+Rico Garcia
+Rico GarciaNo new player Notes
+BAL - RP
+FA
+1.0
+567
+274
+0%
+1.0
+0.00
+0.07
+0.00
+0.00
+0.00
+0.34
+1.31
+0.34
+1.76
+3.15
+1.19
+0.00
+
+
+Brent Headrick
+Brent HeadrickNo new player Notes
+NYY - RP
+FA
+1.0
+542
+276
+0%
+1.1
+0.00
+0.00
+0.00
+0.00
+0.00
+0.41
+1.76
+0.06
+2.00
+3.13
+1.04
+0.00
+
+
+Paul Sewald
+Paul SewaldPlayer Note
+AZ - RP
+FA
+1.0
+541
+278
+1%
+0.2
+0.05
+0.05
+0.00
+0.00
+0.09
+0.27
+0.91
+0.18
+1.50
+4.58
+1.22
+0.00
+
+
+Joey Lucchesi
+Joey LucchesiNANo new player Notes
+SF - RP
+FA
+1.0
+1,178
+279
+0%
+1.0
+0.00
+0.03
+0.00
+0.00
+0.00
+0.32
+0.82
+0.16
+1.50
+3.76
+1.23
+0.00
+
+
+Tanner Scott
+Tanner ScottNo new player Notes
+LAD - RP
+FA
+1.0
+379
+280
+7%
+0.2
+0.02
+0.07
+0.00
+0.00
+0.38
+0.30
+0.98
+0.13
+1.61
+4.74
+1.26
+0.00
+
+
+Angel Zerpa
+Angel ZerpaNo new player Notes
+MIL - RP
+FA
+1.0
+1,143
+281
+0%
+0.2
+0.07
+0.03
+0.00
+0.00
+0.00
+0.32
+0.84
+0.20
+1.52
+4.18
+1.38
+0.00
+
+
+Yariel Rodriguez
+Yariel RodriguezNANo new player Notes
+TOR - RP
+FA
+1.0
+447
+283
+0%
+1.0
+0.05
+0.03
+0.00
+0.00
+0.03
+0.52
+1.00
+0.21
+1.26
+3.08
+1.15
+0.00
+
+
+Kirby Yates
+Kirby YatesPlayer Note
+LAA - RP
+FA
+1.0
+398
+284
+7%
+0.2
+0.08
+0.06
+0.00
+0.00
+0.06
+0.34
+1.04
+0.30
+1.64
+5.23
+1.33
+0.00
+
+
+Huascar Brazobán
+Huascar BrazobánNo new player Notes
+NYM - SP,RP
+FA
+1.0
+460
+285
+0%
+1.0
+0.10
+0.04
+0.00
+0.00
+0.04
+0.52
+1.10
+0.23
+1.50
+3.57
+1.24
+0.00
+
+
+Jacob Webb
+Jacob WebbNo new player Notes
+CHC - RP
+FA
+1.0
+382
+287
+1%
+1.0
+0.09
+0.07
+0.00
+0.00
+0.02
+0.35
+1.05
+0.13
+1.58
+3.00
+1.03
+0.00
+
+
+Konnor Pilkington
+Konnor PilkingtonNANo new player Notes
+DET - RP
+FA
+1.0
+645
+288
+0%
+0.2
+0.06
+0.00
+0.00
+0.00
+0.00
+0.53
+1.06
+0.16
+1.50
+4.45
+1.38
+0.00
+
+
+Chase Lee
+Chase LeeNo new player Notes
+TOR - RP
+FA
+1.0
+488
+289
+0%
+1.0
+0.13
+0.03
+0.00
+0.00
+0.00
+0.28
+1.13
+0.13
+2.00
+4.10
+1.10
+0.00
+
+
+Max Kranick
+Max KranickNANo new player Notes
+NYM - RP
+FA
+1.0
+497
+290
+0%
+1.1
+0.13
+0.08
+0.00
+0.00
+0.00
+0.21
+1.04
+0.21
+2.25
+3.65
+1.05
+0.00
+
+
+Shohei Ohtani (Pitcher)
+Shohei Ohtani (Pitcher)No new player Notes
+LAD - SP
+FA
+1.0
+117
+291
+96%
+3.1
+0.07
+0.07
+0.00
+0.00
+0.00
+0.64
+4.43
+0.00
+3.93
+2.87
+1.04
+0.07
+
+
+Reid Detmers
+Reid DetmersPlayer Note
+LAA - RP
+FA
+1.0
+304
+292
+17%
+1.0
+0.08
+0.05
+0.00
+0.00
+0.05
+0.41
+1.31
+0.21
+1.39
+3.96
+1.30
+0.00
+
+
+Graham Ashcraft
+Graham AshcraftPlayer Note
+CIN - RP
+FA
+1.0
+588
+293
+1%
+1.0
+0.13
+0.08
+0.00
+0.00
+0.00
+0.40
+1.03
+0.37
+1.48
+3.99
+1.42
+0.00
+
+
+Dedniel Núñez
+Dedniel NúñezIL60No new player Notes
+NYM - RP
+FA
+1.0
+569
+294
+0%
+0.2
+0.00
+0.00
+0.00
+0.00
+0.00
+0.60
+1.10
+0.30
+1.20
+4.66
+1.24
+0.00
+
+
+Caleb Ferguson
+Caleb FergusonNo new player Notes
+CIN - RP
+FA
+1.0
+479
+295
+0%
+0.2
+0.07
+0.06
+0.00
+0.00
+0.00
+0.31
+0.73
+0.20
+1.01
+3.58
+1.16
+0.00
+
+
+Mason Fluharty
+Mason FluhartyNo new player Notes
+TOR - RP
+FA
+1.0
+475
+297
+0%
+0.2
+0.09
+0.04
+0.00
+0.00
+0.02
+0.44
+1.02
+0.11
+1.13
+4.44
+1.14
+0.00
+
+
+Brandon Walter
+Brandon WalterDTDNo new player Notes
+HOU - SP
+FA
+1.0
+445
+298
+0%
+5.2
+0.11
+0.33
+0.00
+0.00
+0.00
+0.44
+5.78
+0.00
+9.56
+3.35
+0.93
+0.67
+
+
+Steven Wilson
+Steven WilsonDTDPlayer Note
+TB - RP
+FA
+1.0
+607
+299
+0%
+0.2
+0.03
+0.03
+0.00
+0.00
+0.03
+0.37
+0.86
+0.17
+1.32
+3.42
+1.30
+0.00
+
+
+Victor Vodnik
+Victor VodnikNo new player Notes
+COL - RP
+FA
+1.0
+436
+301
+5%
+0.2
+0.08
+0.06
+0.00
+0.00
+0.19
+0.50
+0.94
+0.13
+1.35
+3.02
+1.40
+0.00
+
+
+PJ Poulin
+PJ PoulinNo new player Notes
+WSH - RP
+FA
+1.0
+601
+302
+0%
+0.2
+0.07
+0.04
+0.00
+0.00
+0.04
+0.46
+0.96
+0.18
+1.11
+3.65
+1.46
+0.00
+
+
+Wandy Peralta
+Wandy PeraltaNo new player Notes
+SD - RP
+FA
+1.0
+461
+303
+0%
+1.0
+0.08
+0.01
+0.00
+0.00
+0.00
+0.42
+0.89
+0.06
+1.38
+3.14
+1.34
+0.00
+
+
+Scott Barlow
+Scott BarlowPlayer Note
+ATH - RP
+FA
+1.0
+552
+304
+0%
+0.2
+0.08
+0.04
+0.00
+0.00
+0.01
+0.60
+1.00
+0.21
+1.12
+4.21
+1.39
+0.00
+
+
+Freddy Peralta
+Freddy PeraltaPlayer Note
+NYM - SP
+FA
+1.0
+64
+305
+99%
+5.1
+0.52
+0.18
+0.00
+0.00
+0.00
+2.00
+6.18
+0.00
+6.36
+2.70
+1.08
+0.39
+
+
+Wikelman González
+Wikelman GonzálezDTDPlayer Note
+CWS - SP,RP
+FA
+1.0
+547
+306
+0%
+1.0
+0.06
+0.00
+0.00
+0.00
+0.00
+0.75
+1.56
+0.06
+1.25
+2.66
+1.23
+0.00
+
+
+Kody Funderburk
+Kody FunderburkNo new player Notes
+MIN - RP
+FA
+1.0
+1,152
+307
+0%
+1.0
+0.10
+0.03
+0.00
+0.00
+0.03
+0.46
+1.03
+0.18
+1.51
+3.51
+1.51
+0.00
+
+
+Erasmo Ramírez
+Erasmo RamírezNANo new player Notes
+MIN - RP
+FA
+1.0
+565
+308
+0%
+1.0
+0.00
+0.11
+0.00
+0.00
+0.11
+0.22
+0.56
+0.00
+1.89
+2.45
+1.09
+0.00
+
+
+Luis Mey
+Luis MeyNo new player Notes
+CIN - RP
+FA
+1.0
+1,130
+309
+0%
+0.2
+0.09
+0.00
+0.00
+0.00
+0.00
+0.74
+0.91
+0.17
+1.22
+3.43
+1.62
+0.00
+
+
+Luis García
+Luis GarcíaNo new player Notes
+NYM - RP
+FA
+1.0
+654
+310
+0%
+0.2
+0.03
+0.03
+0.00
+0.00
+0.03
+0.45
+0.83
+0.21
+1.38
+3.42
+1.46
+0.00
+
+
+Tyler Ferguson
+Tyler FergusonNo new player Notes
+ATH - RP
+FA
+1.0
+566
+312
+0%
+1.0
+0.07
+0.04
+0.00
+0.00
+0.04
+0.61
+0.96
+0.21
+1.18
+4.66
+1.33
+0.00
+
+
+Kyle Backhus
+Kyle BackhusNo new player Notes
+PHI - RP
+FA
+1.0
+1,227
+313
+0%
+0.2
+0.00
+0.09
+0.00
+0.00
+0.06
+0.25
+0.69
+0.31
+1.44
+4.62
+1.42
+0.00
+
+
+Cole Sands
+Cole SandsPlayer Note
+MIN - SP,RP
+FA
+1.0
+432
+314
+1%
+1.0
+0.06
+0.09
+0.00
+0.00
+0.04
+0.28
+0.93
+0.19
+1.52
+4.50
+1.17
+0.00
+
+
+Andrew Chafin
+Andrew ChafinNANo new player Notes
+MIN - RP
+FA
+1.0
+554
+315
+0%
+0.2
+0.02
+0.02
+0.00
+0.00
+0.00
+0.45
+0.86
+0.10
+0.86
+2.41
+1.43
+0.00
+
+
+Hunter Strickland
+Hunter StricklandNANo new player Notes
+LAA - RP
+FA
+1.0
+529
+316
+0%
+1.0
+0.05
+0.11
+0.00
+0.00
+0.05
+0.53
+0.74
+0.11
+1.53
+3.27
+1.23
+0.00
+
+
+Chase Silseth
+Chase SilsethNo new player Notes
+LAA - RP
+FA
+1.0
+636
+317
+0%
+1.0
+0.00
+0.00
+0.00
+0.00
+0.00
+0.60
+1.30
+0.10
+1.50
+1.64
+1.45
+0.00
+
+
+Gregory Soto
+Gregory SotoNo new player Notes
+PIT - RP
+FA
+1.0
+1,263
+318
+1%
+0.2
+0.01
+0.07
+0.00
+0.00
+0.01
+0.34
+1.00
+0.33
+1.19
+4.18
+1.43
+0.00
+
+
+Jorge López
+Jorge LópezNANo new player Notes
+WSH - RP
+FA
+1.0
+536
+319
+0%
+0.2
+0.23
+0.00
+0.00
+0.00
+0.04
+0.27
+0.65
+0.19
+1.31
+6.57
+1.30
+0.00
+
+
+Juan Mejia
+Juan MejiaNo new player Notes
+COL - RP
+FA
+1.0
+573
+320
+0%
+1.0
+0.04
+0.04
+0.00
+0.00
+0.02
+0.45
+1.24
+0.22
+1.58
+3.96
+1.26
+0.00
+
+
+Drew Rasmussen
+Drew RasmussenPlayer Note
+TB - SP
+FA
+1.0
+166
+321
+85%
+4.2
+0.32
+0.16
+0.00
+0.00
+0.00
+1.19
+4.10
+0.00
+5.94
+2.76
+1.02
+0.26
+
+
+Lou Trivino
+Lou TrivinoNANo new player Notes
+PHI - RP
+FA
+1.0
+646
+322
+0%
+1.0
+0.06
+0.04
+0.00
+0.00
+0.00
+0.38
+0.79
+0.11
+1.51
+3.97
+1.34
+0.00
+
+
+Cade Horton
+Cade HortonPlayer Note
+CHC - SP
+FA
+1.0
+167
+323
+86%
+5.0
+0.48
+0.17
+0.00
+0.00
+0.00
+1.43
+4.22
+0.00
+6.26
+2.67
+1.08
+0.22
+
+
+Tyler Gilbert
+Tyler GilbertNo new player Notes
+CWS - SP,RP
+FA
+1.0
+514
+324
+0%
+1.0
+0.09
+0.04
+0.00
+0.00
+0.02
+0.52
+1.07
+0.11
+1.43
+3.88
+1.25
+0.00

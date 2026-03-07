@@ -9,7 +9,14 @@ npm run dev
 ```
 
 The app loads player data from `public/data/players.json`.
+Pitcher data is loaded from `public/data/pitchers.json`.
 Consensus rankings are loaded from `public/data/consensus_top200.tsv`.
+
+Player pool modes:
+
+- `Batters` (default)
+- `Pitchers`
+- `Both` (combined pool with recomputed z-scores)
 
 ## Build
 

@@ -1,0 +1,155 @@
+[R]
+ 1. Shohei Ohtani (Batter) | LAD | UTIL | 123.000
+ 2. Aaron Judge | NYY | OF | 110.000
+ 3. Juan Soto | NYM | OF | 108.000
+ 4. Ronald Acuña Jr. | ATL | OF | 106.000
+ 5. Bobby Witt Jr. | KC | SS | 101.000
+ 6. Corbin Carroll | AZ | OF | 98.800
+ 7. Kyle Schwarber | PHI | OF | 98.400
+ 8. Fernando Tatis Jr. | SD | OF | 96.200
+ 9. Gunnar Henderson | BAL | SS | 95.900
+10. Vladimir Guerrero Jr. | TOR | 1B | 94.400
+
+[H]
+ 1. Bobby Witt Jr. | KC | SS | 174.000
+ 2. Vladimir Guerrero Jr. | TOR | 1B | 170.000
+ 3. Luis Arraez | SF | 1B,2B | 167.000
+ 4. Shohei Ohtani (Batter) | LAD | UTIL | 160.000
+ 5. Julio Rodríguez | SEA | OF | 160.000
+ 6. Trea Turner | PHI | SS | 160.000
+ 7. Yandy Díaz | TB | 1B | 158.000
+ 8. Bo Bichette | NYM | SS | 158.000
+ 9. José Ramírez | CLE | 3B | 157.000
+10. Gunnar Henderson | BAL | SS | 157.000
+
+[2B]
+ 1. Bobby Witt Jr. | KC | SS | 36.700
+ 2. Jarren Duran | BOS | OF | 35.100
+ 3. Freddie Freeman | LAD | 1B | 33.800
+ 4. Ezequiel Tovar | COL | SS | 32.900
+ 5. Gunnar Henderson | BAL | SS | 32.800
+ 6. Jackson Chourio | MIL | OF | 32.600
+ 7. Roman Anthony | BOS | OF | 32.500
+ 8. José Ramírez | CLE | 3B | 32.400
+ 9. Vinnie Pasquantino | KC | 1B | 32.400
+10. Jackson Merrill | SD | OF | 32.100
+
+[3B]
+ 1. Corbin Carroll | AZ | OF | 8.000
+ 2. Daylen Lile | WSH | OF | 5.800
+ 3. Bobby Witt Jr. | KC | SS | 5.200
+ 4. Jarren Duran | BOS | OF | 5.000
+ 5. Pete Crow-Armstrong | CHC | OF | 4.500
+ 6. Shohei Ohtani (Batter) | LAD | UTIL | 4.400
+ 7. Elly De La Cruz | CIN | SS | 4.400
+ 8. Zach McKinstry | DET | 3B,SS,OF | 4.400
+ 9. Jung Hoo Lee | SF | OF | 4.300
+10. Parker Meadows | DET | OF | 4.300
+
+[HR]
+ 1. Aaron Judge | NYY | OF | 49.900
+ 2. Shohei Ohtani (Batter) | LAD | UTIL | 49.000
+ 3. Kyle Schwarber | PHI | OF | 43.400
+ 4. Cal Raleigh | SEA | C | 40.400
+ 5. Juan Soto | NYM | OF | 38.800
+ 6. Pete Alonso | BAL | 1B | 37.300
+ 7. Nick Kurtz | ATH | 1B | 36.900
+ 8. Junior Caminero | TB | 3B | 35.300
+ 9. Eugenio Suárez | CIN | 3B | 34.500
+10. Brent Rooker | ATH | OF | 32.500
+
+[RBI]
+ 1. Aaron Judge | NYY | OF | 115.000
+ 2. Shohei Ohtani (Batter) | LAD | UTIL | 110.000
+ 3. Kyle Schwarber | PHI | OF | 105.000
+ 4. Pete Alonso | BAL | 1B | 102.000
+ 5. Cal Raleigh | SEA | C | 100.000
+ 6. Junior Caminero | TB | 3B | 99.400
+ 7. Juan Soto | NYM | OF | 98.900
+ 8. Vladimir Guerrero Jr. | TOR | 1B | 95.900
+ 9. Brent Rooker | ATH | OF | 93.600
+10. Bobby Witt Jr. | KC | SS | 93.000
+
+[SB]
+ 1. Elly De La Cruz | CIN | SS | 41.300
+ 2. Chandler Simpson | TB | OF | 37.000
+ 3. Bobby Witt Jr. | KC | SS | 35.100
+ 4. Corbin Carroll | AZ | OF | 34.200
+ 5. Pete Crow-Armstrong | CHC | OF | 34.000
+ 6. José Ramírez | CLE | 3B | 33.800
+ 7. José Caballero | NYY | 2B,3B,SS,OF | 33.000
+ 8. Jazz Chisholm Jr. | NYY | 2B,3B | 31.500
+ 9. Brice Turang | MIL | 2B | 31.300
+10. Victor Scott II | STL | OF | 30.900
+
+[BB]
+ 1. Juan Soto | NYM | OF | 115.000
+ 2. Aaron Judge | NYY | OF | 108.000
+ 3. Kyle Schwarber | PHI | OF | 94.700
+ 4. Shohei Ohtani (Batter) | LAD | UTIL | 87.800
+ 5. Ronald Acuña Jr. | ATL | OF | 82.100
+ 6. Kyle Tucker | LAD | OF | 80.000
+ 7. Matt Olson | ATL | 1B | 78.200
+ 8. Rafael Devers | SF | 1B | 77.900
+ 9. Ian Happ | CHC | OF | 77.000
+10. Geraldo Perdomo | AZ | SS | 72.700
+
+[HBP]
+ 1. Randy Arozarena | SEA | OF | 17.100
+ 2. Zach Neto | LAA | SS | 15.000
+ 3. Willson Contreras | BOS | 1B | 14.700
+ 4. Caleb Durbin | BOS | 2B,3B | 14.700
+ 5. Pete Alonso | BAL | 1B | 12.600
+ 6. Jonathan India | KC | 2B,3B,OF | 12.200
+ 7. TJ Friedl | CIN | OF | 12.000
+ 8. Andrés Giménez | TOR | 2B,SS | 11.900
+ 9. CJ Abrams | WSH | SS | 11.300
+10. Jake Cronenworth | SD | 1B,2B,SS | 11.300
+
+[K]
+ 1. Luis Arraez | SF | 1B,2B | 26.200
+ 2. Kevin McGonigle | DET | SS | 46.200
+ 3. Chandler Simpson | TB | OF | 49.200
+ 4. Tyler Freeman | COL | 2B,OF | 49.500
+ 5. Lourdes Gurriel Jr. | AZ | OF | 53.600
+ 6. Miguel Andujar | SD | 3B,OF | 57.000
+ 7. Steven Kwan | CLE | OF | 58.800
+ 8. Ernie Clement | TOR | 1B,2B,3B,SS | 58.800
+ 9. Caleb Durbin | BOS | 2B,3B | 59.500
+10. Nico Hoerner | CHC | 2B | 60.000
+
+[TB]
+ 1. Shohei Ohtani (Batter) | LAD | UTIL | 344.000
+ 2. Aaron Judge | NYY | OF | 330.000
+ 3. Bobby Witt Jr. | KC | SS | 307.000
+ 4. Vladimir Guerrero Jr. | TOR | 1B | 291.000
+ 5. Juan Soto | NYM | OF | 290.000
+ 6. Pete Alonso | BAL | 1B | 288.000
+ 7. Junior Caminero | TB | 3B | 284.000
+ 8. Kyle Schwarber | PHI | OF | 280.000
+ 9. Brent Rooker | ATH | OF | 280.000
+10. Julio Rodríguez | SEA | OF | 279.000
+
+[AVG]
+ 1. Shohei Ohtani (Batter) | LAD | UTIL | 0.308
+ 2. Aaron Judge | NYY | OF | 0.299
+ 3. Luis Arraez | SF | 1B,2B | 0.298
+ 4. Vladimir Guerrero Jr. | TOR | 1B | 0.295
+ 5. Bobby Witt Jr. | KC | SS | 0.292
+ 6. Yordan Alvarez | HOU | OF | 0.290
+ 7. Yandy Díaz | TB | 1B | 0.290
+ 8. Jacob Wilson | ATH | SS | 0.286
+ 9. Bo Bichette | NYM | SS | 0.283
+10. Chandler Simpson | TB | OF | 0.282
+
+[SLG]
+ 1. Shohei Ohtani (Batter) | LAD | UTIL | 0.662
+ 2. Aaron Judge | NYY | OF | 0.646
+ 3. Yordan Alvarez | HOU | OF | 0.542
+ 4. Juan Soto | NYM | OF | 0.540
+ 5. Nick Kurtz | ATH | 1B | 0.537
+ 6. Bobby Witt Jr. | KC | SS | 0.515
+ 7. Kyle Schwarber | PHI | OF | 0.514
+ 8. Corey Seager | TEX | SS | 0.513
+ 9. Vladimir Guerrero Jr. | TOR | 1B | 0.506
+10. Ketel Marte | AZ | 2B | 0.504

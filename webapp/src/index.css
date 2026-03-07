@@ -238,10 +238,47 @@ body {
     color: var(--text-soft);
   }
 
+  .contrib-positive-1 {
+    border-color: #6acb86;
+    background: #b8f4c7;
+    color: #173223;
+  }
+
+  .contrib-positive-2 {
+    border-color: #31c65d;
+    background: #84efa3;
+    color: #122c1d;
+  }
+
+  .contrib-positive-3 {
+    border-color: #07b93f;
+    background: #39ff78;
+    color: #0f291a;
+  }
+
+  .contrib-negative-1 {
+    border-color: #d58899;
+    background: #f8c3cf;
+    color: #3f1a23;
+  }
+
+  .contrib-negative-2 {
+    border-color: #d85d74;
+    background: #ff97aa;
+    color: #421520;
+  }
+
+  .contrib-negative-3 {
+    border-color: #cc1f4b;
+    background: #ff4b75;
+    color: #3b101d;
+  }
+
+  /* Backward compatibility with older contribution class names. */
   .contrib-positive-low {
-    border-color: #3fcd68;
-    background: #88f6a6;
-    color: #163322;
+    border-color: #31c65d;
+    background: #84efa3;
+    color: #122c1d;
   }
 
   .contrib-positive-high {

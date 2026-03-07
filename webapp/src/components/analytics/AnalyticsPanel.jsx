@@ -1,4 +1,13 @@
 import { useMemo, useState } from "react";
+import {
+  Bar,
+  BarChart,
+  CartesianGrid,
+  ResponsiveContainer,
+  Tooltip,
+  XAxis,
+  YAxis,
+} from "recharts";
 import CategorySelector from "./CategorySelector";
 import DistributionChart from "./DistributionChart";
 import PercentileIndicator from "./PercentileIndicator";
@@ -8,16 +17,9 @@ import {
   calculateSummaryStats,
   computeHistogram,
 } from "../../utils/analytics";
-import { CATEGORIES } from "../../utils/scoring";
+import { formatCategoryLabel } from "../../utils/scoring";
 
 const OVERALL_METRIC = "overall_score";
-const METRIC_OPTIONS = [
-  { value: OVERALL_METRIC, label: "Overall Score" },
-  ...CATEGORIES.map((category) => ({
-    value: category,
-    label: `${category} Z-Score`,
-  })),
-];
 
 function getMetricValue(player, metric) {
   if (!player) {
@@ -33,12 +35,61 @@ function getMetricLabel(metric) {
   if (metric === OVERALL_METRIC) {
     return "Overall Score";
   }
-  return `${metric} Z-Score`;
+  return `${formatCategoryLabel(metric)} Z-Score`;
 }
 
-export default function AnalyticsPanel({ players, selectedPlayer }) {
+function resolvePitcherBucket(positionText) {
+  const tokens = String(positionText ?? "")
+    .toUpperCase()
+    .split(/[\/,]/)
+    .map((token) => token.trim())
+    .filter(Boolean);
+
+  if (tokens.includes("RP")) {
+    return "RP";
+  }
+  if (tokens.includes("SP")) {
+    return "SP";
+  }
+  return null;
+}
+
+function PositionTooltip({ active, payload }) {
+  if (!active || !payload?.length) {
+    return null;
+  }
+  const row = payload[0]?.payload;
+  if (!row) {
+    return null;
+  }
+  return (
+    <div className="analytics-tooltip rounded-md p-2 text-xs">
+      <div className="font-semibold text-strong">{row.position}</div>
+      <div className="mt-1 text-main">Average score: {row.average.toFixed(2)}</div>
+      <div className="text-main">Players: {row.count}</div>
+    </div>
+  );
+}
+
+export default function AnalyticsPanel({
+  players,
+  selectedPlayer,
+  categories,
+  showPositionComparison = false,
+}) {
   const [metric, setMetric] = useState(OVERALL_METRIC);
   const [isOpen, setIsOpen] = useState(true);
+
+  const metricOptions = useMemo(
+    () => [
+      { value: OVERALL_METRIC, label: "Overall Score" },
+      ...(categories ?? []).map((category) => ({
+        value: category,
+        label: `${formatCategoryLabel(category)} Z-Score`,
+      })),
+    ],
+    [categories]
+  );
 
   const metricValues = useMemo(
     () =>
@@ -61,10 +112,43 @@ export default function AnalyticsPanel({ players, selectedPlayer }) {
     [metricValues, selectedMetricValue]
   );
 
+  const positionRows = useMemo(() => {
+    if (!showPositionComparison) {
+      return [];
+    }
+
+    const buckets = { SP: [], RP: [] };
+    players.forEach((player) => {
+      const bucket = resolvePitcherBucket(player?.position);
+      if (!bucket) {
+        return;
+      }
+      const score = Number(player?.overall_score);
+      if (Number.isFinite(score)) {
+        buckets[bucket].push(score);
+      }
+    });
+
+    return ["SP", "RP"]
+      .map((position) => {
+        const scores = buckets[position];
+        if (!scores.length) {
+          return null;
+        }
+        const average = scores.reduce((sum, score) => sum + score, 0) / scores.length;
+        return {
+          position,
+          count: scores.length,
+          average,
+        };
+      })
+      .filter(Boolean);
+  }, [players, showPositionComparison]);
+
   const isOverallView = metric === OVERALL_METRIC;
   const title = isOverallView
     ? "Overall Score Distribution"
-    : `${metric} Category Z-Score Distribution`;
+    : `${formatCategoryLabel(metric)} Category Z-Score Distribution`;
   const metricLabel = getMetricLabel(metric);
 
   return (
@@ -76,7 +160,7 @@ export default function AnalyticsPanel({ players, selectedPlayer }) {
         </div>
         <div className="flex w-full flex-wrap items-center justify-end gap-2 sm:w-auto">
           {isOpen ? (
-            <CategorySelector value={metric} options={METRIC_OPTIONS} onChange={setMetric} />
+            <CategorySelector value={metric} options={metricOptions} onChange={setMetric} />
           ) : null}
           <button
             type="button"
@@ -107,6 +191,26 @@ export default function AnalyticsPanel({ players, selectedPlayer }) {
             <StatsSummary stats={summaryStats} metricLabel={metricLabel} />
             <PercentileIndicator playerName={selectedPlayer?.name} percentile={percentileRank} />
           </div>
+
+          {positionRows.length ? (
+            <section className="analytics-card p-4 lg:col-span-2">
+              <h3 className="text-base font-semibold text-strong">SP vs RP Score Comparison</h3>
+              <p className="mt-1 text-xs text-soft">
+                Average overall score and player count by pitcher role.
+              </p>
+              <div className="mt-3 h-44 w-full">
+                <ResponsiveContainer width="100%" height="100%">
+                  <BarChart data={positionRows} margin={{ top: 8, right: 12, left: 0, bottom: 8 }}>
+                    <CartesianGrid strokeDasharray="3 3" stroke="var(--analytics-grid)" />
+                    <XAxis dataKey="position" stroke="var(--analytics-axis)" />
+                    <YAxis stroke="var(--analytics-axis)" />
+                    <Tooltip content={<PositionTooltip />} />
+                    <Bar dataKey="average" fill="var(--analytics-accent)" radius={[4, 4, 0, 0]} />
+                  </BarChart>
+                </ResponsiveContainer>
+              </div>
+            </section>
+          ) : null}
         </div>
       ) : (
         <p className="mt-3 text-sm text-soft">
